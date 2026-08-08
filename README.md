@@ -22,7 +22,7 @@
 -  個人でサーバーホスティングサービスを運営しています
 -  サービスのことでも技術のことでも、Discord で気軽に声をかけてください
 
-### 使っている技術
+### 一応書けるコード（ゴミコードも含む）
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -32,7 +32,7 @@
 
 ##  運営サービス
 
-### 🛡 AFK Network — 月額 40円 から借りられるサーバーサービス
+###  AFK Network — 月額 40円 から借りられるサーバーサービス
 
 「サーバーを立ててみたいけど、お金はかけられない」そんな人のためのホスティングサービスです。
 **月額最低 40 円**から、小さく始められます。
