@@ -72,5 +72,5 @@
 - MAIL admin@minecrafts.jp
 
 <p align="center">
-  <sub>お仕事・コラボ・質問、なんでも歓迎です！</sub>
+  <sub>なんでも歓迎です！</sub>
 </p>
