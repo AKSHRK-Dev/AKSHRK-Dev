@@ -1,11 +1,7 @@
-<p align="center">
-  <a href="https://afknw.com"><img src="https://afknw.com/uploads/afk.png" alt="AFK Network" width="440"></a>
-</p>
-
 <h1 align="center">こんにちは、AKSHRK です </h1>
 
 <p align="center">
-  駆け出しの Developer / サーバーホスティング <b>Ashika Network</b> と Minecraft サーバー掲載サイト <b>SABALISU</b> を運営しています。
+  駆け出しの Developer / サーバーホスティング <b>ASHIKA Network</b> と Minecraft サーバー掲載サイト <b>SABALISU</b> を運営しています。
 </p>
 
 <p align="center">
