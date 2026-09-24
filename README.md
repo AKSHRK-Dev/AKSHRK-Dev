@@ -5,7 +5,7 @@
 <h1 align="center">こんにちは、AKSHRK です </h1>
 
 <p align="center">
-  駆け出しの Developer / サーバーホスティング <b>AFK Network</b> と Minecraft サーバー掲載サイト <b>SABALISU</b> を運営しています。
+  駆け出しの Developer / サーバーホスティング <b>Ashika Network</b> と Minecraft サーバー掲載サイト <b>SABALISU</b> を運営しています。
 </p>
 
 <p align="center">
@@ -32,15 +32,15 @@
 
 ##  運営サービス
 
-###  AFK Network — 月額 40円 から借りられるサーバーサービス
+###  ASHIKA Network — 月額 30円 から借りられるサーバーサービス
 
 「サーバーを立ててみたいけど、お金はかけられない」そんな人のためのホスティングサービスです。
-**月額最低 40 円**から、小さく始められます。
+**月額最低 30 円**から、小さく始められます。
 
 | | |
 |---|---|
-|  ホームページ | https://afknw.com |
-|  Discord | https://discord.gg/q8TbzdRfsV |
+|  ホームページ | https://www.ashikanw.con |
+|  Discord | https://link.ashikanw.com/discord |
 
 <br>
 
