@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://afknw.com"><img src="https://img.shields.io/badge/AFK%20Network-afknw.com-E63E3E?style=for-the-badge" alt="AFK Network"></a>
+  <a href="https://ashikanw.com"><img src="https://img.shields.io/badge/AFK%20Network-afknw.com-E63E3E?style=for-the-badge" alt="ASHIKA Network"></a>
   <a href="https://minecrafts.jp"><img src="https://img.shields.io/badge/SABALISU-minecrafts.jp-E63E3E?style=for-the-badge" alt="SABALISU"></a>
 </p>
 
