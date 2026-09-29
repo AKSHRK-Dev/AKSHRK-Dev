@@ -1,7 +1,9 @@
-<h1 align="center">こんにちは、AKSHRK です </h1>
+<p align="center"><b>English</b> · <a href="README.ja.md">日本語</a></p>
+
+<h1 align="center">Hi, I'm AKSHRK </h1>
 
 <p align="center">
-  駆け出しの Developer / サーバーホスティング <b>ASHIKA Network</b> と Minecraft サーバー掲載サイト <b>SABALISU</b> を運営しています。
+  A beginner developer. I run the server hosting service <b>ASHIKA Network</b> and the Minecraft server list <b>SABALISU</b>.
 </p>
 
 <p align="center">
@@ -13,12 +15,12 @@
 
 ##  About Me
 
--  まだ駆け出しですが、毎日コードを書いて成長中です
--  書ける言語は **Python** / **Node.js** / **C#** の3つ
--  個人でサーバーホスティングサービスを運営しています
--  サービスのことでも技術のことでも、Discord で気軽に声をかけてください
+-  I'm still new to this, but I write code every day and keep getting better
+-  I write **Python**, **Node.js** and **C#**
+-  I run my own server hosting service
+-  Questions about my services or about tech are welcome: just say hi on Discord
 
-### 一応書けるコード（ゴミコードも含む）
+### What I can write (messy code included)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -26,28 +28,28 @@
 
 ---
 
-##  運営サービス
+##  My Services
 
-###  ASHIKA Network — 月額 30円 から借りられるサーバーサービス
+###  ASHIKA Network: servers from 30 yen a month
 
-「サーバーを立ててみたいけど、お金はかけられない」そんな人のためのホスティングサービスです。
-**月額最低 30 円**から、小さく始められます。
+A hosting service for people who want to run a server but can't spend much on it.
+Start small, from **as little as 30 yen a month**.
 
 | | |
 |---|---|
-|  ホームページ | https://www.ashikanw.con |
+|  Website | https://www.ashikanw.com |
 |  Discord | https://link.ashikanw.com/discord |
 
 <br>
 
-###  SABALISU — Minecraft サーバー掲載サイト
+###  SABALISU: a Minecraft server list
 
-自分の Minecraft サーバーを掲載して、遊んでくれる人を集められるサイトです。
-サーバーを探している人も、宣伝したい人も、どちらでも使えます。
+List your Minecraft server and find people to play on it.
+Useful both for players looking for a server and for owners who want to promote theirs.
 
 | | |
 |---|---|
-|  ホームページ | https://minecrafts.jp |
+|  Website | https://minecrafts.jp |
 |  Discord | https://discord.gg/KucQxEsJtr |
 
 ---
@@ -63,10 +65,10 @@
 
 ##  Contact
 
-- AFK Network の Discord: https://discord.gg/q8TbzdRfsV
-- SABALISU の Discord: https://discord.gg/KucQxEsJtr
-- MAIL admin@minecrafts.jp
+- AFK Network Discord: https://discord.gg/q8TbzdRfsV
+- SABALISU Discord: https://discord.gg/KucQxEsJtr
+- Mail: admin@minecrafts.jp
 
 <p align="center">
-  <sub>なんでも歓迎です！</sub>
+  <sub>Anything is welcome!</sub>
 </p>
