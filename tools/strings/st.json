@@ -1,0 +1,34 @@
+{
+  "languages": "Dipuo tsohle ({n})",
+  "hi": "Dumela, ke nna AKSHRK",
+  "intro": "Ke moetsi wa mananeo ya qalang. Ke tsamaisa tshebeletso ya ho amohela diseva <b>ASHIKA Network</b> le lenane la diseva tsa Minecraft <b>SABALISU</b>, mme ke etsa lenaneo la seva ya Minecraft <b>Storia</b>.",
+  "about_t": "Ka nna",
+  "about": [
+    "Ke sa ntse ke le motjha, empa ke ngola khoutu letsatsi le leng le le leng mme ke a ntlafala",
+    "Ke ngola **Python**, **Node.js** le **C#**",
+    "Ke tsamaisa tshebeletso ya ka ya ho amohela diseva",
+    "Dipotso ka ditshebeletso tsa ka kapa theknoloji di a amohelwa: ntumedise feela ho Discord"
+  ],
+  "can_write": "Seo ke kgonang ho se ngola (ho kenyeletsa khoutu e hlakahlakaneng)",
+  "services_t": "Ditshebeletso tsa ka",
+  "anw_t": "ASHIKA Network: diseva ho qala ka yen tse 30 ka kgwedi",
+  "anw_p": "Tshebeletso ya ho amohela bakeng sa ba batlang ho tsamaisa seva empa ba sa kgone ho sebedisa tjhelete e ngata.\nQala ka bonyane, **ho qala ka yen tse 30 feela ka kgwedi**.",
+  "website": "Websaete",
+  "sab_t": "SABALISU: lenane la diseva tsa Minecraft",
+  "sab_p": "Kenya seva ya hao ya Minecraft lenaneng mme o fumane batho ba tla bapala ho yona.\nE thusa dibapadi tse batlang seva le beng ba batlang ho tsebahatsa ya bona.",
+  "storia_t": "Storia: lenaneo la seva bakeng sa diseva tse kgolo tsa Minecraft",
+  "storia_p": "Fork ya mohlodi o bulehileng ya Folia bakeng sa Minecraft 26.2. Ka **Storia Cluster**, lefatshe le le leng le ka sebetsa diseveng tse mmalwa ka nako e le nngwe, mme dibapadi di falla pakeng tsa tsona ntle le skrine ya ho kenya.",
+  "storia_points": [
+    "**Storia Cluster**: lefatshe le le leng le arolelanwang ke diseva tse mmalwa, ka dikgokahano tse patilweng",
+    "**Relay ya polokelo**: relay ya bobedi e boloka kopi e phelang mme e nka sebaka sa ya pele ha e lahlehile",
+    "**Sebopeho sa Linear**: lefatshe le nka hoo e ka bang halofo ya sebaka sa disk",
+    "**Lefatshe ho RAM**, **Tick Guard**, API ya plugin bakeng sa data e arolelanwang, le ho feta"
+  ],
+  "source": "Khoutu ya mohlodi",
+  "stats_t": "Dipalopalo tsa GitHub",
+  "contact_t": "Ikopanye",
+  "contact_afk": "Discord ya AFK Network",
+  "contact_sab": "Discord ya SABALISU",
+  "mail": "Imeile",
+  "welcome": "Ntho e nngwe le e nngwe e a amohelwa!"
+}

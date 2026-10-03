@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Chamoru</b> · <a href="../LANGUAGES.md">Todu i lengguahi (106)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Chamoru</b> · <a href="../LANGUAGES.md">Todu i lengguahi (107)</a></p>
 
 <h1 align="center">Håfa adai, guåhu si AKSHRK</h1>
 
