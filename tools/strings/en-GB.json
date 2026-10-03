@@ -1,0 +1,34 @@
+{
+  "languages": "All {n} languages",
+  "hi": "Hi, I'm AKSHRK",
+  "intro": "A beginner developer. I run the server hosting service <b>ASHIKA Network</b> and the Minecraft server list <b>SABALISU</b>, and develop the Minecraft server software <b>Storia</b>.",
+  "about_t": "About Me",
+  "about": [
+    "I'm still new to this, but I write code every day and I'm getting better all the time",
+    "I write **Python**, **Node.js** and **C#**",
+    "I run my own server hosting service",
+    "Questions about my services or about tech are very welcome: just say hello on Discord"
+  ],
+  "can_write": "What I can write (messy code included)",
+  "services_t": "My Services",
+  "anw_t": "ASHIKA Network: servers from 30 yen a month",
+  "anw_p": "A hosting service for people who'd like to run a server but can't spend much on one.\nStart small, from **as little as 30 yen a month**.",
+  "website": "Website",
+  "sab_t": "SABALISU: a Minecraft server list",
+  "sab_p": "List your Minecraft server and find people to play on it.\nHandy both for players looking for a server and for owners who want to promote theirs.",
+  "storia_t": "Storia: server software for large Minecraft servers",
+  "storia_p": "An open-source fork of Folia for Minecraft 26.2. With **Storia Cluster**, one world can run on several servers at once, and players move between them without a loading screen.",
+  "storia_points": [
+    "**Storia Cluster**: one world shared by several servers, with encrypted links between them",
+    "**Standby relay**: a second relay keeps a live copy and takes over if the first one is lost",
+    "**Linear region format**: worlds take up about half the disk space",
+    "**RAM world**, **Tick Guard**, a plugin API for shared data, and more besides"
+  ],
+  "source": "Source code",
+  "stats_t": "GitHub Stats",
+  "contact_t": "Contact",
+  "contact_afk": "AFK Network Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "Mail",
+  "welcome": "Anything and everything is welcome!"
+}

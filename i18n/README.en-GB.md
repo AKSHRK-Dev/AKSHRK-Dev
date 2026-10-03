@@ -1,9 +1,9 @@
-<p align="center"><b>English</b> · <a href="README.ja.md">日本語</a> · <a href="LANGUAGES.md">All 55 languages</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>English (UK)</b> · <a href="../LANGUAGES.md">All 55 languages</a></p>
 
 <h1 align="center">Hi, I'm AKSHRK</h1>
 
 <p align="center">
-  A beginner developer. I run the server hosting service <b>ASHIKA Network</b> and the Minecraft server list <b>SABALISU</b>, and build the Minecraft server software <b>Storia</b>.
+  A beginner developer. I run the server hosting service <b>ASHIKA Network</b> and the Minecraft server list <b>SABALISU</b>, and develop the Minecraft server software <b>Storia</b>.
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ## About Me
 
-- I'm still new to this, but I write code every day and keep getting better
+- I'm still new to this, but I write code every day and I'm getting better all the time
 - I write **Python**, **Node.js** and **C#**
 - I run my own server hosting service
-- Questions about my services or about tech are welcome: just say hi on Discord
+- Questions about my services or about tech are very welcome: just say hello on Discord
 
 ### What I can write (messy code included)
 
@@ -33,7 +33,7 @@
 
 ### ASHIKA Network: servers from 30 yen a month
 
-A hosting service for people who want to run a server but can't spend much on it.
+A hosting service for people who'd like to run a server but can't spend much on one.
 Start small, from **as little as 30 yen a month**.
 
 | | |
@@ -46,7 +46,7 @@ Start small, from **as little as 30 yen a month**.
 ### SABALISU: a Minecraft server list
 
 List your Minecraft server and find people to play on it.
-Useful both for players looking for a server and for owners who want to promote theirs.
+Handy both for players looking for a server and for owners who want to promote theirs.
 
 | | |
 |---|---|
@@ -61,8 +61,8 @@ An open-source fork of Folia for Minecraft 26.2. With **Storia Cluster**, one wo
 
 - **Storia Cluster**: one world shared by several servers, with encrypted links between them
 - **Standby relay**: a second relay keeps a live copy and takes over if the first one is lost
-- **Linear region format**: worlds take about half the disk space
-- **RAM world**, **Tick Guard**, a plugin API for shared data, and more
+- **Linear region format**: worlds take up about half the disk space
+- **RAM world**, **Tick Guard**, a plugin API for shared data, and more besides
 
 | | |
 |---|---|
@@ -92,5 +92,5 @@ An open-source fork of Folia for Minecraft 26.2. With **Storia Cluster**, one wo
 - Mail: admin@minecrafts.jp
 
 <p align="center">
-  <sub>Anything is welcome!</sub>
+  <sub>Anything and everything is welcome!</sub>
 </p>
