@@ -1,0 +1,34 @@
+{
+  "languages": "Gana katoa ({n})",
+  "hi": "Talofa, ko au ko AKSHRK",
+  "intro": "Se tino fou e fai polokalame. E fakatautau ne au te galuega talimalo server <b>ASHIKA Network</b> mo te lisi o server Minecraft <b>SABALISU</b>, kae e fai ne au te polokalame server mō Minecraft <b>Storia</b>.",
+  "about_t": "E uiga ki a au",
+  "about": [
+    "E fou eiloa au, kae e tusi ne au a code i aso katoa kae e fakalei atu",
+    "E tusi ne au a **Python**, **Node.js** mo **C#**",
+    "E fakatautau ne au taku galuega talimalo server",
+    "E fiafia au ki fesili e uiga ki aku galuega io me ko te technology: fai mai fua te talofa i luga i te Discord"
+  ],
+  "can_write": "Mea e mafai ne au o tusi (fakatasi mo code fakavalevale)",
+  "services_t": "Aku galuega",
+  "anw_t": "ASHIKA Network: server mai te 30 yen i te masina",
+  "anw_p": "Se galuega talimalo mō tino e manako o fakagalue se server kae se mafai o fakaaogā se tupe e uke.\nKamata mai te mea foliki, **mai te 30 yen fua i te masina**.",
+  "website": "Website",
+  "sab_t": "SABALISU: se lisi o server Minecraft",
+  "sab_p": "Tuku tau server Minecraft ki te lisi kae sala ne tino ke tafafaga i ei.\nE aoga ki tino tafafaga e sala ki se server mo tino e pule e manako o fakaasi atu olotou server.",
+  "storia_t": "Storia: se polokalame server mō server Minecraft lasi",
+  "storia_p": "Se fork open-source o Folia mō Minecraft 26.2. Mo te **Storia Cluster**, e mafai ne se lalolagi e tasi o galue i luga i ne server e uke i te taimi e tasi, kae e fesuiai a tino tafafaga i olotou vaegā e aunoa mo se loading screen.",
+  "storia_points": [
+    "**Storia Cluster**: se lalolagi e tasi e fakasoa ne server e uke, mo fesokotakiga ne fakafuna",
+    "**Relay fakatalitali**: se relay lua e tausi ne ia se kopi kae ka sui ne ia te relay muamua māfai e galo",
+    "**Linear format**: e fakaaogā ne te lalolagi te ‘afa o te koga i te disk",
+    "**Lalolagi RAM**, **Tick Guard**, se plugin API mō fakamatalaga fakasoa, mo nisi mea"
+  ],
+  "source": "Source code",
+  "stats_t": "GitHub Stats",
+  "contact_t": "Fesokotaki",
+  "contact_afk": "Discord o AFK Network",
+  "contact_sab": "Discord o SABALISU",
+  "mail": "Email",
+  "welcome": "E talia a mea katoa!"
+}
