@@ -1,0 +1,34 @@
+{
+  "languages": "Les {n} llengües",
+  "hi": "Hola, soc l'AKSHRK",
+  "intro": "Un desenvolupador principiant. Gestiono el servei d'allotjament de servidors <b>ASHIKA Network</b> i la llista de servidors de Minecraft <b>SABALISU</b>, i desenvolupo el programari de servidor per a Minecraft <b>Storia</b>.",
+  "about_t": "Sobre mi",
+  "about": [
+    "Encara soc novell, però escric codi cada dia i vaig millorant",
+    "Escric en **Python**, **Node.js** i **C#**",
+    "Gestiono el meu propi servei d'allotjament de servidors",
+    "Les preguntes sobre els meus serveis o sobre tecnologia són benvingudes: només cal que em saludis per Discord"
+  ],
+  "can_write": "El que sé escriure (codi desordenat inclòs)",
+  "services_t": "Els meus serveis",
+  "anw_t": "ASHIKA Network: servidors des de 30 iens al mes",
+  "anw_p": "Un servei d'allotjament per a qui vol tenir un servidor però no s'hi pot gastar gaire.\nComença de mica en mica, **des de només 30 iens al mes**.",
+  "website": "Lloc web",
+  "sab_t": "SABALISU: una llista de servidors de Minecraft",
+  "sab_p": "Publica el teu servidor de Minecraft i troba gent que hi jugui.\nÚtil tant per als jugadors que busquen servidor com per als propietaris que el volen donar a conèixer.",
+  "storia_t": "Storia: programari de servidor per a servidors grans de Minecraft",
+  "storia_p": "Un fork de codi obert de Folia per a Minecraft 26.2. Amb **Storia Cluster**, un mateix món pot funcionar en diversos servidors alhora, i els jugadors passen de l'un a l'altre sense pantalla de càrrega.",
+  "storia_points": [
+    "**Storia Cluster**: un món compartit per diversos servidors, amb connexions xifrades entre ells",
+    "**Relay de reserva**: un segon relay guarda una còpia en directe i pren el relleu si es perd el primer",
+    "**Format Linear**: els mons ocupen aproximadament la meitat d'espai al disc",
+    "**Món a la RAM**, **Tick Guard**, una API de connectors per a dades compartides, i més"
+  ],
+  "source": "Codi font",
+  "stats_t": "Estadístiques de GitHub",
+  "contact_t": "Contacte",
+  "contact_afk": "Discord d'AFK Network",
+  "contact_sab": "Discord de SABALISU",
+  "mail": "Correu",
+  "welcome": "Tot és benvingut!"
+}
