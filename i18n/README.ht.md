@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kreyòl ayisyen</b> · <a href="../LANGUAGES.md">Tout 97 lang yo</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kreyòl ayisyen</b> · <a href="../LANGUAGES.md">Tout 98 lang yo</a></p>
 
 <h1 align="center">Bonjou, mwen se AKSHRK</h1>
 

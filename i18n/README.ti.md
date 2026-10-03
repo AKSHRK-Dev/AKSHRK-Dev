@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>ትግርኛ</b> · <a href="../LANGUAGES.md">ኩሎም 97 ቋንቋታት</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>ትግርኛ</b> · <a href="../LANGUAGES.md">ኩሎም 98 ቋንቋታት</a></p>
 
 <h1 align="center">ሰላም፡ ኣነ AKSHRK እየ</h1>
 

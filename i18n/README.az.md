@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Azərbaycanca</b> · <a href="../LANGUAGES.md">Bütün 97 dil</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Azərbaycanca</b> · <a href="../LANGUAGES.md">Bütün 98 dil</a></p>
 
 <h1 align="center">Salam, mən AKSHRK</h1>
 

@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>አማርኛ</b> · <a href="../LANGUAGES.md">ሁሉም 97 ቋንቋዎች</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>አማርኛ</b> · <a href="../LANGUAGES.md">ሁሉም 98 ቋንቋዎች</a></p>
 
 <h1 align="center">ሰላም፣ እኔ AKSHRK ነኝ</h1>
 

@@ -2,7 +2,7 @@
 
 <h1 align="center">Languages / 言語一覧</h1>
 
-<p align="center">This profile is available in <b>97</b> languages. Pick yours below.<br>このプロフィールは <b>97</b> の言語で読めます。下から選んでください。</p>
+<p align="center">This profile is available in <b>98</b> languages. Pick yours below.<br>このプロフィールは <b>98</b> の言語で読めます。下から選んでください。</p>
 
 <p align="center"><img src="assets/continents.svg" width="820" alt="Languages per continent"></p>
 
@@ -194,7 +194,7 @@
 | [Reo Tahiti](i18n/README.ty.md) | Tahitian | タヒチ語 |
 | [Kajin M̧ajeļ](i18n/README.mh.md) | Marshallese | マーシャル語 |
 
-<h2 id="africa">Africa / アフリカ州 <sub>(10)</sub></h2>
+<h2 id="africa">Africa / アフリカ州 <sub>(11)</sub></h2>
 
 ### North Africa / 北アフリカ
 
@@ -230,6 +230,7 @@
 | [العربية](i18n/README.ar.md) | Arabic | アラビア語 |
 | [ትግርኛ](i18n/README.ti.md) | Tigrinya | ティグリニャ語 |
 | [አማርኛ](i18n/README.am.md) | Amharic | アムハラ語 |
+| [Kiswahili](i18n/README.sw.md) | Swahili | スワヒリ語 |
 | [English (UK)](i18n/README.en-GB.md) | English (UK) | 英語（英国式） |
 | [Português](i18n/README.pt.md) | Portuguese | ポルトガル語 |
 | [Français](i18n/README.fr.md) | French | フランス語 |

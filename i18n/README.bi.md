@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Bislama</b> · <a href="../LANGUAGES.md">Olgeta 97 lanwis</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Bislama</b> · <a href="../LANGUAGES.md">Olgeta 98 lanwis</a></p>
 
 <h1 align="center">Halo, mi AKSHRK</h1>
 
