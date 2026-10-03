@@ -1,0 +1,34 @@
+{
+  "languages": "Alla {n} språk",
+  "hi": "Hej, jag heter AKSHRK",
+  "intro": "En nybörjare inom utveckling. Jag driver hostingtjänsten <b>ASHIKA Network</b> och Minecraft-serverlistan <b>SABALISU</b>, och utvecklar Minecraft-servermjukvaran <b>Storia</b>.",
+  "about_t": "Om mig",
+  "about": [
+    "Jag är fortfarande ny, men jag skriver kod varje dag och blir hela tiden bättre",
+    "Jag skriver **Python**, **Node.js** och **C#**",
+    "Jag driver min egen tjänst för serverhosting",
+    "Frågor om mina tjänster eller om teknik är välkomna: säg bara hej på Discord"
+  ],
+  "can_write": "Det jag kan skriva (rörig kod inräknad)",
+  "services_t": "Mina tjänster",
+  "anw_t": "ASHIKA Network: servrar från 30 yen i månaden",
+  "anw_p": "En hostingtjänst för dig som vill köra en server men inte kan lägga mycket pengar på den.\nBörja smått, **från bara 30 yen i månaden**.",
+  "website": "Webbplats",
+  "sab_t": "SABALISU: en lista över Minecraft-servrar",
+  "sab_p": "Lägg upp din Minecraft-server och hitta folk som vill spela på den.\nPraktiskt både för spelare som letar efter en server och för ägare som vill marknadsföra sin.",
+  "storia_t": "Storia: servermjukvara för stora Minecraft-servrar",
+  "storia_p": "En fork av Folia med öppen källkod för Minecraft 26.2. Med **Storia Cluster** kan en värld köras på flera servrar samtidigt, och spelare flyttar mellan dem utan laddningsskärm.",
+  "storia_points": [
+    "**Storia Cluster**: en värld som delas av flera servrar, med krypterade förbindelser mellan dem",
+    "**Reserv-relay**: ett andra relay håller en levande kopia och tar över om det första går förlorat",
+    "**Linear-formatet**: världar tar ungefär hälften så mycket diskutrymme",
+    "**RAM-värld**, **Tick Guard**, ett plugin-API för delad data, och mer"
+  ],
+  "source": "Källkod",
+  "stats_t": "GitHub-statistik",
+  "contact_t": "Kontakt",
+  "contact_afk": "AFK Networks Discord",
+  "contact_sab": "SABALISU:s Discord",
+  "mail": "E-post",
+  "welcome": "Allt är välkommet!"
+}
