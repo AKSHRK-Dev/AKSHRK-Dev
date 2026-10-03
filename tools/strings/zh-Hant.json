@@ -1,0 +1,34 @@
+{
+  "languages": "全部 {n} 種語言",
+  "hi": "你好，我是 AKSHRK",
+  "intro": "一名新手開發者。我經營伺服器託管服務 <b>ASHIKA Network</b> 和 Minecraft 伺服器列表網站 <b>SABALISU</b>，並開發 Minecraft 伺服器軟體 <b>Storia</b>。",
+  "about_t": "關於我",
+  "about": [
+    "雖然還是新手，但我每天都在寫程式，持續進步中",
+    "我會寫 **Python**、**Node.js** 和 **C#**",
+    "我個人經營一個伺服器託管服務",
+    "不論是服務還是技術的問題，都歡迎在 Discord 上隨時找我"
+  ],
+  "can_write": "我會寫的語言（包含爛程式碼）",
+  "services_t": "經營的服務",
+  "anw_t": "ASHIKA Network：每月 30 日圓起的伺服器",
+  "anw_p": "為想架設伺服器、但又不想花太多錢的人所準備的託管服務。\n**每月最低 30 日圓**，可以從小規模開始。",
+  "website": "網站",
+  "sab_t": "SABALISU：Minecraft 伺服器列表",
+  "sab_p": "登錄你的 Minecraft 伺服器，招募一起玩的人。\n不論是在找伺服器的玩家，還是想宣傳伺服器的服主，都能使用。",
+  "storia_t": "Storia：為大型 Minecraft 伺服器打造的伺服器軟體",
+  "storia_p": "以 Folia 為基礎、支援 Minecraft 26.2 的開源伺服器。使用 **Storia Cluster**，一個世界可以由多台伺服器同時分擔運行，玩家在伺服器之間移動時不會出現載入畫面。",
+  "storia_points": [
+    "**Storia Cluster**：多台伺服器共用一個世界，伺服器之間的通訊皆經過加密",
+    "**備用 Relay**：第二台 Relay 即時保存副本，第一台故障時接手運作",
+    "**Linear 格式**：世界佔用的磁碟空間減少約一半",
+    "**RAM 世界**、**Tick Guard**、可共享資料的插件 API 等"
+  ],
+  "source": "原始碼",
+  "stats_t": "GitHub 統計",
+  "contact_t": "聯絡方式",
+  "contact_afk": "AFK Network 的 Discord",
+  "contact_sab": "SABALISU 的 Discord",
+  "mail": "信箱",
+  "welcome": "什麼都歡迎！"
+}
