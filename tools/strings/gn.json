@@ -1,0 +1,34 @@
+{
+  "languages": "Opaite ñeʼẽ ({n})",
+  "hi": "Mbaʼéichapa, che ha'e AKSHRK",
+  "intro": "Programador oñepyrũ ramóva. Che amboguata pe servicio hosting servidorpegua <b>ASHIKA Network</b> ha Minecraft servidor rysýi <b>SABALISU</b>, ha ajapo Minecraft servidor software <b>Storia</b>.",
+  "about_t": "Che rehegua",
+  "about": [
+    "Añepyrũ ramo gueteri, ha katu ahai código ára ha ára ha aiko porãve",
+    "Ahai **Python**, **Node.js** ha **C#**-pe",
+    "Amboguata che servicio hosting servidorpegua",
+    "Porandu che servicio térã tecnología rehegua ou porã: ere chéve mbaʼéichapa Discord-pe"
+  ],
+  "can_write": "Mbaʼe ikatúva ahai (código oñembyaíva avei)",
+  "services_t": "Che servicio",
+  "anw_t": "ASHIKA Network: servidor 30 yen-gui jasy ñavõ",
+  "anw_p": "Servicio hosting umi oipotávape guarã oguereko servidor ha ndaikatúi oipuru heta viru.\nEñepyrũ michĩmi, **30 yen-gui jasy ñavõ**.",
+  "website": "Ñanduti rendapy",
+  "sab_t": "SABALISU: Minecraft servidor rysýi",
+  "sab_p": "Emoĩ nde Minecraft servidor rysýipe ha ejuhu tapicha ohugáva hendive.\nIporã umi ñembosaraiháre ohekáva servidor ha umi jára oipotáva oikuaauka ijupeguáva.",
+  "storia_t": "Storia: servidor software Minecraft servidor tuichávape guarã",
+  "storia_p": "Software ijurujáva oñemopyendáva Folia-re Minecraft 26.2-pe guarã. **Storia Cluster** ndive, peteĩ yvy ikatu omba'apo heta servidor-pe peteĩ jave, ha umi ñembosaraiha ohasa ojuehe pantalla ñemyenyhẽ'ỹre.",
+  "storia_points": [
+    "**Storia Cluster**: peteĩ yvy heta servidor oipurúva, ojoaju ñemiháme",
+    "**Relay ñangarekoha**: relay mokõiha oñongatu kópia ha ombohasa tembiapo peteĩha okañýramo",
+    "**Formato Linear**: yvy oipuru disco pyrusu mbyte rupi",
+    "**Yvy RAM-pe**, **Tick Guard**, plugin API mbaʼekuaarã ñemoherakuãrã, ha hetave"
+  ],
+  "source": "Código ypykue",
+  "stats_t": "GitHub papapy",
+  "contact_t": "Eñemoñeʼẽ",
+  "contact_afk": "AFK Network Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "Correo",
+  "welcome": "Opa mbaʼe ou porã!"
+}

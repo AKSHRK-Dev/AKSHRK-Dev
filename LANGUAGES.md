@@ -2,7 +2,7 @@
 
 <h1 align="center">Languages / 言語一覧</h1>
 
-<p align="center">This profile is available in <b>76</b> languages. Pick yours below.<br>このプロフィールは <b>76</b> の言語で読めます。下から選んでください。</p>
+<p align="center">This profile is available in <b>77</b> languages. Pick yours below.<br>このプロフィールは <b>77</b> の言語で読めます。下から選んでください。</p>
 
 <p align="center"><img src="assets/continents.svg" width="820" alt="Languages per continent"></p>
 
@@ -130,7 +130,7 @@
 | [Crnogorski](i18n/README.cnr.md) | Montenegrin | モンテネグロ語 |
 | [Македонски](i18n/README.mk.md) | Macedonian | マケドニア語 |
 
-<h2 id="americas">Americas / アメリカ州 <sub>(7)</sub></h2>
+<h2 id="americas">Americas / アメリカ州 <sub>(8)</sub></h2>
 
 ### North America / 北アメリカ
 
@@ -162,6 +162,7 @@
 | [English (US)](README.md) | English (US) | 英語（米国式） |
 | [Español (Latinoamérica)](i18n/README.es-419.md) | Spanish (Latin America) | スペイン語（南米） |
 | [Português (Brasil)](i18n/README.pt-BR.md) | Portuguese (Brazil) | ポルトガル語（ブラジル） |
+| [Avañeʼẽ](i18n/README.gn.md) | Guarani | グアラニー語 |
 
 <h2 id="oceania">Oceania / オセアニア州 <sub>(2)</sub></h2>
 
