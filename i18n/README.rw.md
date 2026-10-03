@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Ikinyarwanda</b> · <a href="../LANGUAGES.md">Indimi zose (107)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Ikinyarwanda</b> · <a href="../LANGUAGES.md">Indimi zose (108)</a></p>
 
 <h1 align="center">Muraho, ndi AKSHRK</h1>
 

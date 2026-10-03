@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Shikomori</b> · <a href="../LANGUAGES.md">Ze lugha zendji (107)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Shikomori</b> · <a href="../LANGUAGES.md">Ze lugha zendji (108)</a></p>
 
 <h1 align="center">Bariza, mimi ndo AKSHRK</h1>
 

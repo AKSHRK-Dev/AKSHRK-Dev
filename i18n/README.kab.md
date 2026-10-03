@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Taqbaylit</b> · <a href="../LANGUAGES.md">Akk tutlayin (107)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Taqbaylit</b> · <a href="../LANGUAGES.md">Akk tutlayin (108)</a></p>
 
 <h1 align="center">Azul, nekk d AKSHRK</h1>
 

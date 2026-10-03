@@ -1,0 +1,34 @@
+{
+  "languages": "Tilwimi tonkhe ({n})",
+  "hi": "Sawubona, ngingu-AKSHRK",
+  "intro": "Ngingumakhi wetinhlelo losacala. Ngiphatsa lusito lwekugcina emaseva <b>ASHIKA Network</b> kanye neluhla lwemaseva aMinecraft <b>SABALISU</b>, futsi ngakha luhlelo lweseva yaMinecraft <b>Storia</b>.",
+  "about_t": "Ngami",
+  "about": [
+    "Ngisesemusha, kodvwa ngibhala ikhodi onkhe malanga futsi ngiyatfutfuka",
+    "Ngibhala **Python**, **Node.js** kanye ne-**C#**",
+    "Ngiphatsa lusito lwami lwekugcina emaseva",
+    "Imibuto ngetinsita tami nobe ngebuchwepheshe yemukelekile: vele ungibingelele ku-Discord"
+  ],
+  "can_write": "Loko lengingakubhala (kufaka ekhatsi ikhodi lengakahleleki)",
+  "services_t": "Tinsita tami",
+  "anw_t": "ASHIKA Network: emaseva kusukela ku-yen lengu-30 ngenyanga",
+  "anw_p": "Lusito lwekugcina labo labafuna kusebentisa iseva kodvwa labangakhoni kusebentisa imali lenyenti.\nCala kancane, **kusukela ku-yen lengu-30 kuphela ngenyanga**.",
+  "website": "Liwebhusayithi",
+  "sab_t": "SABALISU: luhla lwemaseva aMinecraft",
+  "sab_p": "Faka iseva yakho yaMinecraft eluhlwini bese utfola bantfu labatawudlala kuyo.\nKuyasita kubadlali labafuna iseva kanye nebanikati labafuna kwatisa leyabo.",
+  "storia_t": "Storia: luhlelo lweseva lwemaseva lamakhulu aMinecraft",
+  "storia_p": "I-fork yemtfombo levulekile ye-Folia ye-Minecraft 26.2. Nge-**Storia Cluster**, live linye lingasebenta ematseveni lamanyenti ngesikhatsi sinye, futsi badlali bayashintja emkhatsini wawo ngaphandle kwesikrini sekulayisha.",
+  "storia_points": [
+    "**Storia Cluster**: live linye lelabelwana ngemaseva lamanyenti, linetichumanisi letifihliwe",
+    "**Relay lelindzile**: relay lesibili ligcina likhophi lelisaphila futsi lingena esikhundleni salokucala uma lilahlekile",
+    "**Sakhiwo se-Linear**: live litsatsa cishe ingcenye yendzawo kudiski",
+    "**Live ku-RAM**, **Tick Guard**, i-API ye-plugin yemininingwane lelabelwanako, nalokunye"
+  ],
+  "source": "Ikhodi yemtfombo",
+  "stats_t": "Tibalo te-GitHub",
+  "contact_t": "Sitsintse",
+  "contact_afk": "I-Discord ye-AFK Network",
+  "contact_sab": "I-Discord ye-SABALISU",
+  "mail": "I-imeyili",
+  "welcome": "Konkhe kwemukelekile!"
+}
