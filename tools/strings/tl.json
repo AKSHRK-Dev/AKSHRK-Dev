@@ -1,0 +1,34 @@
+{
+  "languages": "Lahat ng {n} wika",
+  "hi": "Kumusta, ako si AKSHRK",
+  "intro": "Isang baguhang developer. Pinapatakbo ko ang server hosting service na <b>ASHIKA Network</b> at ang Minecraft server list na <b>SABALISU</b>, at ginagawa ko ang Minecraft server software na <b>Storia</b>.",
+  "about_t": "Tungkol sa Akin",
+  "about": [
+    "Baguhan pa ako, pero araw-araw akong nagsusulat ng code at patuloy na gumagaling",
+    "Nagsusulat ako ng **Python**, **Node.js** at **C#**",
+    "May sarili akong server hosting service",
+    "Malugod kong tinatanggap ang mga tanong tungkol sa aking mga serbisyo o sa teknolohiya: mag-hi lang sa Discord"
+  ],
+  "can_write": "Mga kaya kong isulat (kasama ang magulong code)",
+  "services_t": "Aking mga Serbisyo",
+  "anw_t": "ASHIKA Network: mga server mula 30 yen kada buwan",
+  "anw_p": "Isang hosting service para sa mga gustong magpatakbo ng server pero hindi makagastos nang malaki.\nMagsimula nang maliit, mula **30 yen lang kada buwan**.",
+  "website": "Website",
+  "sab_t": "SABALISU: listahan ng mga Minecraft server",
+  "sab_p": "Ilista ang iyong Minecraft server at maghanap ng mga taong makakalaro rito.\nKapaki-pakinabang para sa mga manlalarong naghahanap ng server at sa mga may-ari na gustong i-promote ang kanila.",
+  "storia_t": "Storia: server software para sa malalaking Minecraft server",
+  "storia_p": "Isang open-source na fork ng Folia para sa Minecraft 26.2. Sa **Storia Cluster**, ang isang mundo ay maaaring tumakbo sa ilang server nang sabay-sabay, at nakalilipat ang mga manlalaro sa pagitan nila nang walang loading screen.",
+  "storia_points": [
+    "**Storia Cluster**: isang mundong pinaghahatian ng ilang server, na may naka-encrypt na koneksiyon sa pagitan nila",
+    "**Standby relay**: may pangalawang relay na nag-iingat ng kopya at pumapalit kapag nawala ang una",
+    "**Linear region format**: halos kalahati lang ng disk space ang kinukuha ng mundo",
+    "**RAM world**, **Tick Guard**, plugin API para sa pinaghahatiang data, at iba pa"
+  ],
+  "source": "Source code",
+  "stats_t": "GitHub Stats",
+  "contact_t": "Makipag-ugnayan",
+  "contact_afk": "Discord ng AFK Network",
+  "contact_sab": "Discord ng SABALISU",
+  "mail": "Email",
+  "welcome": "Lahat ay malugod na tinatanggap!"
+}
