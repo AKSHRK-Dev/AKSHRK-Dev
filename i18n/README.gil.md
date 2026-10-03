@@ -1,9 +1,9 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Chamoru</b> · <a href="../LANGUAGES.md">Todu i lengguahi (82)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Taetae ni Kiribati</b> · <a href="../LANGUAGES.md">Taetae ni kabane (82)</a></p>
 
-<h1 align="center">Håfa adai, guåhu si AKSHRK</h1>
+<h1 align="center">Mauri, ngai AKSHRK</h1>
 
 <p align="center">
-  Nuebu na developer. Guåhu manmanehalom i setbision server hosting <b>ASHIKA Network</b> yan i listan Minecraft server <b>SABALISU</b>, yan hu fåfa'tinas i software Minecraft server <b>Storia</b>.
+  Te tia karaoa te bwai ae boou. I tararuai te mwakuri ni kaawakina server ae <b>ASHIKA Network</b> ao ana rabwata Minecraft server ae <b>SABALISU</b>, ao I karaoa te software ibukin Minecraft server ae <b>Storia</b>.
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 ---
 
-## Put guåhu
+## Taekan au maiu
 
-- Nuebu ha' yo', lao kada dia hu tuge' code yan mås mumåolek yo'
-- Hu tuge' **Python**, **Node.js** yan **C#**
-- Guåhu manmanehalom i propiu setbision server hosting-hu
-- Bienbenidu i finaisen put i setbision-hu pat teknolohiha: sångan ha' håfa adai gi Discord
+- I tuai rabakau riki, ma I koroboki code n taai nako ao I a rikirake
+- I koroboki **Python**, **Node.js** ao **C#**
+- I tararuai au mwakuri ni kaawakina server
+- Kam karaba n titiraki ibukin au mwakuri ke te technology: taku mauri n te Discord
 
-### Håfa siña hu tuge' (ensegidas ni code ni ti mamåolek)
+### Bwaai aika I kona ni korobokii (ma code aika aki raoiroi)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -29,12 +29,12 @@
 
 ---
 
-## I setbision-hu
+## Au mwakuri
 
-### ASHIKA Network: server ginen 30 yen kada mes
+### ASHIKA Network: server man 30 yen n te namwakaina
 
-Setbision hosting para manåyu' ni malagu' manmanehalom server lao ti siña mangåsta meggai.
-Tutuhon dikike', **ginen 30 yen ha' kada mes**.
+Te mwakuri ni kaawakina ibukia aomata aika tangiria te server ma a aki kona ni kabongana mwane aika bati.
+Moanna man te uarereke, **man 30 yen tii n te namwakaina**.
 
 | | |
 |---|---|
@@ -43,10 +43,10 @@ Tutuhon dikike', **ginen 30 yen ha' kada mes**.
 
 <br>
 
-### SABALISU: listan Minecraft server
+### SABALISU: rabwatan Minecraft server
 
-Na'såga i Minecraft server-mu gi lista ya un sodda' taotao para u ma'ugong guennao.
-Maolek para i manmañugong ni manaliligao server yan i man-dueñu ni malagu' ma promote i server-ñiha.
+Karinna am Minecraft server n te rabwata ao kakaea aomata aika a na takaakaro iai.
+E kakabwaia ibukia taan takaakaro aika ukoukora te server ao ibukia taan tauia aika tangiria n ota iaon aia server.
 
 | | |
 |---|---|
@@ -55,14 +55,14 @@ Maolek para i manmañugong ni manaliligao server yan i man-dueñu ni malagu' ma 
 
 <br>
 
-### Storia: software server para i dånkolo na Minecraft server
+### Storia: te software ibukin Minecraft server aika abwabwaki
 
-Open-source na fork Folia para Minecraft 26.2. Yan i **Storia Cluster**, un tano' siña ma oppera gi meggai server gi parehu na tiempo, ya i manmañugong ma tålo' gi entalo'-ñiha sin loading screen.
+Te open-source fork mai Folia ibukin Minecraft 26.2. Ma **Storia Cluster**, te aonnaba ae teuana e kona n mwakuri iaon server aika bati n te tai ae teuana, ao taan takaakaro a mwaing i buakoia n aki nooria te loading screen.
 
-- **Storia Cluster**: un tano' ni ma ufisi meggai server, yan encrypted na koneksion gi entalo'-ñiha
-- **Standby relay**: i segundo na relay ha guåguatdi un kopia ya ha tulaika i fine'nana yanggen malingu
-- **Linear format**: i tano' ha usa kana' mitåt i lugåt gi disk
-- **RAM world**, **Tick Guard**, plugin API para shared data, yan meggai mås
+- **Storia Cluster**: te aonnaba ae teuana ae iangoaki irouia server aika bati, ma kaitibwaia aika encrypted
+- **Standby relay**: te relay ae kauoua e kawakina te kopi ao e na onea te moan relay ngkana e bua
+- **Linear format**: te aonnaba e kabongana tabeua te iterana n te disk space
+- **RAM world**, **Tick Guard**, te plugin API ibukin shared data, ao tabeua riki
 
 | | |
 |---|---|
@@ -85,12 +85,12 @@ Open-source na fork Folia para Minecraft 26.2. Yan i **Storia Cluster**, un tano
 
 ---
 
-## Kontakta yo'
+## Reitaki
 
 - AFK Network Discord: https://discord.gg/q8TbzdRfsV
 - SABALISU Discord: https://discord.gg/KucQxEsJtr
 - Email: admin@minecrafts.jp
 
 <p align="center">
-  <sub>Todu bienbenidu!</sub>
+  <sub>Mauri n bwaai ni kabane!</sub>
 </p>

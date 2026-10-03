@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Malti</b> · <a href="../LANGUAGES.md">Il-lingwi kollha (81)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Malti</b> · <a href="../LANGUAGES.md">Il-lingwi kollha (82)</a></p>
 
 <h1 align="center">Bongu, jien AKSHRK</h1>
 

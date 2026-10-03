@@ -1,0 +1,34 @@
+{
+  "languages": "Taetae ni kabane ({n})",
+  "hi": "Mauri, ngai AKSHRK",
+  "intro": "Te tia karaoa te bwai ae boou. I tararuai te mwakuri ni kaawakina server ae <b>ASHIKA Network</b> ao ana rabwata Minecraft server ae <b>SABALISU</b>, ao I karaoa te software ibukin Minecraft server ae <b>Storia</b>.",
+  "about_t": "Taekan au maiu",
+  "about": [
+    "I tuai rabakau riki, ma I koroboki code n taai nako ao I a rikirake",
+    "I koroboki **Python**, **Node.js** ao **C#**",
+    "I tararuai au mwakuri ni kaawakina server",
+    "Kam karaba n titiraki ibukin au mwakuri ke te technology: taku mauri n te Discord"
+  ],
+  "can_write": "Bwaai aika I kona ni korobokii (ma code aika aki raoiroi)",
+  "services_t": "Au mwakuri",
+  "anw_t": "ASHIKA Network: server man 30 yen n te namwakaina",
+  "anw_p": "Te mwakuri ni kaawakina ibukia aomata aika tangiria te server ma a aki kona ni kabongana mwane aika bati.\nMoanna man te uarereke, **man 30 yen tii n te namwakaina**.",
+  "website": "Website",
+  "sab_t": "SABALISU: rabwatan Minecraft server",
+  "sab_p": "Karinna am Minecraft server n te rabwata ao kakaea aomata aika a na takaakaro iai.\nE kakabwaia ibukia taan takaakaro aika ukoukora te server ao ibukia taan tauia aika tangiria n ota iaon aia server.",
+  "storia_t": "Storia: te software ibukin Minecraft server aika abwabwaki",
+  "storia_p": "Te open-source fork mai Folia ibukin Minecraft 26.2. Ma **Storia Cluster**, te aonnaba ae teuana e kona n mwakuri iaon server aika bati n te tai ae teuana, ao taan takaakaro a mwaing i buakoia n aki nooria te loading screen.",
+  "storia_points": [
+    "**Storia Cluster**: te aonnaba ae teuana ae iangoaki irouia server aika bati, ma kaitibwaia aika encrypted",
+    "**Standby relay**: te relay ae kauoua e kawakina te kopi ao e na onea te moan relay ngkana e bua",
+    "**Linear format**: te aonnaba e kabongana tabeua te iterana n te disk space",
+    "**RAM world**, **Tick Guard**, te plugin API ibukin shared data, ao tabeua riki"
+  ],
+  "source": "Source code",
+  "stats_t": "GitHub Stats",
+  "contact_t": "Reitaki",
+  "contact_afk": "AFK Network Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "Email",
+  "welcome": "Mauri n bwaai ni kabane!"
+}
