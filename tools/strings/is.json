@@ -1,0 +1,34 @@
+{
+  "languages": "Öll tungumálin ({n})",
+  "hi": "Hæ, ég heiti AKSHRK",
+  "intro": "Byrjandi í forritun. Ég rek hýsingarþjónustuna <b>ASHIKA Network</b> og Minecraft-netþjónalistann <b>SABALISU</b>, og þróa Minecraft-netþjónahugbúnaðinn <b>Storia</b>.",
+  "about_t": "Um mig",
+  "about": [
+    "Ég er enn byrjandi, en ég skrifa kóða á hverjum degi og verð sífellt betri",
+    "Ég skrifa **Python**, **Node.js** og **C#**",
+    "Ég rek mína eigin hýsingarþjónustu fyrir netþjóna",
+    "Spurningar um þjónustuna mína eða tækni eru velkomnar: segðu bara hæ á Discord"
+  ],
+  "can_write": "Það sem ég get skrifað (sóðalegur kóði meðtalinn)",
+  "services_t": "Þjónustan mín",
+  "anw_t": "ASHIKA Network: netþjónar frá 30 jenum á mánuði",
+  "anw_p": "Hýsingarþjónusta fyrir þá sem vilja reka netþjón en geta ekki eytt miklu í hann.\nByrjaðu smátt, **frá aðeins 30 jenum á mánuði**.",
+  "website": "Vefsíða",
+  "sab_t": "SABALISU: listi yfir Minecraft-netþjóna",
+  "sab_p": "Skráðu Minecraft-netþjóninn þinn og finndu fólk til að spila á honum.\nGagnlegt bæði fyrir spilara sem leita að netþjóni og eigendur sem vilja kynna sinn.",
+  "storia_t": "Storia: netþjónahugbúnaður fyrir stóra Minecraft-netþjóna",
+  "storia_p": "Opinn hugbúnaður byggður á Folia fyrir Minecraft 26.2. Með **Storia Cluster** getur einn heimur keyrt á mörgum netþjónum í einu og spilarar færast á milli þeirra án hleðsluskjás.",
+  "storia_points": [
+    "**Storia Cluster**: einn heimur sem margir netþjónar deila, með dulkóðuðum tengingum á milli",
+    "**Varaliði (relay)**: annar relay geymir lifandi afrit og tekur við ef sá fyrri tapast",
+    "**Linear-snið**: heimurinn tekur um helming diskplássins",
+    "**Heimur í RAM**, **Tick Guard**, viðbótaforritaskil fyrir sameiginleg gögn og fleira"
+  ],
+  "source": "Frumkóði",
+  "stats_t": "GitHub-tölfræði",
+  "contact_t": "Hafa samband",
+  "contact_afk": "Discord AFK Network",
+  "contact_sab": "Discord SABALISU",
+  "mail": "Netfang",
+  "welcome": "Allt er velkomið!"
+}
