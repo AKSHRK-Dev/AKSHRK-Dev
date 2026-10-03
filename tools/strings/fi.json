@@ -1,0 +1,34 @@
+{
+  "languages": "Kaikki kielet ({n})",
+  "hi": "Hei, olen AKSHRK",
+  "intro": "Aloitteleva kehittäjä. Pyöritän palvelinhosting-palvelua <b>ASHIKA Network</b> ja Minecraft-palvelinlistaa <b>SABALISU</b>, ja kehitän Minecraft-palvelinohjelmistoa <b>Storia</b>.",
+  "about_t": "Minusta",
+  "about": [
+    "Olen vielä aloittelija, mutta kirjoitan koodia joka päivä ja kehityn koko ajan",
+    "Kirjoitan **Pythonia**, **Node.js:ää** ja **C#:ia**",
+    "Pyöritän omaa palvelinhosting-palvelua",
+    "Kysymykset palveluistani tai tekniikasta ovat tervetulleita: sano vain hei Discordissa"
+  ],
+  "can_write": "Mitä osaan kirjoittaa (sotkuinen koodi mukaan lukien)",
+  "services_t": "Palveluni",
+  "anw_t": "ASHIKA Network: palvelimia 30 jenistä kuukaudessa",
+  "anw_p": "Hosting-palvelu niille, jotka haluavat pyörittää palvelinta mutta eivät voi käyttää siihen paljon rahaa.\nAloita pienestä, **vain 30 jenistä kuukaudessa**.",
+  "website": "Verkkosivusto",
+  "sab_t": "SABALISU: Minecraft-palvelinlista",
+  "sab_p": "Lisää Minecraft-palvelimesi listaan ja löydä ihmisiä pelaamaan siellä.\nHyödyllinen sekä palvelinta etsiville pelaajille että omistajille, jotka haluavat mainostaa omaansa.",
+  "storia_t": "Storia: palvelinohjelmisto suurille Minecraft-palvelimille",
+  "storia_p": "Avoimen lähdekoodin Folia-haara Minecraft 26.2:lle. **Storia Clusterin** avulla yksi maailma voi pyöriä usealla palvelimella yhtä aikaa, ja pelaajat siirtyvät niiden välillä ilman latausruutua.",
+  "storia_points": [
+    "**Storia Cluster**: usean palvelimen jakama maailma, jonka yhteydet on salattu",
+    "**Varalla oleva relay**: toinen relay pitää elävää kopiota ja ottaa vastuun, jos ensimmäinen menetetään",
+    "**Linear-muoto**: maailmat vievät noin puolet levytilasta",
+    "**RAM-maailma**, **Tick Guard**, liitännäis-API jaetulle datalle ja paljon muuta"
+  ],
+  "source": "Lähdekoodi",
+  "stats_t": "GitHub-tilastot",
+  "contact_t": "Yhteystiedot",
+  "contact_afk": "AFK Networkin Discord",
+  "contact_sab": "SABALISUn Discord",
+  "mail": "Sähköposti",
+  "welcome": "Kaikki on tervetullutta!"
+}
