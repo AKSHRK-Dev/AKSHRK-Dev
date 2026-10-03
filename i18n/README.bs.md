@@ -1,9 +1,9 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Hrvatski</b> · <a href="../LANGUAGES.md">Svih 67 jezika</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Bosanski</b> · <a href="../LANGUAGES.md">Svi jezici (67)</a></p>
 
-<h1 align="center">Bok, ja sam AKSHRK</h1>
+<h1 align="center">Zdravo, ja sam AKSHRK</h1>
 
 <p align="center">
-  Programer početnik. Vodim uslugu hostinga poslužitelja <b>ASHIKA Network</b> i popis Minecraft poslužitelja <b>SABALISU</b> te razvijam softver za Minecraft poslužitelje <b>Storia</b>.
+  Programer početnik. Vodim uslugu hostinga servera <b>ASHIKA Network</b> i listu Minecraft servera <b>SABALISU</b>, a razvijam i softver za Minecraft servere <b>Storia</b>.
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 
 - Još sam početnik, ali svaki dan pišem kod i napredujem
 - Pišem u **Pythonu**, **Node.js-u** i **C#-u**
-- Vodim vlastitu uslugu hostinga poslužitelja
+- Vodim vlastitu uslugu hostinga servera
 - Pitanja o mojim uslugama ili o tehnologiji su dobrodošla: samo se javite na Discordu
 
-### Što znam pisati (uključujući neuredan kod)
+### Šta znam pisati (uključujući neuredan kod)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -31,42 +31,42 @@
 
 ## Moje usluge
 
-### ASHIKA Network: poslužitelji od 30 jena mjesečno
+### ASHIKA Network: serveri od 30 jena mjesečno
 
-Usluga hostinga za one koji žele pokrenuti poslužitelj, ali ne mogu puno potrošiti.
-Krenite od malog, **već od 30 jena mjesečno**.
+Usluga hostinga za one koji žele pokrenuti server, a ne mogu mnogo potrošiti.
+Počnite od malog, **već od 30 jena mjesečno**.
 
 | | |
 |---|---|
-| Web-stranica | https://www.ashikanw.com |
+| Web stranica | https://www.ashikanw.com |
 | Discord | https://link.ashikanw.com/discord |
 
 <br>
 
-### SABALISU: popis Minecraft poslužitelja
+### SABALISU: lista Minecraft servera
 
-Dodajte svoj Minecraft poslužitelj na popis i pronađite ljude koji će igrati na njemu.
-Korisno i igračima koji traže poslužitelj i vlasnicima koji ga žele promovirati.
+Dodajte svoj Minecraft server na listu i pronađite ljude koji će igrati na njemu.
+Korisno i igračima koji traže server i vlasnicima koji ga žele promovisati.
 
 | | |
 |---|---|
-| Web-stranica | https://minecrafts.jp |
+| Web stranica | https://minecrafts.jp |
 | Discord | https://discord.gg/KucQxEsJtr |
 
 <br>
 
-### Storia: softver za velike Minecraft poslužitelje
+### Storia: softver za velike Minecraft servere
 
-Fork Folije otvorenog koda za Minecraft 26.2. Uz **Storia Cluster** jedan svijet može raditi na više poslužitelja istovremeno, a igrači se kreću između njih bez zaslona za učitavanje.
+Fork Folije otvorenog koda za Minecraft 26.2. Uz **Storia Cluster** jedan svijet može raditi na više servera istovremeno, a igrači se kreću između njih bez ekrana za učitavanje.
 
-- **Storia Cluster**: jedan svijet dijeli više poslužitelja, a veze među njima su šifrirane
-- **Pričuvni relay**: drugi relay čuva živu kopiju i preuzima posao ako se prvi izgubi
+- **Storia Cluster**: jedan svijet dijeli više servera, a veze između njih su šifrovane
+- **Rezervni relay**: drugi relay čuva živu kopiju i preuzima posao ako se prvi izgubi
 - **Format Linear**: svijet zauzima otprilike pola prostora na disku
 - **Svijet u RAM-u**, **Tick Guard**, API za dodatke za dijeljene podatke i još mnogo toga
 
 | | |
 |---|---|
-| Web-stranica | https://storiamc.com |
+| Web stranica | https://storiamc.com |
 | Izvorni kod | https://github.com/AKSHRK-Dev/Storia |
 
 <p>

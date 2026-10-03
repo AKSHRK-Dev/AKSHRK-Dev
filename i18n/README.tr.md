@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Türkçe</b> · <a href="../LANGUAGES.md">Tüm 66 dil</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Türkçe</b> · <a href="../LANGUAGES.md">Tüm 67 dil</a></p>
 
 <h1 align="center">Merhaba, ben AKSHRK</h1>
 
