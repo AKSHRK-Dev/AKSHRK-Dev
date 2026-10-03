@@ -1,0 +1,34 @@
+{
+  "languages": "全 {n} 言語",
+  "hi": "こんにちは、AKSHRK です",
+  "intro": "駆け出しの Developer / サーバーホスティング <b>ASHIKA Network</b> と Minecraft サーバー掲載サイト <b>SABALISU</b> を運営し、Minecraft サーバーソフトウェア <b>Storia</b> を開発しています。",
+  "about_t": "About Me",
+  "about": [
+    "まだ駆け出しですが、毎日コードを書いて成長中です",
+    "書ける言語は **Python** / **Node.js** / **C#** の3つ",
+    "個人でサーバーホスティングサービスを運営しています",
+    "サービスのことでも技術のことでも、Discord で気軽に声をかけてください"
+  ],
+  "can_write": "一応書けるコード（ゴミコードも含む）",
+  "services_t": "運営サービス",
+  "anw_t": "ASHIKA Network — 月額 30円 から借りられるサーバーサービス",
+  "anw_p": "「サーバーを立ててみたいけど、お金はかけられない」そんな人のためのホスティングサービスです。\n**月額最低 30 円**から、小さく始められます。",
+  "website": "ホームページ",
+  "sab_t": "SABALISU — Minecraft サーバー掲載サイト",
+  "sab_p": "自分の Minecraft サーバーを掲載して、遊んでくれる人を集められるサイトです。\nサーバーを探している人も、宣伝したい人も、どちらでも使えます。",
+  "storia_t": "Storia — 大規模な Minecraft サーバーのためのサーバーソフトウェア",
+  "storia_p": "Minecraft 26.2 に対応した、Folia をもとにしたオープンソースのサーバーです。**Storia Cluster** を使うと、1 つのワールドを複数のサーバーで分担して動かせて、プレイヤーは読み込み画面なしでサーバー間を移動できます。",
+  "storia_points": [
+    "**Storia Cluster**：1 つのワールドを複数のサーバーで共有。サーバー間の通信は暗号化",
+    "**予備の Relay**：2 台目の Relay がその場で写し続け、1 台目が壊れても引き継ぐ",
+    "**Linear 形式**：ワールドのディスク使用量がおよそ半分に",
+    "**RAM ワールド**、**Tick Guard**、データを共有できるプラグイン API など"
+  ],
+  "source": "ソースコード",
+  "stats_t": "GitHub Stats",
+  "contact_t": "Contact",
+  "contact_afk": "AFK Network の Discord",
+  "contact_sab": "SABALISU の Discord",
+  "mail": "MAIL",
+  "welcome": "なんでも歓迎です！"
+}
