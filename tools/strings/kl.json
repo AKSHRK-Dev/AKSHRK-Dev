@@ -1,0 +1,34 @@
+{
+  "languages": "Oqaatsit tamarmik ({n})",
+  "hi": "Aluu, uanga AKSHRK-iuvunga",
+  "intro": "Ineriartortitsisoq nutaaq. Serverinut inissiisarfik <b>ASHIKA Network</b> aamma Minecraft-imi serverit allattorsimaffiat <b>SABALISU</b> ingerlappakka, aamma Minecraft-imut server-imut programmi <b>Storia</b> suliaraara.",
+  "about_t": "Uanga pillunga",
+  "about": [
+    "Suli nutaajuvunga, kisianni ullut tamaasa kode-mik allappunga pitsaanerulersarlungalu",
+    "**Python**, **Node.js** aamma **C#** atorlugit allappunga",
+    "Nammineq serverinut inissiisarfimmik ingerlatsivunga",
+    "Kiffartuussinikka teknologiluunniit pillugit apeqqutit tikilluaqquneqarput: Discord-imi aluuteqqaaginnarit"
+  ],
+  "can_write": "Allassinnaasakka (kode-t akuliunnerusut ilanngullugit)",
+  "services_t": "Kiffartuussinikka",
+  "anw_t": "ASHIKA Network: serverit qaammammut 30 yen-iniit",
+  "anw_p": "Kiffartuussineq serverimik ingerlatsiniartunut, aningaasanilli amerlasuunik atuisinnaanngitsunut.\nMikisumik aallartigit, **qaammammut 30 yen-iniit**.",
+  "website": "Nittartagaq",
+  "sab_t": "SABALISU: Minecraft-imi serverit allattorsimaffiat",
+  "sab_p": "Minecraft-imi serverit allattorsimaffimmut ilanngutiguk, peqatigisassallu nassaarikkit.\nPinnguartunut serverimik ujartuisunut aamma serverimik pigisaqartunut nalunaarutiginiartunut iluaqutaavoq.",
+  "storia_t": "Storia: Minecraft-imi serverinut angisuunut programmi",
+  "storia_p": "Server ammasoq Folia tunngavigalugu Minecraft 26.2-mut sanaaq. **Storia Cluster** atorlugu silarsuaq ataaseq serverini arlalinni ataatsikkut ingerlasinnaavoq, pinnguartullu ikaarsaarnermi utaqqinngikkaluarlutik nuussinnaapput.",
+  "storia_points": [
+    "**Storia Cluster**: silarsuaq ataaseq serverinit arlalinnit avitseqatigiissutigineqarpoq, attaveqaatit isertuussaapput",
+    "**Relay taarsiutissaq**: relay aappaa assilisamik inuusumik toqqortaqarpoq, siulleq annaaneqarpat taarsissallugu",
+    "**Linear-ip ilusaa**: silarsuup disk-imi inissaq affaa missaa atortarpaa",
+    "**RAM-imi silarsuaq**, **Tick Guard**, paasissutissanik avitseqatigiinnermut plugin API, allallu"
+  ],
+  "source": "Kode aallaavik",
+  "stats_t": "GitHub-imi kisitsisit",
+  "contact_t": "Attavigisinnaavarma",
+  "contact_afk": "AFK Network-ip Discord-ia",
+  "contact_sab": "SABALISU-p Discord-ia",
+  "mail": "E-mail",
+  "welcome": "Sunik tamanik tikilluarit!"
+}

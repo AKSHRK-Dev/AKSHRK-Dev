@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Tiếng Việt</b> · <a href="../LANGUAGES.md">Tất cả 45 ngôn ngữ</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Tiếng Việt</b> · <a href="../LANGUAGES.md">Tất cả 46 ngôn ngữ</a></p>
 
 <h1 align="center">Xin chào, mình là AKSHRK</h1>
 
