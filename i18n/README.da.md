@@ -1,9 +1,9 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Norsk</b> · <a href="../LANGUAGES.md">Alle 54 språk</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Dansk</b> · <a href="../LANGUAGES.md">Alle 54 sprog</a></p>
 
-<h1 align="center">Hei, jeg er AKSHRK</h1>
+<h1 align="center">Hej, jeg er AKSHRK</h1>
 
 <p align="center">
-  En nybegynner innen utvikling. Jeg driver hostingtjenesten <b>ASHIKA Network</b> og Minecraft-serverlisten <b>SABALISU</b>, og utvikler Minecraft-serverprogramvaren <b>Storia</b>.
+  En nybegynder inden for udvikling. Jeg driver hostingtjenesten <b>ASHIKA Network</b> og Minecraft-serverlisten <b>SABALISU</b>, og udvikler Minecraft-serversoftwaren <b>Storia</b>.
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 ---
 
-## Om meg
+## Om mig
 
-- Jeg er fortsatt ny, men jeg skriver kode hver dag og blir stadig bedre
+- Jeg er stadig ny, men jeg skriver kode hver dag og bliver hele tiden bedre
 - Jeg skriver **Python**, **Node.js** og **C#**
-- Jeg driver min egen tjeneste for serverhosting
-- Spørsmål om tjenestene mine eller om teknologi er velkomne: bare si hei på Discord
+- Jeg driver min egen tjeneste til serverhosting
+- Spørgsmål om mine tjenester eller om teknologi er velkomne: sig bare hej på Discord
 
-### Det jeg kan skrive (rotete kode inkludert)
+### Det, jeg kan skrive (rodet kode inklusive)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -29,44 +29,44 @@
 
 ---
 
-## Tjenestene mine
+## Mine tjenester
 
-### ASHIKA Network: servere fra 30 yen i måneden
+### ASHIKA Network: servere fra 30 yen om måneden
 
-En hostingtjeneste for dem som vil kjøre en server, men ikke kan bruke mye penger på den.
-Start i det små, **fra bare 30 yen i måneden**.
+En hostingtjeneste til dem, der gerne vil køre en server, men ikke kan bruge mange penge på den.
+Start i det små, **fra kun 30 yen om måneden**.
 
 | | |
 |---|---|
-| Nettsted | https://www.ashikanw.com |
+| Hjemmeside | https://www.ashikanw.com |
 | Discord | https://link.ashikanw.com/discord |
 
 <br>
 
 ### SABALISU: en liste over Minecraft-servere
 
-Legg ut Minecraft-serveren din og finn folk som vil spille på den.
-Nyttig både for spillere som leter etter en server og for eiere som vil promotere sin.
+Opret din Minecraft-server på listen, og find folk, der vil spille på den.
+Praktisk både for spillere, der leder efter en server, og for ejere, der vil promovere deres egen.
 
 | | |
 |---|---|
-| Nettsted | https://minecrafts.jp |
+| Hjemmeside | https://minecrafts.jp |
 | Discord | https://discord.gg/KucQxEsJtr |
 
 <br>
 
-### Storia: serverprogramvare for store Minecraft-servere
+### Storia: serversoftware til store Minecraft-servere
 
-En fork av Folia med åpen kildekode for Minecraft 26.2. Med **Storia Cluster** kan én verden kjøre på flere servere samtidig, og spillere flytter mellom dem uten lasteskjerm.
+En open source-fork af Folia til Minecraft 26.2. Med **Storia Cluster** kan én verden køre på flere servere på én gang, og spillere flytter mellem dem uden indlæsningsskærm.
 
-- **Storia Cluster**: én verden delt av flere servere, med krypterte forbindelser mellom dem
-- **Reserve-relay**: et andre relay holder en levende kopi og tar over hvis det første går tapt
-- **Linear-formatet**: verdener tar omtrent halvparten av diskplassen
-- **RAM-verden**, **Tick Guard**, et plugin-API for delte data, og mer
+- **Storia Cluster**: én verden delt af flere servere med krypterede forbindelser imellem
+- **Reserve-relay**: et andet relay holder en levende kopi og overtager, hvis det første går tabt
+- **Linear-formatet**: verdener fylder omkring halvdelen af diskpladsen
+- **RAM-verden**, **Tick Guard**, et plugin-API til delte data og mere
 
 | | |
 |---|---|
-| Nettsted | https://storiamc.com |
+| Hjemmeside | https://storiamc.com |
 | Kildekode | https://github.com/AKSHRK-Dev/Storia |
 
 <p>
@@ -76,7 +76,7 @@ En fork av Folia med åpen kildekode for Minecraft 26.2. Med **Storia Cluster** 
 
 ---
 
-## GitHub-statistikk
+## GitHub-statistik
 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
@@ -87,9 +87,9 @@ En fork av Folia med åpen kildekode for Minecraft 26.2. Med **Storia Cluster** 
 
 ## Kontakt
 
-- AFK Network sin Discord: https://discord.gg/q8TbzdRfsV
-- SABALISU sin Discord: https://discord.gg/KucQxEsJtr
-- E-post: admin@minecrafts.jp
+- AFK Networks Discord: https://discord.gg/q8TbzdRfsV
+- SABALISU's Discord: https://discord.gg/KucQxEsJtr
+- E-mail: admin@minecrafts.jp
 
 <p align="center">
   <sub>Alt er velkomment!</sub>

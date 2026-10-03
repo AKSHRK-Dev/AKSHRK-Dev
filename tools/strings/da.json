@@ -1,0 +1,34 @@
+{
+  "languages": "Alle {n} sprog",
+  "hi": "Hej, jeg er AKSHRK",
+  "intro": "En nybegynder inden for udvikling. Jeg driver hostingtjenesten <b>ASHIKA Network</b> og Minecraft-serverlisten <b>SABALISU</b>, og udvikler Minecraft-serversoftwaren <b>Storia</b>.",
+  "about_t": "Om mig",
+  "about": [
+    "Jeg er stadig ny, men jeg skriver kode hver dag og bliver hele tiden bedre",
+    "Jeg skriver **Python**, **Node.js** og **C#**",
+    "Jeg driver min egen tjeneste til serverhosting",
+    "Spørgsmål om mine tjenester eller om teknologi er velkomne: sig bare hej på Discord"
+  ],
+  "can_write": "Det, jeg kan skrive (rodet kode inklusive)",
+  "services_t": "Mine tjenester",
+  "anw_t": "ASHIKA Network: servere fra 30 yen om måneden",
+  "anw_p": "En hostingtjeneste til dem, der gerne vil køre en server, men ikke kan bruge mange penge på den.\nStart i det små, **fra kun 30 yen om måneden**.",
+  "website": "Hjemmeside",
+  "sab_t": "SABALISU: en liste over Minecraft-servere",
+  "sab_p": "Opret din Minecraft-server på listen, og find folk, der vil spille på den.\nPraktisk både for spillere, der leder efter en server, og for ejere, der vil promovere deres egen.",
+  "storia_t": "Storia: serversoftware til store Minecraft-servere",
+  "storia_p": "En open source-fork af Folia til Minecraft 26.2. Med **Storia Cluster** kan én verden køre på flere servere på én gang, og spillere flytter mellem dem uden indlæsningsskærm.",
+  "storia_points": [
+    "**Storia Cluster**: én verden delt af flere servere med krypterede forbindelser imellem",
+    "**Reserve-relay**: et andet relay holder en levende kopi og overtager, hvis det første går tabt",
+    "**Linear-formatet**: verdener fylder omkring halvdelen af diskpladsen",
+    "**RAM-verden**, **Tick Guard**, et plugin-API til delte data og mere"
+  ],
+  "source": "Kildekode",
+  "stats_t": "GitHub-statistik",
+  "contact_t": "Kontakt",
+  "contact_afk": "AFK Networks Discord",
+  "contact_sab": "SABALISU's Discord",
+  "mail": "E-mail",
+  "welcome": "Alt er velkomment!"
+}
