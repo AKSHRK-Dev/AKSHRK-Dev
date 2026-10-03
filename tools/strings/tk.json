@@ -1,0 +1,34 @@
+{
+  "languages": "Ähli {n} dil",
+  "hi": "Salam, men AKSHRK",
+  "intro": "Täze başlan programmist. Men <b>ASHIKA Network</b> serwer hosting hyzmatyny we <b>SABALISU</b> Minecraft serwerleriniň sanawyny alyp barýaryn hem-de <b>Storia</b> Minecraft serwer programmasyny döredýärin.",
+  "about_t": "Men barada",
+  "about": [
+    "Entek täze, ýöne her gün kod ýazýaryn we gowulanýaryn",
+    "**Python**, **Node.js** we **C#** dillerinde ýazýaryn",
+    "Öz serwer hosting hyzmatymy alyp barýaryn",
+    "Hyzmatlarym ýa-da tehnologiýa barada soraglaryňyz bolsa, Discord-da salam beriň"
+  ],
+  "can_write": "Ýazyp bilýän dillerim (bulaşyk kod hem bar)",
+  "services_t": "Hyzmatlarym",
+  "anw_t": "ASHIKA Network: aýda 30 ýenden başlaýan serwerler",
+  "anw_p": "Serwer işletmek isleýän, ýöne köp pul harçlap bilmeýänler üçin hosting hyzmaty.\nKiçiden başlaň: **aýda bary-ýogy 30 ýenden**.",
+  "website": "Web sahypa",
+  "sab_t": "SABALISU: Minecraft serwerleriniň sanawy",
+  "sab_p": "Minecraft serweriňizi sanawa goşuň we bile oýnajak adamlary tapyň.\nSerwer gözleýän oýunçylar üçin hem, serwerini mahabatlandyrmak isleýän eýeler üçin hem peýdaly.",
+  "storia_t": "Storia: uly Minecraft serwerleri üçin serwer programmasy",
+  "storia_p": "Minecraft 26.2 üçin Folia esasyndaky açyk çeşmeli serwer. **Storia Cluster** bilen bir dünýä birnäçe serwerde bir wagtda işläp bilýär, oýunçylar bolsa ýükleme ekranysyz olaryň arasynda geçýärler.",
+  "storia_points": [
+    "**Storia Cluster**: bir dünýäni birnäçe serwer paýlaşýar, olaryň arasyndaky aragatnaşyk şifrlenen",
+    "**Ätiýaçlyk relay**: ikinji relay janly göçürmäni saklaýar we birinjisi ýitse, onuň ornuny tutýar",
+    "**Linear formaty**: dünýä diskdäki ýeriň takmynan ýarysyny eýeleýär",
+    "**RAM dünýäsi**, **Tick Guard**, maglumat paýlaşmak üçin plagin API we başgalar"
+  ],
+  "source": "Çeşme kody",
+  "stats_t": "GitHub statistikasy",
+  "contact_t": "Habarlaşmak",
+  "contact_afk": "AFK Network Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "Poçta",
+  "welcome": "Islendik zat hoş geldiňiz!"
+}
