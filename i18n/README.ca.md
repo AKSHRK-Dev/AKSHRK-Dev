@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Català</b> · <a href="../LANGUAGES.md">Les 64 llengües</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Català</b> · <a href="../LANGUAGES.md">Les 65 llengües</a></p>
 
 <h1 align="center">Hola, soc l'AKSHRK</h1>
 

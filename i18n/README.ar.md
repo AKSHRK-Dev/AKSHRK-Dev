@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>العربية</b> · <a href="../LANGUAGES.md">جميع اللغات (64)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>العربية</b> · <a href="../LANGUAGES.md">جميع اللغات (65)</a></p>
 
 <div dir="rtl">
 

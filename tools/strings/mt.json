@@ -1,0 +1,34 @@
+{
+  "languages": "Il-lingwi kollha ({n})",
+  "hi": "Bongu, jien AKSHRK",
+  "intro": "Żviluppatur li għadu jibda. Inħaddem is-servizz tal-hosting tas-servers <b>ASHIKA Network</b> u l-lista tas-servers tal-Minecraft <b>SABALISU</b>, u niżviluppa s-softwer tas-server tal-Minecraft <b>Storia</b>.",
+  "about_t": "Dwari",
+  "about": [
+    "Għadni ġdid, imma nikteb il-kodiċi kuljum u qed nitjieb",
+    "Nikteb **Python**, **Node.js** u **C#**",
+    "Inħaddem is-servizz tiegħi stess tal-hosting tas-servers",
+    "Mistoqsijiet dwar is-servizzi tiegħi jew dwar it-teknoloġija huma milqugħa: sempliċement għidli bongu fuq Discord"
+  ],
+  "can_write": "X'naf nikteb (inkluż kodiċi mħawwad)",
+  "services_t": "Is-servizzi tiegħi",
+  "anw_t": "ASHIKA Network: servers minn 30 yen fix-xahar",
+  "anw_p": "Servizz tal-hosting għal min irid iħaddem server iżda ma jistax jonfoq ħafna.\nIbda żgħir, **minn 30 yen biss fix-xahar**.",
+  "website": "Sit web",
+  "sab_t": "SABALISU: lista ta' servers tal-Minecraft",
+  "sab_p": "Niżżel is-server tal-Minecraft tiegħek fil-lista u sib nies biex jilagħbu fuqu.\nUtli kemm għal plejers li qed ifittxu server kif ukoll għal sidien li jridu jippromwovu tagħhom.",
+  "storia_t": "Storia: softwer tas-server għal servers kbar tal-Minecraft",
+  "storia_p": "Fork open-source ta' Folia għal Minecraft 26.2. Bi **Storia Cluster**, dinja waħda tista' taħdem fuq diversi servers fl-istess ħin, u l-plejers jgħaddu minn wieħed għall-ieħor mingħajr skrin tat-tagħbija.",
+  "storia_points": [
+    "**Storia Cluster**: dinja waħda maqsuma bejn diversi servers, b'konnessjonijiet kriptati bejniethom",
+    "**Relay ta' riżerva**: relay ieħor iżomm kopja ħajja u jieħu f'idejh jekk jintilef l-ewwel wieħed",
+    "**Format Linear**: id-dinjiet jieħdu madwar nofs l-ispazju fuq id-disk",
+    "**Dinja fir-RAM**, **Tick Guard**, API għall-plugins għal data kondiviża, u aktar"
+  ],
+  "source": "Kodiċi sors",
+  "stats_t": "Statistika ta' GitHub",
+  "contact_t": "Kuntatt",
+  "contact_afk": "Discord ta' AFK Network",
+  "contact_sab": "Discord ta' SABALISU",
+  "mail": "Email",
+  "welcome": "Kollox milqugħ!"
+}
