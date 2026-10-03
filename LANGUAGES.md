@@ -2,13 +2,13 @@
 
 <h1 align="center">Languages / 言語一覧</h1>
 
-<p align="center">This profile is available in <b>28</b> languages. Pick yours below.<br>このプロフィールは <b>28</b> の言語で読めます。下から選んでください。</p>
+<p align="center">This profile is available in <b>29</b> languages. Pick yours below.<br>このプロフィールは <b>29</b> の言語で読めます。下から選んでください。</p>
 
 <p align="center"><img src="assets/continents.svg" width="820" alt="Languages per continent"></p>
 
 <p align="center"><a href="#asia">Asia / アジア州</a> · <a href="#europe">Europe / ヨーロッパ州</a> · <a href="#americas">Americas / アメリカ州</a> · <a href="#oceania">Oceania / オセアニア州</a> · <a href="#africa">Africa / アフリカ州</a></p>
 
-<h2 id="asia">Asia / アジア州 <sub>(27)</sub></h2>
+<h2 id="asia">Asia / アジア州 <sub>(28)</sub></h2>
 
 ### East Asia / 東アジア
 
@@ -56,6 +56,7 @@
 | [རྫོང་ཁ](i18n/README.dz.md) | Dzongkha | ゾンカ語 |
 | [ދިވެހި](i18n/README.dv.md) | Dhivehi | ディベヒ語 |
 | [دری](i18n/README.prs.md) | Dari | ダリー語 |
+| [پښتو](i18n/README.ps.md) | Pashto | パシュトゥ語 |
 
 <h2 id="europe">Europe / ヨーロッパ州 <sub>(0)</sub></h2>
 
