@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Հայերեն</b> · <a href="../LANGUAGES.md">Բոլոր 89 լեզուները</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Հայերեն</b> · <a href="../LANGUAGES.md">Բոլոր 90 լեզուները</a></p>
 
 <h1 align="center">Բարև, ես AKSHRK-ն եմ</h1>
 

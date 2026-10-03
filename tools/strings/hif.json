@@ -1,0 +1,34 @@
+{
+  "languages": "Sab {n} bhasa",
+  "hi": "Namaste, hum AKSHRK hai",
+  "intro": "Hum ek naya developer hai. Hum server hosting service <b>ASHIKA Network</b> aur Minecraft server list <b>SABALISU</b> chalaata hai, aur Minecraft server software <b>Storia</b> banaata hai.",
+  "about_t": "Hamaar baare me",
+  "about": [
+    "Hum abhi naya hai, lekin roj code likhta hai aur aur accha hota jaata hai",
+    "Hum **Python**, **Node.js** aur **C#** likhta hai",
+    "Hum aapan khud ke server hosting service chalaata hai",
+    "Hamaar service ya technology ke baare me sawaal ke swaagat hai: Discord pe khaali hello bolo"
+  ],
+  "can_write": "Hum ka likh sake hai (gandaa code bhi milaike)",
+  "services_t": "Hamaar service",
+  "anw_t": "ASHIKA Network: mahina ke 30 yen se server",
+  "anw_p": "Ek hosting service un logan ke khaatir jon server chalaana mangta hai lekin jaada paisa nahi kharch sake hai.\nChhota se suru karo, **khaali 30 yen mahina se**.",
+  "website": "Website",
+  "sab_t": "SABALISU: Minecraft server ke list",
+  "sab_p": "Aapan Minecraft server list me daalo aur saathe khele waala log khojo.\nServer khoje waala player aur aapan server ke prachaar kare mange waala maalik, dono ke kaam aave hai.",
+  "storia_t": "Storia: bada Minecraft server ke khaatir server software",
+  "storia_p": "Minecraft 26.2 ke khaatir Folia pe banaa ek open-source fork. **Storia Cluster** se ek duniya ek saath kai server pe chal sake hai, aur player loading screen bina unke beech aa-jaa sake hai.",
+  "storia_points": [
+    "**Storia Cluster**: kai server ek duniya baante hai, unke beech ke connection encrypted hai",
+    "**Standby relay**: dusra relay ek live copy rakhta hai aur pahila ke kho jaane pe kaam sambhaalta hai",
+    "**Linear format**: duniya disk ke karib aadha jagah leve hai",
+    "**RAM duniya**, **Tick Guard**, data baante ke khaatir plugin API, aur bahut kuch"
+  ],
+  "source": "Source code",
+  "stats_t": "GitHub ke hisaab",
+  "contact_t": "Sampark",
+  "contact_afk": "AFK Network ke Discord",
+  "contact_sab": "SABALISU ke Discord",
+  "mail": "Email",
+  "welcome": "Sab kuch ke swaagat hai!"
+}
