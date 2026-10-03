@@ -1,0 +1,34 @@
+{
+  "languages": "Tut las {n} linguas",
+  "hi": "Allegra, jau sun AKSHRK",
+  "intro": "In sviluppader principiant. Jau main il servetsch da hosting da servers <b>ASHIKA Network</b> e la glista da servers da Minecraft <b>SABALISU</b>, e sviluppesch la software da server per Minecraft <b>Storia</b>.",
+  "about_t": "Davart mai",
+  "about": [
+    "Jau sun anc nov, ma jau scriv mintga di code e daventel adina meglier",
+    "Jau scriv **Python**, **Node.js** e **C#**",
+    "Jau main mes agen servetsch da hosting da servers",
+    "Dumondas davart mes servetschs u davart la tecnica èn bainvegnidas: ditg simplamain allegra sin Discord"
+  ],
+  "can_write": "Quai che jau sai scriver (inclus code malgist)",
+  "services_t": "Mes servetschs",
+  "anw_t": "ASHIKA Network: servers a partir da 30 yen al mais",
+  "anw_p": "In servetsch da hosting per persunas che vulan manar in server, ma na pon betg spender bler.\nCumenzai pitschen, **a partir da mo 30 yen al mais**.",
+  "website": "Pagina d'internet",
+  "sab_t": "SABALISU: ina glista da servers da Minecraft",
+  "sab_p": "Inscrivai Voss server da Minecraft e chattai persunas che giogan sin el.\nNizzaivel per giugaders che tschertgan in server ed er per possessurs che vulan far reclama per il lur.",
+  "storia_t": "Storia: software da server per gronds servers da Minecraft",
+  "storia_p": "Ina derivanza open source da Folia per Minecraft 26.2. Cun **Storia Cluster** po in mund currer sin plirs servers a medem temp, ed ils giugaders midan tranter els senza visur da chargiar.",
+  "storia_points": [
+    "**Storia Cluster**: in mund partì da plirs servers, cun colliaziuns criptadas tranter els",
+    "**Relay da reserva**: in segund relay tegna ina copia actuala e surpiglia, sch'il emprim va a perder",
+    "**Format Linear**: ils munds dovran circa la mesadad da la plazza sin il disc",
+    "**Mund en la RAM**, **Tick Guard**, ina API da plugins per datas cuminaivlas, e dapli"
+  ],
+  "source": "Code da funtauna",
+  "stats_t": "Statisticas da GitHub",
+  "contact_t": "Contact",
+  "contact_afk": "Discord dad AFK Network",
+  "contact_sab": "Discord da SABALISU",
+  "mail": "E-mail",
+  "welcome": "Tut è bainvegnì!"
+}
