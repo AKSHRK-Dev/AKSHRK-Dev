@@ -1,0 +1,34 @@
+{
+  "languages": "Vsi jeziki ({n})",
+  "hi": "Živjo, sem AKSHRK",
+  "intro": "Razvijalec začetnik. Upravljam storitev gostovanja strežnikov <b>ASHIKA Network</b> in seznam strežnikov Minecraft <b>SABALISU</b> ter razvijam strežniško programsko opremo za Minecraft <b>Storia</b>.",
+  "about_t": "O meni",
+  "about": [
+    "Sem še začetnik, a vsak dan pišem kodo in napredujem",
+    "Pišem v **Pythonu**, **Node.js** in **C#**",
+    "Upravljam lastno storitev gostovanja strežnikov",
+    "Vprašanja o mojih storitvah ali o tehnologiji so dobrodošla: preprosto me pozdravi na Discordu"
+  ],
+  "can_write": "Kaj znam pisati (vključno z neurejeno kodo)",
+  "services_t": "Moje storitve",
+  "anw_t": "ASHIKA Network: strežniki od 30 jenov na mesec",
+  "anw_p": "Storitev gostovanja za tiste, ki bi radi poganjali strežnik, a ne morejo zanj porabiti veliko denarja.\nZačni majhno, **že od 30 jenov na mesec**.",
+  "website": "Spletna stran",
+  "sab_t": "SABALISU: seznam strežnikov Minecraft",
+  "sab_p": "Dodaj svoj strežnik Minecraft na seznam in poišči ljudi, ki bodo igrali na njem.\nUporabno za igralce, ki iščejo strežnik, in za lastnike, ki želijo promovirati svojega.",
+  "storia_t": "Storia: strežniška programska oprema za velike strežnike Minecraft",
+  "storia_p": "Odprtokodna razvejitev Folie za Minecraft 26.2. S **Storia Cluster** lahko en svet teče na več strežnikih hkrati, igralci pa se med njimi premikajo brez zaslona za nalaganje.",
+  "storia_points": [
+    "**Storia Cluster**: en svet, ki si ga deli več strežnikov, s šifriranimi povezavami med njimi",
+    "**Rezervni relay**: drugi relay hrani živo kopijo in prevzame delo, če se prvi izgubi",
+    "**Format Linear**: svetovi zasedejo približno polovico prostora na disku",
+    "**Svet v RAM-u**, **Tick Guard**, API za vtičnike za deljene podatke in še več"
+  ],
+  "source": "Izvorna koda",
+  "stats_t": "Statistika GitHub",
+  "contact_t": "Kontakt",
+  "contact_afk": "Discord AFK Network",
+  "contact_sab": "Discord SABALISU",
+  "mail": "E-pošta",
+  "welcome": "Vse je dobrodošlo!"
+}

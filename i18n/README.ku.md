@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kurdî (Kurmancî)</b> · <a href="../LANGUAGES.md">Hemû 65 ziman</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kurdî (Kurmancî)</b> · <a href="../LANGUAGES.md">Hemû 66 ziman</a></p>
 
 <h1 align="center">Silav, ez AKSHRK im</h1>
 
