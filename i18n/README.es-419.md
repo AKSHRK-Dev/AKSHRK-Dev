@@ -1,9 +1,9 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Español</b> · <a href="../LANGUAGES.md">Los 75 idiomas</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Español (Latinoamérica)</b> · <a href="../LANGUAGES.md">Los 75 idiomas</a></p>
 
 <h1 align="center">Hola, soy AKSHRK</h1>
 
 <p align="center">
-  Un desarrollador principiante. Gestiono el servicio de alojamiento de servidores <b>ASHIKA Network</b> y la lista de servidores de Minecraft <b>SABALISU</b>, y desarrollo el software de servidor para Minecraft <b>Storia</b>.
+  Un desarrollador principiante. Administro el servicio de hosting de servidores <b>ASHIKA Network</b> y la lista de servidores de Minecraft <b>SABALISU</b>, y desarrollo el software de servidor para Minecraft <b>Storia</b>.
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ## Sobre mí
 
-- Todavía soy novato, pero escribo código todos los días y voy mejorando
+- Todavía soy principiante, pero escribo código todos los días y voy mejorando
 - Escribo en **Python**, **Node.js** y **C#**
-- Gestiono mi propio servicio de alojamiento de servidores
-- Las preguntas sobre mis servicios o sobre tecnología son bienvenidas: solo saluda por Discord
+- Administro mi propio servicio de hosting de servidores
+- Las preguntas sobre mis servicios o sobre tecnología son bienvenidas: solo salúdame por Discord
 
 ### Lo que sé escribir (código desordenado incluido)
 
@@ -33,8 +33,8 @@
 
 ### ASHIKA Network: servidores desde 30 yenes al mes
 
-Un servicio de alojamiento para quienes quieren montar un servidor pero no pueden gastar mucho.
-Empieza poco a poco, **desde solo 30 yenes al mes**.
+Un servicio de hosting para quienes quieren tener un servidor pero no pueden gastar mucho.
+Empieza de a poco, **desde solo 30 yenes al mes**.
 
 | | |
 |---|---|
@@ -46,7 +46,7 @@ Empieza poco a poco, **desde solo 30 yenes al mes**.
 ### SABALISU: una lista de servidores de Minecraft
 
 Publica tu servidor de Minecraft y encuentra gente que juegue en él.
-Útil tanto para jugadores que buscan servidor como para dueños que quieren darse a conocer.
+Sirve tanto a jugadores que buscan servidor como a dueños que quieren darlo a conocer.
 
 | | |
 |---|---|
@@ -60,7 +60,7 @@ Publica tu servidor de Minecraft y encuentra gente que juegue en él.
 Un fork de código abierto de Folia para Minecraft 26.2. Con **Storia Cluster**, un mismo mundo puede funcionar en varios servidores a la vez, y los jugadores pasan de uno a otro sin pantalla de carga.
 
 - **Storia Cluster**: un mundo compartido por varios servidores, con conexiones cifradas entre ellos
-- **Relay de reserva**: un segundo relay guarda una copia en vivo y toma el relevo si se pierde el primero
+- **Relay de respaldo**: un segundo relay mantiene una copia en vivo y toma el control si se pierde el primero
 - **Formato Linear**: los mundos ocupan alrededor de la mitad del espacio en disco
 - **Mundo en RAM**, **Tick Guard**, una API de plugins para datos compartidos, y más
 

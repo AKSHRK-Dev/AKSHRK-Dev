@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Тоҷикӣ</b> · <a href="../LANGUAGES.md">Ҳамаи 74 забон</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Тоҷикӣ</b> · <a href="../LANGUAGES.md">Ҳамаи 75 забон</a></p>
 
 <h1 align="center">Салом, ман AKSHRK ҳастам</h1>
 
