@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kriolu kabuverdianu</b> · <a href="../LANGUAGES.md">Tudu 95 lingua</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kriolu kabuverdianu</b> · <a href="../LANGUAGES.md">Tudu 96 lingua</a></p>
 
 <h1 align="center">Oi, N é AKSHRK</h1>
 
