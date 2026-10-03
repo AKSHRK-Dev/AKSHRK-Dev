@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Fiji Baat</b> · <a href="../LANGUAGES.md">Sab 101 bhasa</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Fiji Baat</b> · <a href="../LANGUAGES.md">Sab 102 bhasa</a></p>
 
 <h1 align="center">Namaste, hum AKSHRK hai</h1>
 

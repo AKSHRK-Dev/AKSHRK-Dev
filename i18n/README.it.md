@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Italiano</b> · <a href="../LANGUAGES.md">Tutte le 101 lingue</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Italiano</b> · <a href="../LANGUAGES.md">Tutte le 102 lingue</a></p>
 
 <h1 align="center">Ciao, sono AKSHRK</h1>
 

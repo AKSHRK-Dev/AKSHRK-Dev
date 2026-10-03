@@ -2,7 +2,7 @@
 
 <h1 align="center">Languages / 言語一覧</h1>
 
-<p align="center">This profile is available in <b>101</b> languages. Pick yours below.<br>このプロフィールは <b>101</b> の言語で読めます。下から選んでください。</p>
+<p align="center">This profile is available in <b>102</b> languages. Pick yours below.<br>このプロフィールは <b>102</b> の言語で読めます。下から選んでください。</p>
 
 <p align="center"><img src="assets/continents.svg" width="820" alt="Languages per continent"></p>
 
@@ -194,7 +194,7 @@
 | [Reo Tahiti](i18n/README.ty.md) | Tahitian | タヒチ語 |
 | [Kajin M̧ajeļ](i18n/README.mh.md) | Marshallese | マーシャル語 |
 
-<h2 id="africa">Africa / アフリカ州 <sub>(14)</sub></h2>
+<h2 id="africa">Africa / アフリカ州 <sub>(15)</sub></h2>
 
 ### North Africa / 北アフリカ
 
@@ -237,6 +237,7 @@
 | [Malagasy](i18n/README.mg.md) | Malagasy | マダガスカル語 |
 | [Shikomori](i18n/README.zdj.md) | Comorian | コモロ語 |
 | [Français](i18n/README.fr.md) | French | フランス語 |
+| [Kreol seselwa](i18n/README.crs.md) | Seychellois Creole | クレオール語（セーシェル） |
 
 ### Southern Africa / 南アフリカ
 

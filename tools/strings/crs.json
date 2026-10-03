@@ -1,0 +1,34 @@
+{
+  "languages": "Tou {n} langaz",
+  "hi": "Bonzour, mwan AKSHRK",
+  "intro": "En devlopper ki pe konmans. Mon zer servis hosting server <b>ASHIKA Network</b> ek lalis server Minecraft <b>SABALISU</b>, e mon devlop lozisyel server Minecraft <b>Storia</b>.",
+  "about_t": "Lo mwan",
+  "about": [
+    "Mon ankor nouvo, me mon ekrir kod tou le zour e mon pe amelyore",
+    "Mon ekrir **Python**, **Node.js** ek **C#**",
+    "Mon zer mon prop servis hosting server",
+    "Kestyon lo mon servis oubyen lo teknolozi i byenvini: zis dir mwan bonzour lo Discord"
+  ],
+  "can_write": "Sa ki mon konn ekrir (mem kod ki an dezord)",
+  "services_t": "Mon bann servis",
+  "anw_t": "ASHIKA Network: server apartir 30 yen par mwan",
+  "anw_p": "En servis hosting pour bann dimoun ki anvi fer marse en server me ki pa kapab depans boukou.\nKonmans pti, **apartir zis 30 yen par mwan**.",
+  "website": "Sit web",
+  "sab_t": "SABALISU: en lalis server Minecraft",
+  "sab_p": "Met ou server Minecraft lo lalis e trouv dimoun pour zwe lo la.\nItil pour bann zwer ki pe rod en server ek pour bann proprieter ki anvi fer piblisite pour zot.",
+  "storia_t": "Storia: lozisyel server pour gro server Minecraft",
+  "storia_p": "En fork sours ouver Folia pour Minecraft 26.2. Avek **Storia Cluster**, en sel lemonn i kapab marse lo plizyer server an mem tan, e bann zwer i pas dan zot ant zot san ekran sarzman.",
+  "storia_points": [
+    "**Storia Cluster**: en lemonn ki plizyer server i partaze, avek koneksyon ankripte ant zot",
+    "**Relay rezerv**: en dezyenm relay i gard en kopi an direk e i pran plas premye si i perdi",
+    "**Format Linear**: lemonn i pran apepre lanmwatye lespas lo disk",
+    "**Lemonn dan RAM**, **Tick Guard**, en API plugin pour done partaze, ek plis ankor"
+  ],
+  "source": "Kod sours",
+  "stats_t": "Statistik GitHub",
+  "contact_t": "Kontak",
+  "contact_afk": "Discord AFK Network",
+  "contact_sab": "Discord SABALISU",
+  "mail": "Imel",
+  "welcome": "Tou keksoz i byenvini!"
+}
