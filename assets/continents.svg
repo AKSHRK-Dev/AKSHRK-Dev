@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 214" width="820" role="img" aria-label="Languages per continent">
+<style>
+.l { font: 600 14px system-ui, -apple-system, "Segoe UI", "Noto Sans JP", sans-serif; fill: #3a4658; }
+.n { font: 700 13px system-ui, -apple-system, "Segoe UI", sans-serif; }
+.track { fill: #e8f0f9; }
+.bar { fill: #1b60a6; transform-box: fill-box; transform-origin: left; animation: grow 1.4s cubic-bezier(.2, .8, .2, 1) both; }
+@keyframes grow { from { transform: scaleX(0); } }
+@media (prefers-color-scheme: dark) { .l { fill: #c3ccd8; } .track { fill: #172a40; } }
+@media (prefers-reduced-motion: reduce) { .bar { animation: none; } }
+</style>
+<text class="l" x="20" y="18" style="font-weight:800;fill:#1b60a6">Languages per continent / 州ごとの言語数</text>
+<text class="l" x="20" y="49">Asia / アジア州</text>
+<rect class="track" x="270" y="34" width="520" height="20" rx="10"/>
+<rect class="bar" x="270" y="34" width="520.0" height="20" rx="10" style="animation-delay:0.00s"/>
+<text class="n" x="780.0" y="49" text-anchor="end" style="fill:#fff">1</text><text class="l" x="20" y="83">Europe / ヨーロッパ州</text>
+<rect class="track" x="270" y="68" width="520" height="20" rx="10"/>
+<rect class="bar" x="270" y="68" width="0.0" height="20" rx="10" style="animation-delay:0.15s"/>
+<text class="n" x="278.0" y="83" text-anchor="start" style="fill:#14497e">0</text><text class="l" x="20" y="117">Americas / アメリカ州</text>
+<rect class="track" x="270" y="102" width="520" height="20" rx="10"/>
+<rect class="bar" x="270" y="102" width="520.0" height="20" rx="10" style="animation-delay:0.30s"/>
+<text class="n" x="780.0" y="117" text-anchor="end" style="fill:#fff">1</text><text class="l" x="20" y="151">Oceania / オセアニア州</text>
+<rect class="track" x="270" y="136" width="520" height="20" rx="10"/>
+<rect class="bar" x="270" y="136" width="0.0" height="20" rx="10" style="animation-delay:0.45s"/>
+<text class="n" x="278.0" y="151" text-anchor="start" style="fill:#14497e">0</text><text class="l" x="20" y="185">Africa / アフリカ州</text>
+<rect class="track" x="270" y="170" width="520" height="20" rx="10"/>
+<rect class="bar" x="270" y="170" width="0.0" height="20" rx="10" style="animation-delay:0.60s"/>
+<text class="n" x="278.0" y="185" text-anchor="start" style="fill:#14497e">0</text>
+</svg>
