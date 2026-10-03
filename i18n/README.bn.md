@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>বাংলা</b> · <a href="../LANGUAGES.md">সব 78টি ভাষা</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>বাংলা</b> · <a href="../LANGUAGES.md">সব 79টি ভাষা</a></p>
 
 <h1 align="center">হ্যালো, আমি AKSHRK</h1>
 

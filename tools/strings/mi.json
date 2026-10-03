@@ -1,0 +1,34 @@
+{
+  "languages": "Ngā reo katoa ({n})",
+  "hi": "Kia ora, ko AKSHRK ahau",
+  "intro": "He kaiwhakawhanake tauhou ahau. Ka whakahaere ahau i te ratonga manaaki tūmau <b>ASHIKA Network</b> me te rārangi tūmau Minecraft <b>SABALISU</b>, ā, ka hanga ahau i te pūmanawa tūmau Minecraft <b>Storia</b>.",
+  "about_t": "Mōku",
+  "about": [
+    "He tauhou tonu ahau, engari ka tuhi waehere ahau ia rā, ā, ka pai ake haere",
+    "Ka tuhi ahau i te **Python**, te **Node.js** me te **C#**",
+    "Ka whakahaere ahau i tāku ake ratonga manaaki tūmau",
+    "Nau mai ngā pātai mō aku ratonga, mō te hangarau rānei: mihi mai noa i runga Discord"
+  ],
+  "can_write": "Ngā mea ka taea e au te tuhi (tae atu ki te waehere pōraruraru)",
+  "services_t": "Aku ratonga",
+  "anw_t": "ASHIKA Network: he tūmau mai i te 30 yen ia marama",
+  "anw_p": "He ratonga manaaki mō te hunga e hiahia ana ki te whakahaere tūmau, engari kāore e taea te whakapau moni nui.\nTīmata iti, **mai i te 30 yen noa iho ia marama**.",
+  "website": "Paetukutuku",
+  "sab_t": "SABALISU: he rārangi tūmau Minecraft",
+  "sab_p": "Tāpirihia tō tūmau Minecraft ki te rārangi, ka kimi i ētahi tāngata hei tākaro ki reira.\nHe whai hua mō ngā kaitākaro e kimi ana i tētahi tūmau, me ngā rangatira e hiahia ana ki te whakatairanga i ō rātou.",
+  "storia_t": "Storia: he pūmanawa tūmau mō ngā tūmau Minecraft nunui",
+  "storia_p": "He peka puna tuwhera o Folia mō Minecraft 26.2. Mā te **Storia Cluster**, ka taea e tētahi ao kotahi te rere i runga i ētahi tūmau i te wā kotahi, ā, ka neke ngā kaitākaro i waenga i a rātou kāore he mata uta.",
+  "storia_points": [
+    "**Storia Cluster**: kotahi te ao e tiritiria ana e ētahi tūmau, he mea whakamuna ngā hononga i waenganui",
+    "**Relay tāpiri**: ka pupuri te relay tuarua i tētahi tārua ora, ā, ka riro i a ia mēnā ka ngaro te tuatahi",
+    "**Hōputu Linear**: tata ki te haurua o te wāhi kōpae e pau ana i te ao",
+    "**Ao RAM**, **Tick Guard**, he API mono mō ngā raraunga tiritiri, me ētahi atu"
+  ],
+  "source": "Waehere pūtake",
+  "stats_t": "Tatauranga GitHub",
+  "contact_t": "Whakapā mai",
+  "contact_afk": "Te Discord o AFK Network",
+  "contact_sab": "Te Discord o SABALISU",
+  "mail": "Īmēra",
+  "welcome": "Nau mai ki ngā mea katoa!"
+}

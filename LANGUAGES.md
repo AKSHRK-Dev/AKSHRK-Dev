@@ -2,7 +2,7 @@
 
 <h1 align="center">Languages / 言語一覧</h1>
 
-<p align="center">This profile is available in <b>78</b> languages. Pick yours below.<br>このプロフィールは <b>78</b> の言語で読めます。下から選んでください。</p>
+<p align="center">This profile is available in <b>79</b> languages. Pick yours below.<br>このプロフィールは <b>79</b> の言語で読めます。下から選んでください。</p>
 
 <p align="center"><img src="assets/continents.svg" width="820" alt="Languages per continent"></p>
 
@@ -165,13 +165,14 @@
 | [Português (Brasil)](i18n/README.pt-BR.md) | Portuguese (Brazil) | ポルトガル語（ブラジル） |
 | [Avañeʼẽ](i18n/README.gn.md) | Guarani | グアラニー語 |
 
-<h2 id="oceania">Oceania / オセアニア州 <sub>(2)</sub></h2>
+<h2 id="oceania">Oceania / オセアニア州 <sub>(3)</sub></h2>
 
 ### Australia and New Zealand / オーストラリア・ニュージーランド
 
 | Language | English | 日本語 |
 |---|---|---|
 | [English (UK)](i18n/README.en-GB.md) | English (UK) | 英語（英国式） |
+| [Te Reo Māori](i18n/README.mi.md) | Māori | マオリ語 |
 
 ### Melanesia, Polynesia and Micronesia / メラネシア・ポリネシア・ミクロネシア
 
