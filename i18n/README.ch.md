@@ -1,9 +1,9 @@
-<p align="center"><b>English</b> · <a href="README.ja.md">日本語</a> · <a href="LANGUAGES.md">All 80 languages</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Chamoru</b> · <a href="../LANGUAGES.md">Todu i lengguahi (80)</a></p>
 
-<h1 align="center">Hi, I'm AKSHRK</h1>
+<h1 align="center">Håfa adai, guåhu si AKSHRK</h1>
 
 <p align="center">
-  A beginner developer. I run the server hosting service <b>ASHIKA Network</b> and the Minecraft server list <b>SABALISU</b>, and build the Minecraft server software <b>Storia</b>.
+  Nuebu na developer. Guåhu manmanehalom i setbision server hosting <b>ASHIKA Network</b> yan i listan Minecraft server <b>SABALISU</b>, yan hu fåfa'tinas i software Minecraft server <b>Storia</b>.
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 ---
 
-## About Me
+## Put guåhu
 
-- I'm still new to this, but I write code every day and keep getting better
-- I write **Python**, **Node.js** and **C#**
-- I run my own server hosting service
-- Questions about my services or about tech are welcome: just say hi on Discord
+- Nuebu ha' yo', lao kada dia hu tuge' code yan mås mumåolek yo'
+- Hu tuge' **Python**, **Node.js** yan **C#**
+- Guåhu manmanehalom i propiu setbision server hosting-hu
+- Bienbenidu i finaisen put i setbision-hu pat teknolohiha: sångan ha' håfa adai gi Discord
 
-### What I can write (messy code included)
+### Håfa siña hu tuge' (ensegidas ni code ni ti mamåolek)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -29,12 +29,12 @@
 
 ---
 
-## My Services
+## I setbision-hu
 
-### ASHIKA Network: servers from 30 yen a month
+### ASHIKA Network: server ginen 30 yen kada mes
 
-A hosting service for people who want to run a server but can't spend much on it.
-Start small, from **as little as 30 yen a month**.
+Setbision hosting para manåyu' ni malagu' manmanehalom server lao ti siña mangåsta meggai.
+Tutuhon dikike', **ginen 30 yen ha' kada mes**.
 
 | | |
 |---|---|
@@ -43,10 +43,10 @@ Start small, from **as little as 30 yen a month**.
 
 <br>
 
-### SABALISU: a Minecraft server list
+### SABALISU: listan Minecraft server
 
-List your Minecraft server and find people to play on it.
-Useful both for players looking for a server and for owners who want to promote theirs.
+Na'såga i Minecraft server-mu gi lista ya un sodda' taotao para u ma'ugong guennao.
+Maolek para i manmañugong ni manaliligao server yan i man-dueñu ni malagu' ma promote i server-ñiha.
 
 | | |
 |---|---|
@@ -55,14 +55,14 @@ Useful both for players looking for a server and for owners who want to promote 
 
 <br>
 
-### Storia: server software for large Minecraft servers
+### Storia: software server para i dånkolo na Minecraft server
 
-An open-source fork of Folia for Minecraft 26.2. With **Storia Cluster**, one world can run on several servers at once, and players move between them without a loading screen.
+Open-source na fork Folia para Minecraft 26.2. Yan i **Storia Cluster**, un tano' siña ma oppera gi meggai server gi parehu na tiempo, ya i manmañugong ma tålo' gi entalo'-ñiha sin loading screen.
 
-- **Storia Cluster**: one world shared by several servers, with encrypted links between them
-- **Standby relay**: a second relay keeps a live copy and takes over if the first one is lost
-- **Linear region format**: worlds take about half the disk space
-- **RAM world**, **Tick Guard**, a plugin API for shared data, and more
+- **Storia Cluster**: un tano' ni ma ufisi meggai server, yan encrypted na koneksion gi entalo'-ñiha
+- **Standby relay**: i segundo na relay ha guåguatdi un kopia ya ha tulaika i fine'nana yanggen malingu
+- **Linear format**: i tano' ha usa kana' mitåt i lugåt gi disk
+- **RAM world**, **Tick Guard**, plugin API para shared data, yan meggai mås
 
 | | |
 |---|---|
@@ -85,12 +85,12 @@ An open-source fork of Folia for Minecraft 26.2. With **Storia Cluster**, one wo
 
 ---
 
-## Contact
+## Kontakta yo'
 
 - AFK Network Discord: https://discord.gg/q8TbzdRfsV
 - SABALISU Discord: https://discord.gg/KucQxEsJtr
-- Mail: admin@minecrafts.jp
+- Email: admin@minecrafts.jp
 
 <p align="center">
-  <sub>Anything is welcome!</sub>
+  <sub>Todu bienbenidu!</sub>
 </p>

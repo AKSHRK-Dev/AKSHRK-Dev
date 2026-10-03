@@ -1,0 +1,34 @@
+{
+  "languages": "Todu i lengguahi ({n})",
+  "hi": "Håfa adai, guåhu si AKSHRK",
+  "intro": "Nuebu na developer. Guåhu manmanehalom i setbision server hosting <b>ASHIKA Network</b> yan i listan Minecraft server <b>SABALISU</b>, yan hu fåfa'tinas i software Minecraft server <b>Storia</b>.",
+  "about_t": "Put guåhu",
+  "about": [
+    "Nuebu ha' yo', lao kada dia hu tuge' code yan mås mumåolek yo'",
+    "Hu tuge' **Python**, **Node.js** yan **C#**",
+    "Guåhu manmanehalom i propiu setbision server hosting-hu",
+    "Bienbenidu i finaisen put i setbision-hu pat teknolohiha: sångan ha' håfa adai gi Discord"
+  ],
+  "can_write": "Håfa siña hu tuge' (ensegidas ni code ni ti mamåolek)",
+  "services_t": "I setbision-hu",
+  "anw_t": "ASHIKA Network: server ginen 30 yen kada mes",
+  "anw_p": "Setbision hosting para manåyu' ni malagu' manmanehalom server lao ti siña mangåsta meggai.\nTutuhon dikike', **ginen 30 yen ha' kada mes**.",
+  "website": "Website",
+  "sab_t": "SABALISU: listan Minecraft server",
+  "sab_p": "Na'såga i Minecraft server-mu gi lista ya un sodda' taotao para u ma'ugong guennao.\nMaolek para i manmañugong ni manaliligao server yan i man-dueñu ni malagu' ma promote i server-ñiha.",
+  "storia_t": "Storia: software server para i dånkolo na Minecraft server",
+  "storia_p": "Open-source na fork Folia para Minecraft 26.2. Yan i **Storia Cluster**, un tano' siña ma oppera gi meggai server gi parehu na tiempo, ya i manmañugong ma tålo' gi entalo'-ñiha sin loading screen.",
+  "storia_points": [
+    "**Storia Cluster**: un tano' ni ma ufisi meggai server, yan encrypted na koneksion gi entalo'-ñiha",
+    "**Standby relay**: i segundo na relay ha guåguatdi un kopia ya ha tulaika i fine'nana yanggen malingu",
+    "**Linear format**: i tano' ha usa kana' mitåt i lugåt gi disk",
+    "**RAM world**, **Tick Guard**, plugin API para shared data, yan meggai mås"
+  ],
+  "source": "Source code",
+  "stats_t": "GitHub Stats",
+  "contact_t": "Kontakta yo'",
+  "contact_afk": "AFK Network Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "Email",
+  "welcome": "Todu bienbenidu!"
+}

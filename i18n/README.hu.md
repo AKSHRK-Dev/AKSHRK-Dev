@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Magyar</b> · <a href="../LANGUAGES.md">Mind a(z) 79 nyelv</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Magyar</b> · <a href="../LANGUAGES.md">Mind a(z) 80 nyelv</a></p>
 
 <h1 align="center">Szia, AKSHRK vagyok</h1>
 
