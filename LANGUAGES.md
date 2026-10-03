@@ -2,7 +2,7 @@
 
 <h1 align="center">Languages / 言語一覧</h1>
 
-<p align="center">This profile is available in <b>72</b> languages. Pick yours below.<br>このプロフィールは <b>72</b> の言語で読めます。下から選んでください。</p>
+<p align="center">This profile is available in <b>73</b> languages. Pick yours below.<br>このプロフィールは <b>73</b> の言語で読めます。下から選んでください。</p>
 
 <p align="center"><img src="assets/continents.svg" width="820" alt="Languages per continent"></p>
 
@@ -70,7 +70,7 @@
 | [עברית](i18n/README.he.md) | Hebrew | ヘブライ語 |
 | [Azərbaycanca](i18n/README.az.md) | Azerbaijani | アゼルバイジャン語 |
 
-<h2 id="europe">Europe / ヨーロッパ州 <sub>(36)</sub></h2>
+<h2 id="europe">Europe / ヨーロッパ州 <sub>(37)</sub></h2>
 
 ### Eastern Europe / 東ヨーロッパ
 
@@ -128,6 +128,7 @@
 | [Ελληνικά](i18n/README.el.md) | Greek | ギリシャ語 |
 | [Български](i18n/README.bg.md) | Bulgarian | ブルガリア語 |
 | [Crnogorski](i18n/README.cnr.md) | Montenegrin | モンテネグロ語 |
+| [Македонски](i18n/README.mk.md) | Macedonian | マケドニア語 |
 
 <h2 id="americas">Americas / アメリカ州 <sub>(4)</sub></h2>
 
