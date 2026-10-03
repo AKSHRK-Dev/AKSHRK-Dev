@@ -182,8 +182,9 @@ def hello_svg(n):
 .d {{ fill: #7fb2ea; opacity: .25; animation: tw 4s ease-in-out infinite; }}
 @keyframes tw {{ 50% {{ opacity: .8; }} }}
 .sub {{ font: 600 16px system-ui, -apple-system, "Segoe UI", sans-serif; fill: #cfe2f8; text-anchor: middle; letter-spacing: 2px; }}
-.orbit {{ fill: none; stroke: #7fb2ea; stroke-opacity: .35; stroke-dasharray: 4 8; animation: spin 30s linear infinite; transform-origin: 410px 100px; }}
-@keyframes spin {{ to {{ transform: rotate(360deg); }} }}
+.orbit {{ fill: none; stroke: #7fb2ea; stroke-opacity: .35; stroke-dasharray: 4 8; animation: flow 6s linear infinite; }}
+@keyframes flow {{ to {{ stroke-dashoffset: -120; }} }}
+@media (prefers-reduced-motion: reduce) {{ .g {{ animation: none; }} .g:first-of-type {{ opacity: 1; }} .orbit, .d {{ animation: none; }} }}
 </style>
 <rect width="820" height="200" rx="18" fill="url(#bg)"/>
 {dots}
