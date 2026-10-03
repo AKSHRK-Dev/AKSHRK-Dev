@@ -1,0 +1,34 @@
+{
+  "languages": "Svi jezici ({n})",
+  "hi": "Zdravo, ja sam AKSHRK",
+  "intro": "Programer početnik. Vodim uslugu hostinga servera <b>ASHIKA Network</b> i listu Minecraft servera <b>SABALISU</b>, a razvijam i softver za Minecraft servere <b>Storia</b>.",
+  "about_t": "O meni",
+  "about": [
+    "Još sam početnik, ali svaki dan pišem kod i napredujem",
+    "Pišem u **Pythonu**, **Node.js-u** i **C#-u**",
+    "Vodim sopstvenu uslugu hostinga servera",
+    "Pitanja o mojim uslugama ili o tehnologiji su dobrodošla: samo se javite na Discordu"
+  ],
+  "can_write": "Šta znam da pišem (uključujući neuredan kod)",
+  "services_t": "Moje usluge",
+  "anw_t": "ASHIKA Network: serveri od 30 jena mjesečno",
+  "anw_p": "Usluga hostinga za one koji žele da pokrenu server, a ne mogu mnogo da potroše.\nPočnite od malog, **već od 30 jena mjesečno**.",
+  "website": "Veb-sajt",
+  "sab_t": "SABALISU: lista Minecraft servera",
+  "sab_p": "Dodajte svoj Minecraft server na listu i pronađite ljude koji će igrati na njemu.\nKorisno i igračima koji traže server i vlasnicima koji žele da ga promovišu.",
+  "storia_t": "Storia: softver za velike Minecraft servere",
+  "storia_p": "Fork Folije otvorenog koda za Minecraft 26.2. Uz **Storia Cluster** jedan svijet može da radi na više servera istovremeno, a igrači prelaze između njih bez ekrana za učitavanje.",
+  "storia_points": [
+    "**Storia Cluster**: jedan svijet dijeli više servera, a veze među njima su šifrovane",
+    "**Rezervni relay**: drugi relay čuva živu kopiju i preuzima posao ako se prvi izgubi",
+    "**Format Linear**: svijet zauzima otprilike pola prostora na disku",
+    "**Svijet u RAM-u**, **Tick Guard**, API za dodatke za dijeljene podatke i još mnogo toga"
+  ],
+  "source": "Izvorni kod",
+  "stats_t": "GitHub statistika",
+  "contact_t": "Kontakt",
+  "contact_afk": "Discord AFK Network-a",
+  "contact_sab": "Discord SABALISU-a",
+  "mail": "E-pošta",
+  "welcome": "Sve je dobrodošlo!"
+}

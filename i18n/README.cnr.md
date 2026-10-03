@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Bosanski</b> · <a href="../LANGUAGES.md">Svi jezici (72)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Crnogorski</b> · <a href="../LANGUAGES.md">Svi jezici (72)</a></p>
 
 <h1 align="center">Zdravo, ja sam AKSHRK</h1>
 
@@ -18,10 +18,10 @@
 
 - Još sam početnik, ali svaki dan pišem kod i napredujem
 - Pišem u **Pythonu**, **Node.js-u** i **C#-u**
-- Vodim vlastitu uslugu hostinga servera
+- Vodim sopstvenu uslugu hostinga servera
 - Pitanja o mojim uslugama ili o tehnologiji su dobrodošla: samo se javite na Discordu
 
-### Šta znam pisati (uključujući neuredan kod)
+### Šta znam da pišem (uključujući neuredan kod)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -33,12 +33,12 @@
 
 ### ASHIKA Network: serveri od 30 jena mjesečno
 
-Usluga hostinga za one koji žele pokrenuti server, a ne mogu mnogo potrošiti.
+Usluga hostinga za one koji žele da pokrenu server, a ne mogu mnogo da potroše.
 Počnite od malog, **već od 30 jena mjesečno**.
 
 | | |
 |---|---|
-| Web stranica | https://www.ashikanw.com |
+| Veb-sajt | https://www.ashikanw.com |
 | Discord | https://link.ashikanw.com/discord |
 
 <br>
@@ -46,27 +46,27 @@ Počnite od malog, **već od 30 jena mjesečno**.
 ### SABALISU: lista Minecraft servera
 
 Dodajte svoj Minecraft server na listu i pronađite ljude koji će igrati na njemu.
-Korisno i igračima koji traže server i vlasnicima koji ga žele promovisati.
+Korisno i igračima koji traže server i vlasnicima koji žele da ga promovišu.
 
 | | |
 |---|---|
-| Web stranica | https://minecrafts.jp |
+| Veb-sajt | https://minecrafts.jp |
 | Discord | https://discord.gg/KucQxEsJtr |
 
 <br>
 
 ### Storia: softver za velike Minecraft servere
 
-Fork Folije otvorenog koda za Minecraft 26.2. Uz **Storia Cluster** jedan svijet može raditi na više servera istovremeno, a igrači se kreću između njih bez ekrana za učitavanje.
+Fork Folije otvorenog koda za Minecraft 26.2. Uz **Storia Cluster** jedan svijet može da radi na više servera istovremeno, a igrači prelaze između njih bez ekrana za učitavanje.
 
-- **Storia Cluster**: jedan svijet dijeli više servera, a veze između njih su šifrovane
+- **Storia Cluster**: jedan svijet dijeli više servera, a veze među njima su šifrovane
 - **Rezervni relay**: drugi relay čuva živu kopiju i preuzima posao ako se prvi izgubi
 - **Format Linear**: svijet zauzima otprilike pola prostora na disku
 - **Svijet u RAM-u**, **Tick Guard**, API za dodatke za dijeljene podatke i još mnogo toga
 
 | | |
 |---|---|
-| Web stranica | https://storiamc.com |
+| Veb-sajt | https://storiamc.com |
 | Izvorni kod | https://github.com/AKSHRK-Dev/Storia |
 
 <p>
@@ -87,7 +87,7 @@ Fork Folije otvorenog koda za Minecraft 26.2. Uz **Storia Cluster** jedan svijet
 
 ## Kontakt
 
-- Discord AFK Networka: https://discord.gg/q8TbzdRfsV
+- Discord AFK Network-a: https://discord.gg/q8TbzdRfsV
 - Discord SABALISU-a: https://discord.gg/KucQxEsJtr
 - E-pošta: admin@minecrafts.jp
 
