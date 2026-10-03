@@ -1,0 +1,34 @@
+{
+  "languages": "Alle {n} språk",
+  "hi": "Hei, jeg er AKSHRK",
+  "intro": "En nybegynner innen utvikling. Jeg driver hostingtjenesten <b>ASHIKA Network</b> og Minecraft-serverlisten <b>SABALISU</b>, og utvikler Minecraft-serverprogramvaren <b>Storia</b>.",
+  "about_t": "Om meg",
+  "about": [
+    "Jeg er fortsatt ny, men jeg skriver kode hver dag og blir stadig bedre",
+    "Jeg skriver **Python**, **Node.js** og **C#**",
+    "Jeg driver min egen tjeneste for serverhosting",
+    "Spørsmål om tjenestene mine eller om teknologi er velkomne: bare si hei på Discord"
+  ],
+  "can_write": "Det jeg kan skrive (rotete kode inkludert)",
+  "services_t": "Tjenestene mine",
+  "anw_t": "ASHIKA Network: servere fra 30 yen i måneden",
+  "anw_p": "En hostingtjeneste for dem som vil kjøre en server, men ikke kan bruke mye penger på den.\nStart i det små, **fra bare 30 yen i måneden**.",
+  "website": "Nettsted",
+  "sab_t": "SABALISU: en liste over Minecraft-servere",
+  "sab_p": "Legg ut Minecraft-serveren din og finn folk som vil spille på den.\nNyttig både for spillere som leter etter en server og for eiere som vil promotere sin.",
+  "storia_t": "Storia: serverprogramvare for store Minecraft-servere",
+  "storia_p": "En fork av Folia med åpen kildekode for Minecraft 26.2. Med **Storia Cluster** kan én verden kjøre på flere servere samtidig, og spillere flytter mellom dem uten lasteskjerm.",
+  "storia_points": [
+    "**Storia Cluster**: én verden delt av flere servere, med krypterte forbindelser mellom dem",
+    "**Reserve-relay**: et andre relay holder en levende kopi og tar over hvis det første går tapt",
+    "**Linear-formatet**: verdener tar omtrent halvparten av diskplassen",
+    "**RAM-verden**, **Tick Guard**, et plugin-API for delte data, og mer"
+  ],
+  "source": "Kildekode",
+  "stats_t": "GitHub-statistikk",
+  "contact_t": "Kontakt",
+  "contact_afk": "AFK Network sin Discord",
+  "contact_sab": "SABALISU sin Discord",
+  "mail": "E-post",
+  "welcome": "Alt er velkomment!"
+}
