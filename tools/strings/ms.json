@@ -1,0 +1,34 @@
+{
+  "languages": "Kesemua {n} bahasa",
+  "hi": "Hai, saya AKSHRK",
+  "intro": "Seorang pembangun yang baru bermula. Saya mengendalikan perkhidmatan pengehosan pelayan <b>ASHIKA Network</b> dan senarai pelayan Minecraft <b>SABALISU</b>, serta membangunkan perisian pelayan Minecraft <b>Storia</b>.",
+  "about_t": "Tentang Saya",
+  "about": [
+    "Saya masih baru, tetapi saya menulis kod setiap hari dan semakin baik",
+    "Saya menulis **Python**, **Node.js** dan **C#**",
+    "Saya mengendalikan perkhidmatan pengehosan pelayan sendiri",
+    "Soalan tentang perkhidmatan saya atau tentang teknologi dialu-alukan: tegur sahaja saya di Discord"
+  ],
+  "can_write": "Apa yang saya boleh tulis (termasuk kod yang bersepah)",
+  "services_t": "Perkhidmatan Saya",
+  "anw_t": "ASHIKA Network: pelayan dari 30 yen sebulan",
+  "anw_p": "Perkhidmatan pengehosan untuk mereka yang mahu menjalankan pelayan tetapi tidak mampu berbelanja banyak.\nMulakan secara kecil, **dari serendah 30 yen sebulan**.",
+  "website": "Laman web",
+  "sab_t": "SABALISU: senarai pelayan Minecraft",
+  "sab_p": "Senaraikan pelayan Minecraft anda dan cari orang untuk bermain bersama.\nBerguna untuk pemain yang mencari pelayan dan juga pemilik yang mahu mempromosikan pelayan mereka.",
+  "storia_t": "Storia: perisian pelayan untuk pelayan Minecraft yang besar",
+  "storia_p": "Fork sumber terbuka bagi Folia untuk Minecraft 26.2. Dengan **Storia Cluster**, satu dunia boleh berjalan pada beberapa pelayan serentak, dan pemain berpindah antara pelayan tanpa skrin pemuatan.",
+  "storia_points": [
+    "**Storia Cluster**: satu dunia dikongsi oleh beberapa pelayan, dengan sambungan yang disulitkan",
+    "**Relay siap sedia**: relay kedua menyimpan salinan langsung dan mengambil alih jika yang pertama hilang",
+    "**Format Linear**: dunia menggunakan kira-kira separuh ruang cakera",
+    "**Dunia RAM**, **Tick Guard**, API pemalam untuk data dikongsi, dan banyak lagi"
+  ],
+  "source": "Kod sumber",
+  "stats_t": "Statistik GitHub",
+  "contact_t": "Hubungi",
+  "contact_afk": "Discord AFK Network",
+  "contact_sab": "Discord SABALISU",
+  "mail": "E-mel",
+  "welcome": "Apa-apa sahaja dialu-alukan!"
+}
