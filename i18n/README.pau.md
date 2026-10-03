@@ -1,9 +1,9 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>English (UK)</b> · <a href="../LANGUAGES.md">All 81 languages</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Tekoi er a Belau</b> · <a href="../LANGUAGES.md">Rokui el tekoi (81)</a></p>
 
-<h1 align="center">Hi, I'm AKSHRK</h1>
+<h1 align="center">Alii, ak AKSHRK</h1>
 
 <p align="center">
-  A beginner developer. I run the server hosting service <b>ASHIKA Network</b> and the Minecraft server list <b>SABALISU</b>, and develop the Minecraft server software <b>Storia</b>.
+  Ak beches el developer. Ak mesisiich er a server hosting service el <b>ASHIKA Network</b> me a Minecraft server list el <b>SABALISU</b>, e ak meruul a Minecraft server software el <b>Storia</b>.
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 ---
 
-## About Me
+## Rengak
 
-- I'm still new to this, but I write code every day and I'm getting better all the time
-- I write **Python**, **Node.js** and **C#**
-- I run my own server hosting service
-- Questions about my services or about tech are very welcome: just say hello on Discord
+- Ak di beches, engdi ak mluchel er a code er a bek el sils e ak mo ungil
+- Ak mluchel er a **Python**, **Node.js** me a **C#**
+- Ak mesisiich er a ngii el server hosting service
+- Ke mla er a ker el kirel a service er ngak me a technology e ke mo dmu el alii er a Discord
 
-### What I can write (messy code included)
+### A ngak el sebechek el luchel (me a code el diak el ungil)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -29,12 +29,12 @@
 
 ---
 
-## My Services
+## A service er ngak
 
-### ASHIKA Network: servers from 30 yen a month
+### ASHIKA Network: a server er a 30 yen er a bek el buil
 
-A hosting service for people who'd like to run a server but can't spend much on one.
-Start small, from **as little as 30 yen a month**.
+A hosting service el kirel a rechad el soal el mo er a server engdi diak el sebechir el olengit a betok el udoud.
+Mo uchei er a kekere, **er a 30 yen er a bek el buil**.
 
 | | |
 |---|---|
@@ -45,8 +45,8 @@ Start small, from **as little as 30 yen a month**.
 
 ### SABALISU: a Minecraft server list
 
-List your Minecraft server and find people to play on it.
-Handy both for players looking for a server and for owners who want to promote theirs.
+Mo omekall a Minecraft server er kau er a list e mo nguu a rechad el mo ureor er ngii.
+Ungil el kirel a rechad el mesuub el mesaod er a server me a rechad el soal el omerk a server er tir.
 
 | | |
 |---|---|
@@ -55,14 +55,14 @@ Handy both for players looking for a server and for owners who want to promote t
 
 <br>
 
-### Storia: server software for large Minecraft servers
+### Storia: a server software el kirel a klou el Minecraft server
 
-An open-source fork of Folia for Minecraft 26.2. With **Storia Cluster**, one world can run on several servers at once, and players move between them without a loading screen.
+A open-source el fork er a Folia el kirel a Minecraft 26.2. Er a **Storia Cluster**, a tang el beluu a sebechel el ureor er a betok el server er a ta el taem, e a rechad el mesuub a mo er a chelsel er tir el diak a loading screen.
 
-- **Storia Cluster**: one world shared by several servers, with encrypted links between them
-- **Standby relay**: a second relay keeps a live copy and takes over if the first one is lost
-- **Linear region format**: worlds take up about half the disk space
-- **RAM world**, **Tick Guard**, a plugin API for shared data, and more besides
+- **Storia Cluster**: a tang el beluu el blechoel el uldasu a betok el server, me a encrypted el ngar er a chelsel
+- **Standby relay**: a ongeru el relay a melatk a kopia e mo okiu a ongdibus el relay a lmuut
+- **Linear format**: a beluu a melai a rebebil er a disk space
+- **RAM world**, **Tick Guard**, a plugin API el kirel a shared data, me a betok
 
 | | |
 |---|---|
@@ -85,12 +85,12 @@ An open-source fork of Folia for Minecraft 26.2. With **Storia Cluster**, one wo
 
 ---
 
-## Contact
+## Kongtak
 
 - AFK Network Discord: https://discord.gg/q8TbzdRfsV
 - SABALISU Discord: https://discord.gg/KucQxEsJtr
-- Mail: admin@minecrafts.jp
+- Email: admin@minecrafts.jp
 
 <p align="center">
-  <sub>Anything and everything is welcome!</sub>
+  <sub>Rokui a ungil el bsecheklel!</sub>
 </p>

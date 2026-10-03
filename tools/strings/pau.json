@@ -1,0 +1,34 @@
+{
+  "languages": "Rokui el tekoi ({n})",
+  "hi": "Alii, ak AKSHRK",
+  "intro": "Ak beches el developer. Ak mesisiich er a server hosting service el <b>ASHIKA Network</b> me a Minecraft server list el <b>SABALISU</b>, e ak meruul a Minecraft server software el <b>Storia</b>.",
+  "about_t": "Rengak",
+  "about": [
+    "Ak di beches, engdi ak mluchel er a code er a bek el sils e ak mo ungil",
+    "Ak mluchel er a **Python**, **Node.js** me a **C#**",
+    "Ak mesisiich er a ngii el server hosting service",
+    "Ke mla er a ker el kirel a service er ngak me a technology e ke mo dmu el alii er a Discord"
+  ],
+  "can_write": "A ngak el sebechek el luchel (me a code el diak el ungil)",
+  "services_t": "A service er ngak",
+  "anw_t": "ASHIKA Network: a server er a 30 yen er a bek el buil",
+  "anw_p": "A hosting service el kirel a rechad el soal el mo er a server engdi diak el sebechir el olengit a betok el udoud.\nMo uchei er a kekere, **er a 30 yen er a bek el buil**.",
+  "website": "Website",
+  "sab_t": "SABALISU: a Minecraft server list",
+  "sab_p": "Mo omekall a Minecraft server er kau er a list e mo nguu a rechad el mo ureor er ngii.\nUngil el kirel a rechad el mesuub el mesaod er a server me a rechad el soal el omerk a server er tir.",
+  "storia_t": "Storia: a server software el kirel a klou el Minecraft server",
+  "storia_p": "A open-source el fork er a Folia el kirel a Minecraft 26.2. Er a **Storia Cluster**, a tang el beluu a sebechel el ureor er a betok el server er a ta el taem, e a rechad el mesuub a mo er a chelsel er tir el diak a loading screen.",
+  "storia_points": [
+    "**Storia Cluster**: a tang el beluu el blechoel el uldasu a betok el server, me a encrypted el ngar er a chelsel",
+    "**Standby relay**: a ongeru el relay a melatk a kopia e mo okiu a ongdibus el relay a lmuut",
+    "**Linear format**: a beluu a melai a rebebil er a disk space",
+    "**RAM world**, **Tick Guard**, a plugin API el kirel a shared data, me a betok"
+  ],
+  "source": "Source code",
+  "stats_t": "GitHub Stats",
+  "contact_t": "Kongtak",
+  "contact_afk": "AFK Network Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "Email",
+  "welcome": "Rokui a ungil el bsecheklel!"
+}

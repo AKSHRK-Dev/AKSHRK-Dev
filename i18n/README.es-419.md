@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Español (Latinoamérica)</b> · <a href="../LANGUAGES.md">Los 80 idiomas</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Español (Latinoamérica)</b> · <a href="../LANGUAGES.md">Los 81 idiomas</a></p>
 
 <h1 align="center">Hola, soy AKSHRK</h1>
 
