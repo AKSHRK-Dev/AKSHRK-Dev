@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Vagahau Niuē</b> · <a href="../LANGUAGES.md">Tau vagahau oti (92)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Vagahau Niuē</b> · <a href="../LANGUAGES.md">Tau vagahau oti (93)</a></p>
 
 <h1 align="center">Fakaalofa lahi atu, ko au ko AKSHRK</h1>
 
