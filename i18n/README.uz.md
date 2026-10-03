@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Oʻzbekcha</b> · <a href="../LANGUAGES.md">Barcha 50 til</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Oʻzbekcha</b> · <a href="../LANGUAGES.md">Barcha 51 til</a></p>
 
 <h1 align="center">Salom, men AKSHRK</h1>
 

@@ -1,0 +1,34 @@
+{
+  "languages": "Visos kalbos ({n})",
+  "hi": "Labas, aš AKSHRK",
+  "intro": "Pradedantis programuotojas. Valdau serverių talpinimo paslaugą <b>ASHIKA Network</b> ir „Minecraft“ serverių sąrašą <b>SABALISU</b>, taip pat kuriu „Minecraft“ serverių programinę įrangą <b>Storia</b>.",
+  "about_t": "Apie mane",
+  "about": [
+    "Dar esu naujokas, bet kasdien rašau kodą ir tobulėju",
+    "Rašau **Python**, **Node.js** ir **C#** kalbomis",
+    "Valdau savo serverių talpinimo paslaugą",
+    "Klausimai apie mano paslaugas ar technologijas laukiami: tiesiog pasisveikinkite Discord"
+  ],
+  "can_write": "Ką moku rašyti (įskaitant netvarkingą kodą)",
+  "services_t": "Mano paslaugos",
+  "anw_t": "ASHIKA Network: serveriai nuo 30 jenų per mėnesį",
+  "anw_p": "Talpinimo paslauga tiems, kurie nori turėti serverį, bet negali daug išleisti.\nPradėkite nuo mažo, **vos nuo 30 jenų per mėnesį**.",
+  "website": "Svetainė",
+  "sab_t": "SABALISU: „Minecraft“ serverių sąrašas",
+  "sab_p": "Įtraukite savo „Minecraft“ serverį į sąrašą ir raskite žmonių, kurie jame žais.\nNaudinga ir serverio ieškantiems žaidėjams, ir savininkams, norintiems reklamuoti savo serverį.",
+  "storia_t": "Storia: serverių programinė įranga dideliems „Minecraft“ serveriams",
+  "storia_p": "Atvirojo kodo Folia atšaka, skirta „Minecraft“ 26.2. Su **Storia Cluster** vienas pasaulis gali veikti keliuose serveriuose vienu metu, o žaidėjai tarp jų juda be įkėlimo ekrano.",
+  "storia_points": [
+    "**Storia Cluster**: vieną pasaulį dalijasi keli serveriai, ryšiai tarp jų užšifruoti",
+    "**Atsarginis relay**: antrasis relay laiko gyvą kopiją ir perima darbą, jei pirmasis prarandamas",
+    "**Linear formatas**: pasaulis užima maždaug pusę disko vietos",
+    "**RAM pasaulis**, **Tick Guard**, papildinių API bendriems duomenims ir dar daugiau"
+  ],
+  "source": "Šaltinio kodas",
+  "stats_t": "GitHub statistika",
+  "contact_t": "Kontaktai",
+  "contact_afk": "AFK Network Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "El. paštas",
+  "welcome": "Laukiama visko!"
+}
