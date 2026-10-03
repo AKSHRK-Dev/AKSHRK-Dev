@@ -1,0 +1,34 @@
+{
+  "languages": "Aolep kajin ({n})",
+  "hi": "Iọkwe, ña AKSHRK",
+  "intro": "Juon ri-kōmmanmōn eak ekāāl. Ij lolōrjake jerbal in kōjparok server <b>ASHIKA Network</b> im laajrak in Minecraft server <b>SABALISU</b>, im ij kōmmane software in Minecraft server <b>Storia</b>.",
+  "about_t": "Kōn eō",
+  "about": [
+    "Ij ekāāl wōt, ak aolep raan ij je code im ij kōmmōn wōt ñan an emman",
+    "Ij je **Python**, **Node.js** im **C#**",
+    "Ij lolōrjake jerbal in kōjparok server eo aō make",
+    "Kajjitōk ko kōn jerbal ko aō ak technology rej ruwaj: ba wōt iọkwe ilo Discord"
+  ],
+  "can_write": "Ta eo ij maroñ je (barāinwōt code ko rejjab emman)",
+  "services_t": "Jerbal ko aō",
+  "anw_t": "ASHIKA Network: server jen 30 yen ilo juon allōñ",
+  "anw_p": "Juon jerbal in kōjparok ñan ro rekōnaan kōjerbal juon server ak rejjab maroñ kōjerbale elōñ mani.\nJino jidik, **jen 30 yen wōt ilo juon allōñ**.",
+  "website": "Website",
+  "sab_t": "SABALISU: juon laajrak in Minecraft server",
+  "sab_p": "Kōdedeļọk Minecraft server eo am ilo laajrak eo im pukōt armej ñan kūrel ie.\nEjerbal ñan ri-kūrel ro rej pukōt juon server im ñan ri-lewaj ro rekōnaan kwaļọk server eo aer.",
+  "storia_t": "Storia: software in server ñan Minecraft server ko reļļap",
+  "storia_p": "Juon open-source fork in Folia ñan Minecraft 26.2. Ippān **Storia Cluster**, juon lal emaroñ jerbal ilo elōñ server ilo ejja juon iien, im ri-kūrel ro rej ito-itak ikōtaan er ilọkin loading screen.",
+  "storia_points": [
+    "**Storia Cluster**: juon lal elōñ server rej kōjerbale, im kōkkeitak ko ikōtaan er rej encrypted",
+    "**Standby relay**: relay eo kein ka-ruo ej kōjparok juon kopi im ej bōk jikin eo kein ka-juon ñe ejako",
+    "**Linear format**: lal ej kōjerbal jimettan in jikin ilo disk",
+    "**RAM lal**, **Tick Guard**, juon plugin API ñan data ko rej kōjerbali ippān doon, im elōñ bar"
+  ],
+  "source": "Source code",
+  "stats_t": "GitHub Stats",
+  "contact_t": "Kōkkeitak",
+  "contact_afk": "Discord eo an AFK Network",
+  "contact_sab": "Discord eo an SABALISU",
+  "mail": "Email",
+  "welcome": "Aolep men rej ruwaj!"
+}

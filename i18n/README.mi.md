@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Te Reo Māori</b> · <a href="../LANGUAGES.md">Ngā reo katoa (91)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Te Reo Māori</b> · <a href="../LANGUAGES.md">Ngā reo katoa (92)</a></p>
 
 <h1 align="center">Kia ora, ko AKSHRK ahau</h1>
 

@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Lea faka-Tonga</b> · <a href="../LANGUAGES.md">Lea kotoa (91)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Lea faka-Tonga</b> · <a href="../LANGUAGES.md">Lea kotoa (92)</a></p>
 
 <h1 align="center">Mālō e lelei, ko au ʻa AKSHRK</h1>
 
