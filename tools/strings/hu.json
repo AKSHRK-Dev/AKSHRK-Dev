@@ -1,0 +1,34 @@
+{
+  "languages": "Mind a(z) {n} nyelv",
+  "hi": "Szia, AKSHRK vagyok",
+  "intro": "Kezdő fejlesztő vagyok. Én üzemeltetem az <b>ASHIKA Network</b> szervertárhely-szolgáltatást és a <b>SABALISU</b> Minecraft-szerverlistát, valamint én fejlesztem a <b>Storia</b> Minecraft-szerverszoftvert.",
+  "about_t": "Rólam",
+  "about": [
+    "Még kezdő vagyok, de minden nap kódolok, és egyre jobb leszek",
+    "**Python**, **Node.js** és **C#** nyelven írok",
+    "Saját szervertárhely-szolgáltatást üzemeltetek",
+    "A szolgáltatásaimmal vagy a technológiával kapcsolatos kérdéseket szívesen fogadom: csak köszönj rám Discordon"
+  ],
+  "can_write": "Amiben írni tudok (a kusza kódot is beleértve)",
+  "services_t": "Szolgáltatásaim",
+  "anw_t": "ASHIKA Network: szerverek havi 30 jentől",
+  "anw_p": "Tárhelyszolgáltatás azoknak, akik szervert szeretnének futtatni, de nem tudnak sokat költeni rá.\nKezdd kicsiben, **már havi 30 jentől**.",
+  "website": "Weboldal",
+  "sab_t": "SABALISU: Minecraft-szerverlista",
+  "sab_p": "Vedd fel a Minecraft-szerveredet a listára, és találj embereket, akik játszanak rajta.\nHasznos a szervert kereső játékosoknak és a szerverüket népszerűsíteni kívánó tulajdonosoknak is.",
+  "storia_t": "Storia: szerverszoftver nagy Minecraft-szerverekhez",
+  "storia_p": "A Folia nyílt forráskódú forkja a Minecraft 26.2-höz. A **Storia Cluster** segítségével egy világ egyszerre több szerveren is futhat, a játékosok pedig betöltőképernyő nélkül mozognak közöttük.",
+  "storia_points": [
+    "**Storia Cluster**: egy világon több szerver osztozik, a köztük lévő kapcsolat titkosított",
+    "**Tartalék relay**: egy második relay élő másolatot tart, és átveszi a munkát, ha az első elvész",
+    "**Linear formátum**: a világ nagyjából feleannyi lemezterületet foglal",
+    "**RAM-világ**, **Tick Guard**, plugin API megosztott adatokhoz és még sok más"
+  ],
+  "source": "Forráskód",
+  "stats_t": "GitHub-statisztikák",
+  "contact_t": "Kapcsolat",
+  "contact_afk": "AFK Network Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "E-mail",
+  "welcome": "Bármit szívesen fogadok!"
+}
