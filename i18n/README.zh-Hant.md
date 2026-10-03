@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>繁體中文</b> · <a href="../LANGUAGES.md">全部 55 種語言</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>繁體中文</b> · <a href="../LANGUAGES.md">全部 56 種語言</a></p>
 
 <h1 align="center">你好，我是 AKSHRK</h1>
 

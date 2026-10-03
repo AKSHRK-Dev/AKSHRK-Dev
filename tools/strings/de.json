@@ -1,0 +1,34 @@
+{
+  "languages": "Alle {n} Sprachen",
+  "hi": "Hallo, ich bin AKSHRK",
+  "intro": "Ein Entwickler am Anfang. Ich betreibe den Server-Hosting-Dienst <b>ASHIKA Network</b> und die Minecraft-Serverliste <b>SABALISU</b> und entwickle die Minecraft-Serversoftware <b>Storia</b>.",
+  "about_t": "Über mich",
+  "about": [
+    "Ich bin noch neu dabei, schreibe aber jeden Tag Code und werde immer besser",
+    "Ich schreibe **Python**, **Node.js** und **C#**",
+    "Ich betreibe meinen eigenen Server-Hosting-Dienst",
+    "Fragen zu meinen Diensten oder zu Technik sind willkommen: Sag einfach Hallo auf Discord"
+  ],
+  "can_write": "Was ich schreiben kann (chaotischer Code inklusive)",
+  "services_t": "Meine Dienste",
+  "anw_t": "ASHIKA Network: Server ab 30 Yen im Monat",
+  "anw_p": "Ein Hosting-Dienst für alle, die einen Server betreiben möchten, aber nicht viel ausgeben können.\nFang klein an, **schon ab 30 Yen im Monat**.",
+  "website": "Website",
+  "sab_t": "SABALISU: eine Minecraft-Serverliste",
+  "sab_p": "Trag deinen Minecraft-Server ein und finde Leute, die darauf spielen.\nPraktisch für Spieler auf der Suche nach einem Server und für Betreiber, die ihren bekannt machen wollen.",
+  "storia_t": "Storia: Serversoftware für große Minecraft-Server",
+  "storia_p": "Ein Open-Source-Fork von Folia für Minecraft 26.2. Mit **Storia Cluster** kann eine Welt auf mehreren Servern gleichzeitig laufen, und Spieler wechseln ohne Ladebildschirm zwischen ihnen.",
+  "storia_points": [
+    "**Storia Cluster**: eine Welt, die sich mehrere Server teilen, mit verschlüsselten Verbindungen untereinander",
+    "**Standby-Relay**: ein zweites Relay hält eine Live-Kopie und übernimmt, wenn das erste ausfällt",
+    "**Linear-Format**: Welten brauchen etwa halb so viel Speicherplatz",
+    "**RAM-Welt**, **Tick Guard**, eine Plugin-API für gemeinsame Daten und mehr"
+  ],
+  "source": "Quellcode",
+  "stats_t": "GitHub-Statistiken",
+  "contact_t": "Kontakt",
+  "contact_afk": "Discord von AFK Network",
+  "contact_sab": "Discord von SABALISU",
+  "mail": "E-Mail",
+  "welcome": "Alles ist willkommen!"
+}
