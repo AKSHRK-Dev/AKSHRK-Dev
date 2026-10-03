@@ -1,0 +1,34 @@
+{
+  "languages": "Dhammaan {n} luqadood",
+  "hi": "Salaan, waxaan ahay AKSHRK",
+  "intro": "Horumariye bilow ah. Waxaan maamulaa adeegga martigelinta server-ka <b>ASHIKA Network</b> iyo liiska server-yada Minecraft <b>SABALISU</b>, waxaanan sameeyaa barnaamijka server-ka Minecraft <b>Storia</b>.",
+  "about_t": "Aniga",
+  "about": [
+    "Weli waan cusubahay, laakiin maalin kasta waan qoraa koodh waanan horumarayaa",
+    "Waxaan wax ku qoraa **Python**, **Node.js** iyo **C#**",
+    "Waxaan maamulaa adeeggayga martigelinta server-ka",
+    "Su'aalaha ku saabsan adeegyadayda ama tiknoolajiyadda waa la soo dhoweynayaa: kaliya ii salaan Discord"
+  ],
+  "can_write": "Waxa aan qori karo (oo ay ku jiraan koodh qasan)",
+  "services_t": "Adeegyadayda",
+  "anw_t": "ASHIKA Network: server-yo ka bilaabma 30 yen bishii",
+  "anw_p": "Adeeg martigelin ah oo loogu talagalay dadka doonaya inay server shaqeysiiyaan laakiin aan awoodin inay lacag badan bixiyaan.\nYar ka bilow, **laga bilaabo 30 yen oo keliya bishii**.",
+  "website": "Website",
+  "sab_t": "SABALISU: liiska server-yada Minecraft",
+  "sab_p": "Ku dar server-kaaga Minecraft liiska oo hel dad kula ciyaara.\nWaxtar u leh ciyaartoyda raadinaysa server iyo milkiilayaasha doonaya inay xayeysiiyaan kooda.",
+  "storia_t": "Storia: barnaamij server oo loogu talagalay server-yada waaweyn ee Minecraft",
+  "storia_p": "Fork il furan oo Folia ah oo loogu talagalay Minecraft 26.2. Iyadoo la adeegsanayo **Storia Cluster**, hal adduun ayaa hal mar ku shaqeyn kara dhowr server, ciyaartoyduna way kala guuraan iyagoo aan lahayn shaashad soo dejin.",
+  "storia_points": [
+    "**Storia Cluster**: hal adduun oo ay wadaagaan dhowr server, isku xirkooduna waa sir",
+    "**Relay kayd ah**: relay labaad ayaa haya nuqul nool wuxuuna la wareegaa haddii kan koowaad lumo",
+    "**Qaabka Linear**: adduunku wuxuu qaataa ku dhawaad kala badh boosaska diskiga",
+    "**Adduun RAM ku jira**, **Tick Guard**, API plugin oo xogta la wadaago, iyo in ka badan"
+  ],
+  "source": "Koodhka isha",
+  "stats_t": "Tirakoobka GitHub",
+  "contact_t": "Xiriir",
+  "contact_afk": "Discord-ka AFK Network",
+  "contact_sab": "Discord-ka SABALISU",
+  "mail": "Iimayl",
+  "welcome": "Wax walba waa la soo dhoweynayaa!"
+}

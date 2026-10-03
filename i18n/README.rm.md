@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Rumantsch</b> · <a href="../LANGUAGES.md">Tut las 98 linguas</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Rumantsch</b> · <a href="../LANGUAGES.md">Tut las 99 linguas</a></p>
 
 <h1 align="center">Allegra, jau sun AKSHRK</h1>
 

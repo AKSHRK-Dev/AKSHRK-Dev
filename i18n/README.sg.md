@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Sängö</b> · <a href="../LANGUAGES.md">Ayângâ kûê (98)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Sängö</b> · <a href="../LANGUAGES.md">Ayângâ kûê (99)</a></p>
 
 <h1 align="center">Balaô, mbï yeke AKSHRK</h1>
 
