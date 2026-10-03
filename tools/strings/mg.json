@@ -1,0 +1,34 @@
+{
+  "languages": "Ireo fiteny {n} rehetra",
+  "hi": "Manao ahoana, izaho no AKSHRK",
+  "intro": "Mpamorona rindrambaiko vao manomboka. Mitantana ny tolotra fampiantranoana mpizara <b>ASHIKA Network</b> sy ny lisitry ny mpizara Minecraft <b>SABALISU</b> aho, ary mamorona ny rindrambaiko mpizara ho an'ny Minecraft <b>Storia</b>.",
+  "about_t": "Momba ahy",
+  "about": [
+    "Mbola vao manomboka aho, nefa manoratra kaody isan'andro ary mihatsara hatrany",
+    "Manoratra **Python**, **Node.js** ary **C#** aho",
+    "Mitantana ny tolotra fampiantranoana mpizara ahy manokana aho",
+    "Raisina tsara ny fanontaniana momba ny tolotro na ny teknolojia: miarahaba fotsiny ahy ao amin'ny Discord"
+  ],
+  "can_write": "Izay azoko soratana (ao anatin'izany ny kaody mikorontana)",
+  "services_t": "Ireo tolotro",
+  "anw_t": "ASHIKA Network: mpizara manomboka amin'ny 30 yen isam-bolana",
+  "anw_p": "Tolotra fampiantranoana ho an'ireo te hampandeha mpizara nefa tsy afaka mandany vola be.\nManomboha kely, **manomboka amin'ny 30 yen fotsiny isam-bolana**.",
+  "website": "Tranonkala",
+  "sab_t": "SABALISU: lisitry ny mpizara Minecraft",
+  "sab_p": "Ampidiro ao amin'ny lisitra ny mpizara Minecraft anao ary mitadiava olona hilalao ao.\nMahasoa ho an'ny mpilalao mitady mpizara sy ny tompony te hampahafantatra ny azy.",
+  "storia_t": "Storia: rindrambaiko mpizara ho an'ny mpizara Minecraft lehibe",
+  "storia_p": "Fork open-source an'ny Folia ho an'ny Minecraft 26.2. Amin'ny **Storia Cluster**, tontolo iray dia afaka mandeha amin'ny mpizara maromaro miaraka, ary mifindra eo amin'izy ireo ny mpilalao tsy misy efijery fampidirana.",
+  "storia_points": [
+    "**Storia Cluster**: tontolo iray zarain'ny mpizara maromaro, misy fifandraisana voaaro amin'ny kriptografia",
+    "**Relay tahiry**: relay faharoa mitazona dika velona ary misolo ny voalohany raha very izy",
+    "**Endrika Linear**: manodidina ny antsasaky ny habaka ao amin'ny kapila no ampiasain'ny tontolo",
+    "**Tontolo ao amin'ny RAM**, **Tick Guard**, API plugin ho an'ny angona iombonana, sy ny hafa"
+  ],
+  "source": "Kaody loharano",
+  "stats_t": "Antontan'isa GitHub",
+  "contact_t": "Fifandraisana",
+  "contact_afk": "Discord an'ny AFK Network",
+  "contact_sab": "Discord an'ny SABALISU",
+  "mail": "Mailaka",
+  "welcome": "Raisina tsara ny zavatra rehetra!"
+}
