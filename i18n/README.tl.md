@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Tagalog</b> · <a href="../LANGUAGES.md">Lahat ng 8 wika</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Tagalog</b> · <a href="../LANGUAGES.md">Lahat ng 9 wika</a></p>
 
 <h1 align="center">Kumusta, ako si AKSHRK</h1>
 
