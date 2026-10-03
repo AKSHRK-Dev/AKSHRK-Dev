@@ -2,13 +2,13 @@
 
 <h1 align="center">Languages / 言語一覧</h1>
 
-<p align="center">This profile is available in <b>10</b> languages. Pick yours below.<br>このプロフィールは <b>10</b> の言語で読めます。下から選んでください。</p>
+<p align="center">This profile is available in <b>11</b> languages. Pick yours below.<br>このプロフィールは <b>11</b> の言語で読めます。下から選んでください。</p>
 
 <p align="center"><img src="assets/continents.svg" width="820" alt="Languages per continent"></p>
 
 <p align="center"><a href="#asia">Asia / アジア州</a> · <a href="#europe">Europe / ヨーロッパ州</a> · <a href="#americas">Americas / アメリカ州</a> · <a href="#oceania">Oceania / オセアニア州</a> · <a href="#africa">Africa / アフリカ州</a></p>
 
-<h2 id="asia">Asia / アジア州 <sub>(9)</sub></h2>
+<h2 id="asia">Asia / アジア州 <sub>(10)</sub></h2>
 
 ### East Asia / 東アジア
 
@@ -28,6 +28,7 @@
 | [Tiếng Việt](i18n/README.vi.md) | Vietnamese | ベトナム語 |
 | [ລາວ](i18n/README.lo.md) | Lao | ラオス語 |
 | [ខ្មែរ](i18n/README.km.md) | Khmer | クメール語 |
+| [ไทย](i18n/README.th.md) | Thai | タイ語 |
 
 <h2 id="europe">Europe / ヨーロッパ州 <sub>(0)</sub></h2>
 
