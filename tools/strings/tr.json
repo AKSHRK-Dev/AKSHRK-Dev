@@ -1,0 +1,34 @@
+{
+  "languages": "Tüm {n} dil",
+  "hi": "Merhaba, ben AKSHRK",
+  "intro": "Yeni başlayan bir geliştiriciyim. Sunucu barındırma hizmeti <b>ASHIKA Network</b>'ü ve Minecraft sunucu listesi <b>SABALISU</b>'yu işletiyor, Minecraft sunucu yazılımı <b>Storia</b>'yı geliştiriyorum.",
+  "about_t": "Hakkımda",
+  "about": [
+    "Henüz yeniyim ama her gün kod yazıyor ve gelişiyorum",
+    "**Python**, **Node.js** ve **C#** yazıyorum",
+    "Kendi sunucu barındırma hizmetimi işletiyorum",
+    "Hizmetlerim ya da teknoloji hakkındaki sorular memnuniyetle karşılanır: Discord'da merhaba demeniz yeterli"
+  ],
+  "can_write": "Yazabildiklerim (dağınık kod dahil)",
+  "services_t": "Hizmetlerim",
+  "anw_t": "ASHIKA Network: ayda 30 yenden başlayan sunucular",
+  "anw_p": "Sunucu çalıştırmak isteyip çok para harcayamayanlar için bir barındırma hizmeti.\nKüçük başlayın, **ayda yalnızca 30 yenden**.",
+  "website": "Web sitesi",
+  "sab_t": "SABALISU: Minecraft sunucu listesi",
+  "sab_p": "Minecraft sunucunuzu listeleyin ve birlikte oynayacak insanlar bulun.\nHem sunucu arayan oyuncular hem de sunucusunu tanıtmak isteyen sahipler için kullanışlı.",
+  "storia_t": "Storia: büyük Minecraft sunucuları için sunucu yazılımı",
+  "storia_p": "Minecraft 26.2 için Folia tabanlı, açık kaynaklı bir sunucu. **Storia Cluster** ile tek bir dünya aynı anda birden fazla sunucuda çalışabilir ve oyuncular yükleme ekranı olmadan aralarında geçiş yapar.",
+  "storia_points": [
+    "**Storia Cluster**: tek bir dünyayı birden fazla sunucu paylaşır, aralarındaki bağlantılar şifrelidir",
+    "**Yedek relay**: ikinci bir relay canlı bir kopya tutar ve ilki kaybolursa devralır",
+    "**Linear formatı**: dünya disk alanının yaklaşık yarısını kaplar",
+    "**RAM dünyası**, **Tick Guard**, veri paylaşımı için eklenti API'si ve daha fazlası"
+  ],
+  "source": "Kaynak kod",
+  "stats_t": "GitHub İstatistikleri",
+  "contact_t": "İletişim",
+  "contact_afk": "AFK Network Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "E-posta",
+  "welcome": "Her şeye açığım!"
+}
