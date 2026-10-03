@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Dorerin Naoero</b> · <a href="../LANGUAGES.md">Dorer ngabuen (96)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Dorerin Naoero</b> · <a href="../LANGUAGES.md">Dorer ngabuen (97)</a></p>
 
 <h1 align="center">Ekamawir omo, ngage AKSHRK</h1>
 
