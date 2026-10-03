@@ -1,0 +1,34 @@
+{
+  "languages": "Toate cele {n} de limbi",
+  "hi": "Salut, sunt AKSHRK",
+  "intro": "Un dezvoltator începător. Administrez serviciul de găzduire de servere <b>ASHIKA Network</b> și lista de servere Minecraft <b>SABALISU</b> și dezvolt software-ul de server pentru Minecraft <b>Storia</b>.",
+  "about_t": "Despre mine",
+  "about": [
+    "Sunt încă la început, dar scriu cod în fiecare zi și devin tot mai bun",
+    "Scriu în **Python**, **Node.js** și **C#**",
+    "Administrez propriul serviciu de găzduire de servere",
+    "Întrebările despre serviciile mele sau despre tehnologie sunt binevenite: doar salută-mă pe Discord"
+  ],
+  "can_write": "Ce pot scrie (inclusiv cod dezordonat)",
+  "services_t": "Serviciile mele",
+  "anw_t": "ASHIKA Network: servere de la 30 de yeni pe lună",
+  "anw_p": "Un serviciu de găzduire pentru cei care vor să ruleze un server, dar nu pot cheltui mult.\nÎncepe cu puțin, **de la doar 30 de yeni pe lună**.",
+  "website": "Site",
+  "sab_t": "SABALISU: listă de servere Minecraft",
+  "sab_p": "Adaugă-ți serverul Minecraft în listă și găsește oameni cu care să joci.\nUtilă atât pentru jucătorii care caută un server, cât și pentru proprietarii care vor să și-l promoveze.",
+  "storia_t": "Storia: software de server pentru servere Minecraft mari",
+  "storia_p": "Un fork open-source al Folia pentru Minecraft 26.2. Cu **Storia Cluster**, o singură lume poate rula pe mai multe servere deodată, iar jucătorii trec de la unul la altul fără ecran de încărcare.",
+  "storia_points": [
+    "**Storia Cluster**: o lume împărțită de mai multe servere, cu conexiuni criptate între ele",
+    "**Relay de rezervă**: un al doilea relay păstrează o copie live și preia controlul dacă primul se pierde",
+    "**Formatul Linear**: lumea ocupă cam jumătate din spațiul pe disc",
+    "**Lume în RAM**, **Tick Guard**, un API pentru pluginuri cu date partajate și multe altele"
+  ],
+  "source": "Cod sursă",
+  "stats_t": "Statistici GitHub",
+  "contact_t": "Contact",
+  "contact_afk": "Discordul AFK Network",
+  "contact_sab": "Discordul SABALISU",
+  "mail": "E-mail",
+  "welcome": "Orice e binevenit!"
+}
