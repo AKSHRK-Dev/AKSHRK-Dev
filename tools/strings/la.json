@@ -1,0 +1,34 @@
+{
+  "languages": "Omnes linguae ({n})",
+  "hi": "Salve, AKSHRK sum",
+  "intro": "Programmator tiro. Ministerium hospitii servitorum <b>ASHIKA Network</b> et indicem servitorum Minecraft <b>SABALISU</b> rego, atque programma servitoris Minecraft <b>Storia</b> fabrico.",
+  "about_t": "De me",
+  "about": [
+    "Adhuc tiro sum, sed cotidie codicem scribo et semper proficio",
+    "Scribo **Python**, **Node.js** et **C#**",
+    "Proprium ministerium hospitii servitorum rego",
+    "Quaestiones de ministeriis meis aut de arte technica gratae sunt: in Discord modo salvere iube"
+  ],
+  "can_write": "Quae scribere possum (etiam codicem incomptum)",
+  "services_t": "Ministeria mea",
+  "anw_t": "ASHIKA Network: servitores a 30 yen in mensem",
+  "anw_p": "Ministerium hospitii eis qui servitorem agere volunt sed multum impendere non possunt.\nA parvo incipe, **a 30 tantum yen in mensem**.",
+  "website": "Situs interretialis",
+  "sab_t": "SABALISU: index servitorum Minecraft",
+  "sab_p": "Servitorem tuum Minecraft in indicem refer et homines inveni qui in eo ludant.\nUtilis est et lusoribus servitorem quaerentibus et dominis qui suum divulgare volunt.",
+  "storia_t": "Storia: programma servitoris magnis servitoribus Minecraft",
+  "storia_p": "Furca Foliae fontis aperti pro Minecraft 26.2. Per **Storia Cluster** unus mundus in pluribus servitoribus simul currere potest, et lusores inter eos sine tabula onerandi transeunt.",
+  "storia_points": [
+    "**Storia Cluster**: unus mundus a pluribus servitoribus communicatus, nexibus inter eos occultatis",
+    "**Relay subsidiarius**: alter relay exemplar vivum servat et succedit si primus amittitur",
+    "**Forma Linear**: mundi circiter dimidium spatii in disco occupant",
+    "**Mundus in RAM**, **Tick Guard**, API additamentorum ad data communia, et plura"
+  ],
+  "source": "Codex fontis",
+  "stats_t": "Statistica GitHub",
+  "contact_t": "Contactus",
+  "contact_afk": "Discord AFK Network",
+  "contact_sab": "Discord SABALISU",
+  "mail": "Epistula electronica",
+  "welcome": "Omnia grata sunt!"
+}
