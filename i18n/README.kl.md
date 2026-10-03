@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kalaallisut</b> · <a href="../LANGUAGES.md">Oqaatsit tamarmik (105)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kalaallisut</b> · <a href="../LANGUAGES.md">Oqaatsit tamarmik (106)</a></p>
 
 <h1 align="center">Aluu, uanga AKSHRK-iuvunga</h1>
 

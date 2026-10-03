@@ -1,0 +1,34 @@
+{
+  "languages": "Al {n} tale",
+  "hi": "Hallo, ek is AKSHRK",
+  "intro": "'n Beginner-ontwikkelaar. Ek bedryf die bedienergasheerdiens <b>ASHIKA Network</b> en die Minecraft-bedienerlys <b>SABALISU</b>, en ontwikkel die Minecraft-bedienersagteware <b>Storia</b>.",
+  "about_t": "Oor my",
+  "about": [
+    "Ek is nog nuut, maar ek skryf elke dag kode en word al hoe beter",
+    "Ek skryf **Python**, **Node.js** en **C#**",
+    "Ek bedryf my eie bedienergasheerdiens",
+    "Vrae oor my dienste of oor tegnologie is welkom: sê net hallo op Discord"
+  ],
+  "can_write": "Wat ek kan skryf (deurmekaar kode ingesluit)",
+  "services_t": "My dienste",
+  "anw_t": "ASHIKA Network: bedieners vanaf 30 jen per maand",
+  "anw_p": "'n Gasheerdiens vir mense wat 'n bediener wil bedryf, maar nie veel daaraan kan spandeer nie.\nBegin klein, **vanaf net 30 jen per maand**.",
+  "website": "Webwerf",
+  "sab_t": "SABALISU: 'n lys van Minecraft-bedieners",
+  "sab_p": "Plaas jou Minecraft-bediener op die lys en kry mense om daarop te speel.\nHandig vir spelers wat 'n bediener soek en vir eienaars wat hulle s'n wil bemark.",
+  "storia_t": "Storia: bedienersagteware vir groot Minecraft-bedieners",
+  "storia_p": "'n Oopbron-vurk van Folia vir Minecraft 26.2. Met **Storia Cluster** kan een wêreld op verskeie bedieners gelyktydig loop, en spelers beweeg tussen hulle sonder 'n laaiskerm.",
+  "storia_points": [
+    "**Storia Cluster**: een wêreld wat deur verskeie bedieners gedeel word, met geënkripteerde verbindings tussen hulle",
+    "**Bystand-relay**: 'n tweede relay hou 'n lewendige kopie en neem oor as die eerste verlore gaan",
+    "**Linear-formaat**: wêrelde neem omtrent die helfte van die skyfspasie in",
+    "**RAM-wêreld**, **Tick Guard**, 'n inprop-API vir gedeelde data, en meer"
+  ],
+  "source": "Bronkode",
+  "stats_t": "GitHub-statistiek",
+  "contact_t": "Kontak",
+  "contact_afk": "AFK Network se Discord",
+  "contact_sab": "SABALISU se Discord",
+  "mail": "E-pos",
+  "welcome": "Enigiets is welkom!"
+}

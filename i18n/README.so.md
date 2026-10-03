@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Soomaali</b> · <a href="../LANGUAGES.md">Dhammaan 105 luqadood</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Soomaali</b> · <a href="../LANGUAGES.md">Dhammaan 106 luqadood</a></p>
 
 <h1 align="center">Salaan, waxaan ahay AKSHRK</h1>
 

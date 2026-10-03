@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Setswana</b> · <a href="../LANGUAGES.md">Dipuo tsotlhe (105)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Setswana</b> · <a href="../LANGUAGES.md">Dipuo tsotlhe (106)</a></p>
 
 <h1 align="center">Dumela, ke nna AKSHRK</h1>
 
