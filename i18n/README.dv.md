@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>ދިވެހި</b> · <a href="../LANGUAGES.md">ހުރިހާ 44 ބަސް</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>ދިވެހި</b> · <a href="../LANGUAGES.md">ހުރިހާ 45 ބަސް</a></p>
 
 <div dir="rtl">
 
