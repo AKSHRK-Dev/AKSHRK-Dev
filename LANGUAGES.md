@@ -2,7 +2,7 @@
 
 <h1 align="center">Languages / 言語一覧</h1>
 
-<p align="center">This profile is available in <b>42</b> languages. Pick yours below.<br>このプロフィールは <b>42</b> の言語で読めます。下から選んでください。</p>
+<p align="center">This profile is available in <b>43</b> languages. Pick yours below.<br>このプロフィールは <b>43</b> の言語で読めます。下から選んでください。</p>
 
 <p align="center"><img src="assets/continents.svg" width="820" alt="Languages per continent"></p>
 
@@ -70,7 +70,7 @@
 | [עברית](i18n/README.he.md) | Hebrew | ヘブライ語 |
 | [Azərbaycanca](i18n/README.az.md) | Azerbaijani | アゼルバイジャン語 |
 
-<h2 id="europe">Europe / ヨーロッパ州 <sub>(6)</sub></h2>
+<h2 id="europe">Europe / ヨーロッパ州 <sub>(7)</sub></h2>
 
 ### Eastern Europe / 東ヨーロッパ
 
@@ -82,6 +82,13 @@
 | [Čeština](i18n/README.cs.md) | Czech | チェコ語 |
 | [Slovenčina](i18n/README.sk.md) | Slovak | スロバキア語 |
 | [Magyar](i18n/README.hu.md) | Hungarian | ハンガリー語 |
+| [Hrvatski](i18n/README.hr.md) | Croatian | クロアチア語 |
+
+### Southern Europe / 南ヨーロッパ
+
+| Language | English | 日本語 |
+|---|---|---|
+| [Hrvatski](i18n/README.hr.md) | Croatian | クロアチア語 |
 
 <h2 id="americas">Americas / アメリカ州 <sub>(1)</sub></h2>
 

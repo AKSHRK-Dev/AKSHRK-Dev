@@ -1,0 +1,34 @@
+{
+  "languages": "Svih {n} jezika",
+  "hi": "Bok, ja sam AKSHRK",
+  "intro": "Programer početnik. Vodim uslugu hostinga poslužitelja <b>ASHIKA Network</b> i popis Minecraft poslužitelja <b>SABALISU</b> te razvijam softver za Minecraft poslužitelje <b>Storia</b>.",
+  "about_t": "O meni",
+  "about": [
+    "Još sam početnik, ali svaki dan pišem kod i napredujem",
+    "Pišem u **Pythonu**, **Node.js-u** i **C#-u**",
+    "Vodim vlastitu uslugu hostinga poslužitelja",
+    "Pitanja o mojim uslugama ili o tehnologiji su dobrodošla: samo se javite na Discordu"
+  ],
+  "can_write": "Što znam pisati (uključujući neuredan kod)",
+  "services_t": "Moje usluge",
+  "anw_t": "ASHIKA Network: poslužitelji od 30 jena mjesečno",
+  "anw_p": "Usluga hostinga za one koji žele pokrenuti poslužitelj, ali ne mogu puno potrošiti.\nKrenite od malog, **već od 30 jena mjesečno**.",
+  "website": "Web-stranica",
+  "sab_t": "SABALISU: popis Minecraft poslužitelja",
+  "sab_p": "Dodajte svoj Minecraft poslužitelj na popis i pronađite ljude koji će igrati na njemu.\nKorisno i igračima koji traže poslužitelj i vlasnicima koji ga žele promovirati.",
+  "storia_t": "Storia: softver za velike Minecraft poslužitelje",
+  "storia_p": "Fork Folije otvorenog koda za Minecraft 26.2. Uz **Storia Cluster** jedan svijet može raditi na više poslužitelja istovremeno, a igrači se kreću između njih bez zaslona za učitavanje.",
+  "storia_points": [
+    "**Storia Cluster**: jedan svijet dijeli više poslužitelja, a veze među njima su šifrirane",
+    "**Pričuvni relay**: drugi relay čuva živu kopiju i preuzima posao ako se prvi izgubi",
+    "**Format Linear**: svijet zauzima otprilike pola prostora na disku",
+    "**Svijet u RAM-u**, **Tick Guard**, API za dodatke za dijeljene podatke i još mnogo toga"
+  ],
+  "source": "Izvorni kod",
+  "stats_t": "GitHub statistika",
+  "contact_t": "Kontakt",
+  "contact_afk": "Discord AFK Networka",
+  "contact_sab": "Discord SABALISU-a",
+  "mail": "E-pošta",
+  "welcome": "Sve je dobrodošlo!"
+}
