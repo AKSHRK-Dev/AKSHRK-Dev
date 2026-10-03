@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Українська</b> · <a href="../LANGUAGES.md">Усі 39 мов</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Українська</b> · <a href="../LANGUAGES.md">Усі 40 мов</a></p>
 
 <h1 align="center">Привіт, я AKSHRK</h1>
 

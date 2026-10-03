@@ -1,0 +1,34 @@
+{
+  "languages": "Všech {n} jazyků",
+  "hi": "Ahoj, jsem AKSHRK",
+  "intro": "Začínající vývojář. Provozuji hostingovou službu <b>ASHIKA Network</b> a seznam minecraftových serverů <b>SABALISU</b> a vyvíjím serverový software pro Minecraft <b>Storia</b>.",
+  "about_t": "O mně",
+  "about": [
+    "Jsem ještě začátečník, ale každý den píšu kód a zlepšuji se",
+    "Píšu v **Pythonu**, **Node.js** a **C#**",
+    "Provozuji vlastní službu pro hosting serverů",
+    "Otázky k mým službám nebo k technologiím jsou vítány: stačí napsat na Discordu"
+  ],
+  "can_write": "V čem umím psát (včetně nepořádného kódu)",
+  "services_t": "Moje služby",
+  "anw_t": "ASHIKA Network: servery od 30 jenů měsíčně",
+  "anw_p": "Hostingová služba pro ty, kdo chtějí provozovat server, ale nemohou za něj utratit moc peněz.\nZačněte v malém, **už od 30 jenů měsíčně**.",
+  "website": "Web",
+  "sab_t": "SABALISU: seznam minecraftových serverů",
+  "sab_p": "Přidejte svůj minecraftový server do seznamu a najděte lidi, kteří na něm budou hrát.\nHodí se hráčům, kteří hledají server, i majitelům, kteří chtějí ten svůj propagovat.",
+  "storia_t": "Storia: serverový software pro velké minecraftové servery",
+  "storia_p": "Open-source fork Folie pro Minecraft 26.2. Díky **Storia Cluster** může jeden svět běžet na několika serverech najednou a hráči mezi nimi přecházejí bez načítací obrazovky.",
+  "storia_points": [
+    "**Storia Cluster**: jeden svět sdílený několika servery, spojení mezi nimi je šifrované",
+    "**Záložní relay**: druhý relay drží živou kopii a převezme práci, když se první ztratí",
+    "**Formát Linear**: svět zabírá zhruba polovinu místa na disku",
+    "**Svět v RAM**, **Tick Guard**, API pro pluginy na sdílená data a další"
+  ],
+  "source": "Zdrojový kód",
+  "stats_t": "Statistiky GitHubu",
+  "contact_t": "Kontakt",
+  "contact_afk": "Discord AFK Network",
+  "contact_sab": "Discord SABALISU",
+  "mail": "E-mail",
+  "welcome": "Vítáno je cokoli!"
+}
