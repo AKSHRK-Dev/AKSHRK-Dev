@@ -1,0 +1,34 @@
+{
+  "languages": "Les {n} langues",
+  "hi": "Salut, moi c'est AKSHRK",
+  "intro": "Un développeur débutant. Je gère le service d'hébergement de serveurs <b>ASHIKA Network</b> et la liste de serveurs Minecraft <b>SABALISU</b>, et je développe le logiciel de serveur Minecraft <b>Storia</b>.",
+  "about_t": "À propos de moi",
+  "about": [
+    "Je débute encore, mais j'écris du code tous les jours et je progresse",
+    "J'écris en **Python**, **Node.js** et **C#**",
+    "Je gère mon propre service d'hébergement de serveurs",
+    "Les questions sur mes services ou sur la technique sont les bienvenues : passez dire bonjour sur Discord"
+  ],
+  "can_write": "Ce que je sais écrire (code brouillon compris)",
+  "services_t": "Mes services",
+  "anw_t": "ASHIKA Network : des serveurs à partir de 30 yens par mois",
+  "anw_p": "Un service d'hébergement pour celles et ceux qui veulent faire tourner un serveur sans pouvoir y mettre beaucoup d'argent.\nCommencez petit, **à partir de 30 yens par mois seulement**.",
+  "website": "Site web",
+  "sab_t": "SABALISU : une liste de serveurs Minecraft",
+  "sab_p": "Inscrivez votre serveur Minecraft et trouvez des gens pour y jouer.\nUtile aux joueurs qui cherchent un serveur comme aux propriétaires qui veulent faire connaître le leur.",
+  "storia_t": "Storia : un logiciel de serveur pour les grands serveurs Minecraft",
+  "storia_p": "Un fork open source de Folia pour Minecraft 26.2. Avec **Storia Cluster**, un même monde peut tourner sur plusieurs serveurs à la fois, et les joueurs passent de l'un à l'autre sans écran de chargement.",
+  "storia_points": [
+    "**Storia Cluster** : un monde partagé par plusieurs serveurs, avec des liaisons chiffrées entre eux",
+    "**Relais de secours** : un second relais garde une copie à jour et prend le relais si le premier est perdu",
+    "**Format Linear** : les mondes occupent environ deux fois moins d'espace disque",
+    "**Monde en RAM**, **Tick Guard**, une API de plugins pour les données partagées, et plus encore"
+  ],
+  "source": "Code source",
+  "stats_t": "Statistiques GitHub",
+  "contact_t": "Contact",
+  "contact_afk": "Discord d'AFK Network",
+  "contact_sab": "Discord de SABALISU",
+  "mail": "E-mail",
+  "welcome": "Tout est bienvenu !"
+}
