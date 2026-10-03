@@ -1,0 +1,34 @@
+{
+  "languages": "Tutte le {n} lingue",
+  "hi": "Ciao, sono AKSHRK",
+  "intro": "Uno sviluppatore alle prime armi. Gestisco il servizio di hosting di server <b>ASHIKA Network</b> e la lista di server Minecraft <b>SABALISU</b>, e sviluppo il software per server Minecraft <b>Storia</b>.",
+  "about_t": "Su di me",
+  "about": [
+    "Sono ancora alle prime armi, ma scrivo codice ogni giorno e continuo a migliorare",
+    "Scrivo in **Python**, **Node.js** e **C#**",
+    "Gestisco il mio servizio di hosting di server",
+    "Le domande sui miei servizi o sulla tecnologia sono benvenute: basta un saluto su Discord"
+  ],
+  "can_write": "Cosa so scrivere (codice disordinato compreso)",
+  "services_t": "I miei servizi",
+  "anw_t": "ASHIKA Network: server a partire da 30 yen al mese",
+  "anw_p": "Un servizio di hosting per chi vuole gestire un server ma non può spendere molto.\nInizia in piccolo, **a partire da soli 30 yen al mese**.",
+  "website": "Sito web",
+  "sab_t": "SABALISU: una lista di server Minecraft",
+  "sab_p": "Pubblica il tuo server Minecraft e trova persone con cui giocarci.\nUtile sia ai giocatori in cerca di un server sia ai proprietari che vogliono farlo conoscere.",
+  "storia_t": "Storia: software per grandi server Minecraft",
+  "storia_p": "Un fork open source di Folia per Minecraft 26.2. Con **Storia Cluster** un unico mondo può girare su più server contemporaneamente, e i giocatori passano dall'uno all'altro senza schermata di caricamento.",
+  "storia_points": [
+    "**Storia Cluster**: un mondo condiviso da più server, con collegamenti cifrati tra loro",
+    "**Relay di riserva**: un secondo relay mantiene una copia in tempo reale e subentra se il primo va perso",
+    "**Formato Linear**: i mondi occupano circa metà dello spazio su disco",
+    "**Mondo in RAM**, **Tick Guard**, un'API per plugin con dati condivisi, e altro ancora"
+  ],
+  "source": "Codice sorgente",
+  "stats_t": "Statistiche GitHub",
+  "contact_t": "Contatti",
+  "contact_afk": "Discord di AFK Network",
+  "contact_sab": "Discord di SABALISU",
+  "mail": "E-mail",
+  "welcome": "Tutto è benvenuto!"
+}

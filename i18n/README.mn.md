@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Монгол</b> · <a href="../LANGUAGES.md">Бүх 62 хэл</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Монгол</b> · <a href="../LANGUAGES.md">Бүх 63 хэл</a></p>
 
 <h1 align="center">Сайн байна уу, би AKSHRK</h1>
 
