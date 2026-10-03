@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>ລາວ</b> · <a href="../LANGUAGES.md">ທັງໝົດ 9 ພາສາ</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>ລາວ</b> · <a href="../LANGUAGES.md">ທັງໝົດ 10 ພາສາ</a></p>
 
 <h1 align="center">ສະບາຍດີ, ຂ້ອຍແມ່ນ AKSHRK</h1>
 
