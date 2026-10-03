@@ -1,4 +1,4 @@
-<p align="center"><a href="README.md">English</a> · <b>日本語</b> · <a href="LANGUAGES.md">全 85 言語</a></p>
+<p align="center"><a href="README.md">English</a> · <b>日本語</b> · <a href="LANGUAGES.md">全 86 言語</a></p>
 
 <h1 align="center">こんにちは、AKSHRK です</h1>
 

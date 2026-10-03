@@ -1,9 +1,9 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Tekoi er a Belau</b> · <a href="../LANGUAGES.md">Rokui el tekoi (86)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Dorerin Naoero</b> · <a href="../LANGUAGES.md">Dorer ngabuen (86)</a></p>
 
-<h1 align="center">Alii, ak AKSHRK</h1>
+<h1 align="center">Ekamawir omo, ngage AKSHRK</h1>
 
 <p align="center">
-  Ak beches el developer. Ak mesisiich er a server hosting service el <b>ASHIKA Network</b> me a Minecraft server list el <b>SABALISU</b>, e ak meruul a Minecraft server software el <b>Storia</b>.
+  Developer ngea bain. Ngage ama tsimine server hosting service <b>ASHIKA Network</b> me Minecraft server list <b>SABALISU</b>, me ngage ama ruwiy Minecraft server software <b>Storia</b>.
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 ---
 
-## Rengak
+## Ngage
 
-- Ak di beches, engdi ak mluchel er a code er a bek el sils e ak mo ungil
-- Ak mluchel er a **Python**, **Node.js** me a **C#**
-- Ak mesisiich er a ngii el server hosting service
-- Ke mla er a ker el kirel a service er ngak me a technology e ke mo dmu el alii er a Discord
+- Ngage bain, eoon ngage eko code ion edaren ngabuen me ngage ama oreñ
+- Ngage eko **Python**, **Node.js** me **C#**
+- Ngage ama tsimine aeiei server hosting service
+- Ekamawir omo ñan question ion service ka technology: ekamawir omo ion Discord
 
-### A ngak el sebechek el luchel (me a code el diak el ungil)
+### Ngage eko (me code ngea bwe aeiei)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -29,12 +29,12 @@
 
 ---
 
-## A service er ngak
+## Service ngage
 
-### ASHIKA Network: a server er a 30 yen er a bek el buil
+### ASHIKA Network: server 30 yen ion maama
 
-A hosting service el kirel a rechad el soal el mo er a server engdi diak el sebechir el olengit a betok el udoud.
-Mo uchei er a kekere, **er a 30 yen er a bek el buil**.
+Hosting service ñan ijeiten ngea eyon server, eoon ngea ion eko madin.
+Emageb ion ekaiyeb, **30 yen ion maama**.
 
 | | |
 |---|---|
@@ -43,10 +43,10 @@ Mo uchei er a kekere, **er a 30 yen er a bek el buil**.
 
 <br>
 
-### SABALISU: a Minecraft server list
+### SABALISU: Minecraft server list
 
-Mo omekall a Minecraft server er kau er a list e mo nguu a rechad el mo ureor er ngii.
-Ungil el kirel a rechad el mesuub el mesaod er a server me a rechad el soal el omerk a server er tir.
+Ama tsimine am Minecraft server ion list me ama poe ijeiten ngea ama eiy.
+Ekamawir ñan ijeiten ngea ama ŋoŋ server me ijeiten ngea eyon a server.
 
 | | |
 |---|---|
@@ -55,14 +55,14 @@ Ungil el kirel a rechad el mesuub el mesaod er a server me a rechad el soal el o
 
 <br>
 
-### Storia: a server software el kirel a klou el Minecraft server
+### Storia: server software ñan Minecraft server ngea etsimo
 
-A open-source el fork er a Folia el kirel a Minecraft 26.2. Er a **Storia Cluster**, a tang el beluu a sebechel el ureor er a betok el server er a ta el taem, e a rechad el mesuub a mo er a chelsel er tir el diak a loading screen.
+Open-source fork Folia ñan Minecraft 26.2. Me **Storia Cluster**, ion bwe world ama tsimine ion server ngabuen ion bwe atsin, me ijeiten ama eiy ion server ngabuen eoon loading screen.
 
-- **Storia Cluster**: a tang el beluu el blechoel el uldasu a betok el server, me a encrypted el ngar er a chelsel
-- **Standby relay**: a ongeru el relay a melatk a kopia e mo okiu a ongdibus el relay a lmuut
-- **Linear format**: a beluu a melai a rebebil er a disk space
-- **RAM world**, **Tick Guard**, a plugin API el kirel a shared data, me a betok
+- **Storia Cluster**: ion bwe world ion server ngabuen, me encrypted connection
+- **Standby relay**: relay ion ama ŋoŋ copy me ama ruwiy relay iyo ngea etsimo
+- **Linear format**: world ama ŋoŋ ion half disk space
+- **RAM world**, **Tick Guard**, plugin API ñan shared data, me ngabuen
 
 | | |
 |---|---|
@@ -85,12 +85,12 @@ A open-source el fork er a Folia el kirel a Minecraft 26.2. Er a **Storia Cluste
 
 ---
 
-## Kongtak
+## Contact
 
 - AFK Network Discord: https://discord.gg/q8TbzdRfsV
 - SABALISU Discord: https://discord.gg/KucQxEsJtr
 - Email: admin@minecrafts.jp
 
 <p align="center">
-  <sub>Rokui a ungil el bsecheklel!</sub>
+  <sub>Ekamawir omo!</sub>
 </p>

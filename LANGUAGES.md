@@ -2,7 +2,7 @@
 
 <h1 align="center">Languages / 言語一覧</h1>
 
-<p align="center">This profile is available in <b>85</b> languages. Pick yours below.<br>このプロフィールは <b>85</b> の言語で読めます。下から選んでください。</p>
+<p align="center">This profile is available in <b>86</b> languages. Pick yours below.<br>このプロフィールは <b>86</b> の言語で読めます。下から選んでください。</p>
 
 <p align="center"><img src="assets/continents.svg" width="820" alt="Languages per continent"></p>
 
@@ -165,7 +165,7 @@
 | [Português (Brasil)](i18n/README.pt-BR.md) | Portuguese (Brazil) | ポルトガル語（ブラジル） |
 | [Avañeʼẽ](i18n/README.gn.md) | Guarani | グアラニー語 |
 
-<h2 id="oceania">Oceania / オセアニア州 <sub>(9)</sub></h2>
+<h2 id="oceania">Oceania / オセアニア州 <sub>(10)</sub></h2>
 
 ### Australia and New Zealand / オーストラリア・ニュージーランド
 
@@ -186,6 +186,7 @@
 | [Gagana Sāmoa](i18n/README.sm.md) | Samoan | サモア語 |
 | [Te Gana Tuvalu](i18n/README.tvl.md) | Tuvaluan | ツバル語 |
 | [Lea faka-Tonga](i18n/README.to.md) | Tongan | トンガ語 |
+| [Dorerin Naoero](i18n/README.na.md) | Nauruan | ナウル語 |
 
 <h2 id="africa">Africa / アフリカ州 <sub>(5)</sub></h2>
 
