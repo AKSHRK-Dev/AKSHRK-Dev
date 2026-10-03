@@ -1,0 +1,34 @@
+{
+  "languages": "Te mau reo atoa ({n})",
+  "hi": "Ia ora na, o AKSHRK vau",
+  "intro": "E taata hāmani porōtarama ʻāpī. Te faatere nei au i te taviniraa farii server <b>ASHIKA Network</b> e te tāpura server Minecraft <b>SABALISU</b>, e te hāmani nei au i te porōtarama server no Minecraft <b>Storia</b>.",
+  "about_t": "No ʻu nei",
+  "about": [
+    "E ʻāpī noa vau, terā rā e pāpaʻi au i te code i te mau mahana atoa e te maitaʻi atu nei au",
+    "E pāpaʻi au i te **Python**, **Node.js** e te **C#**",
+    "Te faatere nei au i tāʻu iho taviniraa farii server",
+    "E fariihia ma te oaoa te mau uiraa no ni'a i tāʻu mau taviniraa aore ra te ʻihi rave rau: a parau mai noa ia ora na i ni'a i te Discord"
+  ],
+  "can_write": "Te mau mea e nehenehe tāʻu e pāpaʻi (ʻaʻamu atoa te code huru ʻē)",
+  "services_t": "Tāʻu mau taviniraa",
+  "anw_t": "ASHIKA Network: te mau server mai te 30 yen i te ʻāvaʻe",
+  "anw_p": "E taviniraa farii no te feiā e hinaaro e faaohipa i te hoê server, terā rā aita e nehenehe ia ratou ia haamau'a i te moni rahi.\nA haamata na roto i te mea iti, **mai te 30 yen noa i te ʻāvaʻe**.",
+  "website": "Pae tukutuku",
+  "sab_t": "SABALISU: e tāpura server Minecraft",
+  "sab_p": "A tuu i tō ʻoe server Minecraft i roto i te tāpura e a imi i te taata no te hāʻuti i reira.\nE faufaa no te feiā hāʻuti e imi ra i te server e no te feiā fatu e hinaaro e faaite i tō ratou.",
+  "storia_t": "Storia: porōtarama server no te mau server Minecraft rarahi",
+  "storia_p": "E fork open-source no Folia no Minecraft 26.2. Na roto i te **Storia Cluster**, e nehenehe te hoê ao e horo i ni'a i te mau server e rave rahi i te hoê taime, e e tere te feiā hāʻuti i rotopū ia ratou ma te ore e loading screen.",
+  "storia_points": [
+    "**Storia Cluster**: e hoê ao e tufahia e te mau server e rave rahi, e ua huna-maitai-hia te mau taairaa",
+    "**Relay tapeʻa**: e tapeʻa te piti o te relay i te hoê hoho'a ora e e mono i te matamua mai te mea e moʻe",
+    "**Linear format**: e faaohipa te ao fātata i te afa o te vāhi i ni'a i te disk",
+    "**Ao RAM**, **Tick Guard**, e plugin API no te mau parau tufahia, e te tahi atu"
+  ],
+  "source": "Code tumu",
+  "stats_t": "Numera GitHub",
+  "contact_t": "Taairaa",
+  "contact_afk": "Discord no AFK Network",
+  "contact_sab": "Discord no SABALISU",
+  "mail": "Rata uira",
+  "welcome": "E fariihia te mau mea atoa!"
+}

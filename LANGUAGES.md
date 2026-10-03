@@ -2,7 +2,7 @@
 
 <h1 align="center">Languages / 言語一覧</h1>
 
-<p align="center">This profile is available in <b>90</b> languages. Pick yours below.<br>このプロフィールは <b>90</b> の言語で読めます。下から選んでください。</p>
+<p align="center">This profile is available in <b>91</b> languages. Pick yours below.<br>このプロフィールは <b>91</b> の言語で読めます。下から選んでください。</p>
 
 <p align="center"><img src="assets/continents.svg" width="820" alt="Languages per continent"></p>
 
@@ -165,7 +165,7 @@
 | [Português (Brasil)](i18n/README.pt-BR.md) | Portuguese (Brazil) | ポルトガル語（ブラジル） |
 | [Avañeʼẽ](i18n/README.gn.md) | Guarani | グアラニー語 |
 
-<h2 id="oceania">Oceania / オセアニア州 <sub>(14)</sub></h2>
+<h2 id="oceania">Oceania / オセアニア州 <sub>(15)</sub></h2>
 
 ### Australia and New Zealand / オーストラリア・ニュージーランド
 
@@ -191,6 +191,7 @@
 | [Bislama](i18n/README.bi.md) | Bislama | ビスラマ語 |
 | [Na Vosa Vakaviti](i18n/README.fj.md) | Fijian | フィジー語 |
 | [Fiji Baat](i18n/README.hif.md) | Fiji Hindi | ヒンドゥスターニー語（フィジー） |
+| [Reo Tahiti](i18n/README.ty.md) | Tahitian | タヒチ語 |
 
 <h2 id="africa">Africa / アフリカ州 <sub>(5)</sub></h2>
 
