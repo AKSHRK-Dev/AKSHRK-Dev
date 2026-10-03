@@ -1,0 +1,34 @@
+{
+  "languages": "Semua {n} bahasa",
+  "hi": "Halo, saya AKSHRK",
+  "intro": "Seorang developer pemula. Saya mengelola layanan hosting server <b>ASHIKA Network</b> dan daftar server Minecraft <b>SABALISU</b>, serta mengembangkan perangkat lunak server Minecraft <b>Storia</b>.",
+  "about_t": "Tentang Saya",
+  "about": [
+    "Saya masih pemula, tetapi saya menulis kode setiap hari dan terus berkembang",
+    "Saya menulis **Python**, **Node.js**, dan **C#**",
+    "Saya mengelola layanan hosting server sendiri",
+    "Pertanyaan tentang layanan saya atau soal teknologi sangat diterima: sapa saja saya di Discord"
+  ],
+  "can_write": "Yang bisa saya tulis (termasuk kode berantakan)",
+  "services_t": "Layanan Saya",
+  "anw_t": "ASHIKA Network: server mulai 30 yen per bulan",
+  "anw_p": "Layanan hosting untuk orang yang ingin menjalankan server tetapi tidak bisa mengeluarkan banyak uang.\nMulai dari yang kecil, **hanya 30 yen per bulan**.",
+  "website": "Situs web",
+  "sab_t": "SABALISU: daftar server Minecraft",
+  "sab_p": "Daftarkan server Minecraft Anda dan temukan orang untuk bermain bersama.\nBerguna bagi pemain yang mencari server maupun pemilik yang ingin mempromosikan servernya.",
+  "storia_t": "Storia: perangkat lunak server untuk server Minecraft berskala besar",
+  "storia_p": "Fork sumber terbuka dari Folia untuk Minecraft 26.2. Dengan **Storia Cluster**, satu dunia dapat berjalan di beberapa server sekaligus, dan pemain berpindah antarserver tanpa layar pemuatan.",
+  "storia_points": [
+    "**Storia Cluster**: satu dunia dibagi oleh beberapa server, dengan koneksi terenkripsi di antara mereka",
+    "**Relay cadangan**: relay kedua menyimpan salinan langsung dan mengambil alih jika yang pertama hilang",
+    "**Format Linear**: dunia hanya memakai sekitar setengah ruang disk",
+    "**Dunia RAM**, **Tick Guard**, API plugin untuk berbagi data, dan lainnya"
+  ],
+  "source": "Kode sumber",
+  "stats_t": "Statistik GitHub",
+  "contact_t": "Kontak",
+  "contact_afk": "Discord AFK Network",
+  "contact_sab": "Discord SABALISU",
+  "mail": "Email",
+  "welcome": "Apa pun diterima!"
+}
