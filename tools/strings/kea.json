@@ -1,0 +1,34 @@
+{
+  "languages": "Tudu {n} lingua",
+  "hi": "Oi, N é AKSHRK",
+  "intro": "Un programador ki sta kumesa. N ta djiri sirvisu di ospedaji di sirvidor <b>ASHIKA Network</b> i lista di sirvidor di Minecraft <b>SABALISU</b>, i N ta dizenvolve software di sirvidor pa Minecraft <b>Storia</b>.",
+  "about_t": "Sobri mi",
+  "about": [
+    "N inda é nobu, ma N ta skrebe kódigu tudu dia i N sta ta midjora",
+    "N ta skrebe **Python**, **Node.js** i **C#**",
+    "N ta djiri nha própriu sirvisu di ospedaji di sirvidor",
+    "Pergunta sobri nhas sirvisu o sobri teknolojia é bénvindu: só fla oi na Discord"
+  ],
+  "can_write": "Kuzé ki N sabe skrebe (ku kódigu disorganizadu tanbe)",
+  "services_t": "Nhas sirvisu",
+  "anw_t": "ASHIKA Network: sirvidor a partir di 30 iéne pa mes",
+  "anw_p": "Un sirvisu di ospedaji pa algen ki kre roda un sirvidor, ma ki ka ta podi gasta txeu.\nKumesa pikinoti, **a partir di 30 iéne só pa mes**.",
+  "website": "Saiti",
+  "sab_t": "SABALISU: un lista di sirvidor di Minecraft",
+  "sab_p": "Poi bu sirvidor di Minecraft na lista i atxa algen pa jóga nel.\nÚtil pa jogador ki sta ta buska sirvidor i pa donu ki kre divulga di sel.",
+  "storia_t": "Storia: software di sirvidor pa sirvidor grandi di Minecraft",
+  "storia_p": "Un fork di kódigu abertu di Folia pa Minecraft 26.2. Ku **Storia Cluster**, un mundu ta podi roda na txeu sirvidor na mésmu ténpu, i jogador ta pasa di un pa otu sen ekran di karegamentu.",
+  "storia_points": [
+    "**Storia Cluster**: un mundu partilhadu pa txeu sirvidor, ku ligason kriptografadu entri es",
+    "**Relay di rezerva**: un sugundu relay ta guarda un kópia na diretu i ta toma kónta si purmeru perde",
+    "**Formatu Linear**: mundu ta okupa más o menus metadi di spasu na disku",
+    "**Mundu na RAM**, **Tick Guard**, un API di plugin pa dadus partilhadu, i más"
+  ],
+  "source": "Kódigu-fonti",
+  "stats_t": "Statístika di GitHub",
+  "contact_t": "Kontaktu",
+  "contact_afk": "Discord di AFK Network",
+  "contact_sab": "Discord di SABALISU",
+  "mail": "Email",
+  "welcome": "Tudu kuza é bénvindu!"
+}

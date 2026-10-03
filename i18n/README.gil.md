@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Taetae ni Kiribati</b> · <a href="../LANGUAGES.md">Taetae ni kabane (93)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Taetae ni Kiribati</b> · <a href="../LANGUAGES.md">Taetae ni kabane (94)</a></p>
 
 <h1 align="center">Mauri, ngai AKSHRK</h1>
 
