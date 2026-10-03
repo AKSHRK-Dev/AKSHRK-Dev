@@ -1,0 +1,34 @@
+{
+  "languages": "Të gjitha gjuhët ({n})",
+  "hi": "Përshëndetje, jam AKSHRK",
+  "intro": "Një zhvillues fillestar. Drejtoj shërbimin e strehimit të serverëve <b>ASHIKA Network</b> dhe listën e serverëve të Minecraft <b>SABALISU</b>, dhe zhvilloj softuerin e serverit për Minecraft <b>Storia</b>.",
+  "about_t": "Rreth meje",
+  "about": [
+    "Jam ende fillestar, por shkruaj kod çdo ditë dhe po përmirësohem",
+    "Shkruaj në **Python**, **Node.js** dhe **C#**",
+    "Drejtoj shërbimin tim të strehimit të serverëve",
+    "Pyetjet për shërbimet e mia ose për teknologjinë janë të mirëpritura: thjesht më përshëndet në Discord"
+  ],
+  "can_write": "Çfarë di të shkruaj (përfshirë kod të çrregullt)",
+  "services_t": "Shërbimet e mia",
+  "anw_t": "ASHIKA Network: serverë nga 30 jen në muaj",
+  "anw_p": "Një shërbim strehimi për ata që duan të kenë një server, por nuk mund të shpenzojnë shumë.\nFillo me pak, **nga vetëm 30 jen në muaj**.",
+  "website": "Faqja e internetit",
+  "sab_t": "SABALISU: një listë serverësh të Minecraft",
+  "sab_p": "Shto serverin tënd të Minecraft në listë dhe gjej njerëz që të luajnë në të.\nE dobishme si për lojtarët që kërkojnë server, ashtu edhe për pronarët që duan ta promovojnë të tyrin.",
+  "storia_t": "Storia: softuer serveri për serverë të mëdhenj të Minecraft",
+  "storia_p": "Një fork me burim të hapur i Folia-s për Minecraft 26.2. Me **Storia Cluster**, një botë mund të funksionojë në disa serverë njëkohësisht, dhe lojtarët kalojnë mes tyre pa ekran ngarkimi.",
+  "storia_points": [
+    "**Storia Cluster**: një botë e ndarë nga disa serverë, me lidhje të koduara mes tyre",
+    "**Relay rezervë**: një relay i dytë mban një kopje të gjallë dhe merr përsipër nëse i pari humbet",
+    "**Formati Linear**: botët zënë rreth gjysmën e hapësirës në disk",
+    "**Botë në RAM**, **Tick Guard**, një API shtojcash për të dhëna të përbashkëta, e më shumë"
+  ],
+  "source": "Kodi burimor",
+  "stats_t": "Statistikat e GitHub",
+  "contact_t": "Kontakti",
+  "contact_afk": "Discord-i i AFK Network",
+  "contact_sab": "Discord-i i SABALISU",
+  "mail": "Email",
+  "welcome": "Çdo gjë është e mirëpritur!"
+}

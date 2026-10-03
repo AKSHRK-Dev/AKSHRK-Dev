@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Nederlands</b> · <a href="../LANGUAGES.md">Alle 68 talen</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Nederlands</b> · <a href="../LANGUAGES.md">Alle 69 talen</a></p>
 
 <h1 align="center">Hoi, ik ben AKSHRK</h1>
 
