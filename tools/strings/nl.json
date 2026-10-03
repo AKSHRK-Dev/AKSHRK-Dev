@@ -1,0 +1,34 @@
+{
+  "languages": "Alle {n} talen",
+  "hi": "Hoi, ik ben AKSHRK",
+  "intro": "Een beginnende ontwikkelaar. Ik run de serverhostingdienst <b>ASHIKA Network</b> en de Minecraft-serverlijst <b>SABALISU</b>, en ontwikkel de Minecraft-serversoftware <b>Storia</b>.",
+  "about_t": "Over mij",
+  "about": [
+    "Ik ben nog nieuw, maar ik schrijf elke dag code en word steeds beter",
+    "Ik schrijf **Python**, **Node.js** en **C#**",
+    "Ik run mijn eigen serverhostingdienst",
+    "Vragen over mijn diensten of over techniek zijn welkom: zeg gewoon hoi op Discord"
+  ],
+  "can_write": "Wat ik kan schrijven (rommelige code inbegrepen)",
+  "services_t": "Mijn diensten",
+  "anw_t": "ASHIKA Network: servers vanaf 30 yen per maand",
+  "anw_p": "Een hostingdienst voor mensen die een server willen draaien maar er niet veel aan kunnen uitgeven.\nBegin klein, **al vanaf 30 yen per maand**.",
+  "website": "Website",
+  "sab_t": "SABALISU: een lijst met Minecraft-servers",
+  "sab_p": "Zet je Minecraft-server op de lijst en vind mensen om erop te spelen.\nHandig voor spelers die een server zoeken én voor eigenaren die die van hen willen promoten.",
+  "storia_t": "Storia: serversoftware voor grote Minecraft-servers",
+  "storia_p": "Een opensource-fork van Folia voor Minecraft 26.2. Met **Storia Cluster** kan één wereld op meerdere servers tegelijk draaien, en spelers wisselen ertussen zonder laadscherm.",
+  "storia_points": [
+    "**Storia Cluster**: één wereld gedeeld door meerdere servers, met versleutelde verbindingen ertussen",
+    "**Standby-relay**: een tweede relay houdt een live kopie bij en neemt het over als de eerste wegvalt",
+    "**Linear-formaat**: werelden nemen ongeveer de helft van de schijfruimte in",
+    "**RAM-wereld**, **Tick Guard**, een plugin-API voor gedeelde data, en meer"
+  ],
+  "source": "Broncode",
+  "stats_t": "GitHub-statistieken",
+  "contact_t": "Contact",
+  "contact_afk": "Discord van AFK Network",
+  "contact_sab": "Discord van SABALISU",
+  "mail": "E-mail",
+  "welcome": "Alles is welkom!"
+}
