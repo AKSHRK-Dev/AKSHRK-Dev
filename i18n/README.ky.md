@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Кыргызча</b> · <a href="../LANGUAGES.md">Бардык 70 тил</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Кыргызча</b> · <a href="../LANGUAGES.md">Бардык 71 тил</a></p>
 
 <h1 align="center">Салам, мен AKSHRK</h1>
 

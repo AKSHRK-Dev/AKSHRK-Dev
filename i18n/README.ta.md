@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>தமிழ்</b> · <a href="../LANGUAGES.md">அனைத்து 70 மொழிகள்</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>தமிழ்</b> · <a href="../LANGUAGES.md">அனைத்து 71 மொழிகள்</a></p>
 
 <h1 align="center">வணக்கம், நான் AKSHRK</h1>
 
