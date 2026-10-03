@@ -1,9 +1,9 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kiswahili</b> · <a href="../LANGUAGES.md">Lugha zote 101</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Shikomori</b> · <a href="../LANGUAGES.md">Ze lugha zendji (101)</a></p>
 
-<h1 align="center">Habari, mimi ni AKSHRK</h1>
+<h1 align="center">Bariza, mimi ndo AKSHRK</h1>
 
 <p align="center">
-  Msanidi programu anayeanza. Ninaendesha huduma ya kuhifadhi seva <b>ASHIKA Network</b> na orodha ya seva za Minecraft <b>SABALISU</b>, na ninatengeneza programu ya seva ya Minecraft <b>Storia</b>.
+  Mfanya programu wa ha mwandzo. Ngamtsaha huduma ya uhifadhi wa seva <b>ASHIKA Network</b> na orodha ya seva za Minecraft <b>SABALISU</b>, na ngamfanya programu ya seva ya Minecraft <b>Storia</b>.
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 ---
 
-## Kuhusu mimi
+## Ha mimi
 
-- Bado ni mgeni, lakini ninaandika msimbo kila siku na ninaendelea kuimarika
-- Ninaandika **Python**, **Node.js** na **C#**
-- Ninaendesha huduma yangu mwenyewe ya kuhifadhi seva
-- Maswali kuhusu huduma zangu au teknolojia yanakaribishwa: nisalimie tu kwenye Discord
+- Tsasi mvua, ela ngamwandika code kula suku na ngamendra hari mbeli
+- Ngamwandika **Python**, **Node.js** na **C#**
+- Ngamtsaha huduma yangu ya uhifadhi wa seva
+- Maswali ya huduma zangu au ya teknolojia yaridhwa: unisalimu tsi Discord
 
-### Ninachoweza kuandika (pamoja na msimbo uliochanganyika)
+### Ngamshindra wandika (na code ya fujo pia)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -31,10 +31,10 @@
 
 ## Huduma zangu
 
-### ASHIKA Network: seva kuanzia yeni 30 kwa mwezi
+### ASHIKA Network: seva ndzaho yeni 30 kula mwezi
 
-Huduma ya kuhifadhi kwa wanaotaka kuendesha seva lakini hawawezi kutumia pesa nyingi.
-Anza kidogo, **kuanzia yeni 30 tu kwa mwezi**.
+Huduma ya uhifadhi ya wanu wahitajiao seva ela kawashindri tumia pesa nyingi.
+Andzisa kidogo, **ndzaho yeni 30 tsu kula mwezi**.
 
 | | |
 |---|---|
@@ -45,8 +45,8 @@ Anza kidogo, **kuanzia yeni 30 tu kwa mwezi**.
 
 ### SABALISU: orodha ya seva za Minecraft
 
-Weka seva yako ya Minecraft kwenye orodha na upate watu wa kucheza nayo.
-Inafaa kwa wachezaji wanaotafuta seva na kwa wamiliki wanaotaka kutangaza seva zao.
+Tria seva yaho ya Minecraft hari orodha na upare wanu wa ufanya michezo nayo.
+Ifaa ha wachezaji wasakao seva na ha wenye seva wahitajiao uitangaza.
 
 | | |
 |---|---|
@@ -55,19 +55,19 @@ Inafaa kwa wachezaji wanaotafuta seva na kwa wamiliki wanaotaka kutangaza seva z
 
 <br>
 
-### Storia: programu ya seva kwa seva kubwa za Minecraft
+### Storia: programu ya seva ha seva mbole za Minecraft
 
-Fork huria ya Folia kwa Minecraft 26.2. Kwa **Storia Cluster**, ulimwengu mmoja unaweza kuendeshwa kwenye seva kadhaa kwa wakati mmoja, na wachezaji huhama kati yao bila skrini ya kupakia.
+Fork ya wazi ya Folia ha Minecraft 26.2. Na **Storia Cluster**, dunia moja yashindra ufanya kazi hari seva nyingi wakati moja, na wachezaji wahamia hari tsi seva bila skrini ya upakia.
 
-- **Storia Cluster**: ulimwengu mmoja unaoshirikiwa na seva kadhaa, wenye miunganisho iliyosimbwa kati yao
-- **Relay ya akiba**: relay ya pili huhifadhi nakala hai na huchukua nafasi ikiwa ya kwanza itapotea
-- **Muundo wa Linear**: ulimwengu huchukua takriban nusu ya nafasi ya diski
-- **Ulimwengu kwenye RAM**, **Tick Guard**, API ya programu-jalizi kwa data inayoshirikiwa, na zaidi
+- **Storia Cluster**: dunia moja ishirikishwayo na seva nyingi, na miunganisho ya siri
+- **Relay ya akiba**: relay ya pili ihifadhi nakala hai na ilagua nafasi ya ya mwandzo de ipotea
+- **Muundo wa Linear**: dunia itumia nusu ya nafasi ya diski
+- **Dunia hari RAM**, **Tick Guard**, API ya plugin ya data ishirikishwayo, na zaidi
 
 | | |
 |---|---|
 | Tovuti | https://storiamc.com |
-| Msimbo chanzo | https://github.com/AKSHRK-Dev/Storia |
+| Code ya asili | https://github.com/AKSHRK-Dev/Storia |
 
 <p>
   <a href="https://github.com/AKSHRK-Dev/Storia/releases/latest"><img src="https://img.shields.io/github/v/release/AKSHRK-Dev/Storia?style=flat-square&label=Storia&color=1B60A6" alt="Storia release"></a>
@@ -92,5 +92,5 @@ Fork huria ya Folia kwa Minecraft 26.2. Kwa **Storia Cluster**, ulimwengu mmoja 
 - Barua pepe: admin@minecrafts.jp
 
 <p align="center">
-  <sub>Chochote kinakaribishwa!</sub>
+  <sub>Kila kitu karibu!</sub>
 </p>

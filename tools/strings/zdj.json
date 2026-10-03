@@ -1,0 +1,34 @@
+{
+  "languages": "Ze lugha zendji ({n})",
+  "hi": "Bariza, mimi ndo AKSHRK",
+  "intro": "Mfanya programu wa ha mwandzo. Ngamtsaha huduma ya uhifadhi wa seva <b>ASHIKA Network</b> na orodha ya seva za Minecraft <b>SABALISU</b>, na ngamfanya programu ya seva ya Minecraft <b>Storia</b>.",
+  "about_t": "Ha mimi",
+  "about": [
+    "Tsasi mvua, ela ngamwandika code kula suku na ngamendra hari mbeli",
+    "Ngamwandika **Python**, **Node.js** na **C#**",
+    "Ngamtsaha huduma yangu ya uhifadhi wa seva",
+    "Maswali ya huduma zangu au ya teknolojia yaridhwa: unisalimu tsi Discord"
+  ],
+  "can_write": "Ngamshindra wandika (na code ya fujo pia)",
+  "services_t": "Huduma zangu",
+  "anw_t": "ASHIKA Network: seva ndzaho yeni 30 kula mwezi",
+  "anw_p": "Huduma ya uhifadhi ya wanu wahitajiao seva ela kawashindri tumia pesa nyingi.\nAndzisa kidogo, **ndzaho yeni 30 tsu kula mwezi**.",
+  "website": "Tovuti",
+  "sab_t": "SABALISU: orodha ya seva za Minecraft",
+  "sab_p": "Tria seva yaho ya Minecraft hari orodha na upare wanu wa ufanya michezo nayo.\nIfaa ha wachezaji wasakao seva na ha wenye seva wahitajiao uitangaza.",
+  "storia_t": "Storia: programu ya seva ha seva mbole za Minecraft",
+  "storia_p": "Fork ya wazi ya Folia ha Minecraft 26.2. Na **Storia Cluster**, dunia moja yashindra ufanya kazi hari seva nyingi wakati moja, na wachezaji wahamia hari tsi seva bila skrini ya upakia.",
+  "storia_points": [
+    "**Storia Cluster**: dunia moja ishirikishwayo na seva nyingi, na miunganisho ya siri",
+    "**Relay ya akiba**: relay ya pili ihifadhi nakala hai na ilagua nafasi ya ya mwandzo de ipotea",
+    "**Muundo wa Linear**: dunia itumia nusu ya nafasi ya diski",
+    "**Dunia hari RAM**, **Tick Guard**, API ya plugin ya data ishirikishwayo, na zaidi"
+  ],
+  "source": "Code ya asili",
+  "stats_t": "Takwimu za GitHub",
+  "contact_t": "Mawasiliano",
+  "contact_afk": "Discord ya AFK Network",
+  "contact_sab": "Discord ya SABALISU",
+  "mail": "Barua pepe",
+  "welcome": "Kila kitu karibu!"
+}

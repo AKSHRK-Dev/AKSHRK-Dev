@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Malagasy</b> · <a href="../LANGUAGES.md">Ireo fiteny 100 rehetra</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Malagasy</b> · <a href="../LANGUAGES.md">Ireo fiteny 101 rehetra</a></p>
 
 <h1 align="center">Manao ahoana, izaho no AKSHRK</h1>
 
