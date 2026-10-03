@@ -1,0 +1,34 @@
+{
+  "languages": "Lea kotoa ({n})",
+  "hi": "Mālō e lelei, ko au ʻa AKSHRK",
+  "intro": "Ko ha tokotaha fakalakalaka foʻou. ʻOku ou puleʻi ʻa e ngāue tauhi server <b>ASHIKA Network</b> mo e lisi server Minecraft <b>SABALISU</b>, pea ʻoku ou faʻu ʻa e polokalama server ki he Minecraft <b>Storia</b>.",
+  "about_t": "Fekauʻaki mo au",
+  "about": [
+    "ʻOku ou kei foʻou, ka ʻoku ou tohi code ʻi he ʻaho kotoa pē pea ʻoku ou fakaleleiʻi",
+    "ʻOku ou tohi ʻi he **Python**, **Node.js** mo e **C#**",
+    "ʻOku ou puleʻi ʻeku ngāue tauhi server pē ʻaʻaku",
+    "ʻOku talitali lelei ʻa e ngaahi fehuʻi fekauʻaki mo ʻeku ngāue pe ko e tekinolosia: fai mai pē ha mālō e lelei ʻi he Discord"
+  ],
+  "can_write": "Ko e meʻa ʻoku ou lava ʻo tohi (kau ai mo e code fakaʻuliʻuli)",
+  "services_t": "ʻEku ngaahi ngāue",
+  "anw_t": "ASHIKA Network: server mei he 30 yen ʻi he māhina",
+  "anw_p": "Ko ha ngāue tauhi ki he kakai ʻoku fie maʻu ha server ka ʻoku ʻikai lava ke nau fakamoleki ha paʻanga lahi.\nKamata siʻi, **mei he 30 yen pē ʻi he māhina**.",
+  "website": "Uepisaiti",
+  "sab_t": "SABALISU: ko ha lisi ʻo e server Minecraft",
+  "sab_p": "Tuku hoʻo server Minecraft ki he lisi pea kumi ha kakai ke vaʻinga ai.\nʻAonga ki he kau vaʻinga ʻoku kumi server pea ki he kau pule ʻoku fie fakahāhā ʻenau server.",
+  "storia_t": "Storia: polokalama server ki he ngaahi server Minecraft lalahi",
+  "storia_p": "Ko ha fork open-source ʻo Folia ki he Minecraft 26.2. ʻI he **Storia Cluster**, ʻe lava ha māmani ʻe taha ʻo ngāue ʻi ha ngaahi server lahi ʻi he taimi tatau, pea ʻoku hiki ʻa e kau vaʻinga ʻi honau vahaʻa ʻo ʻikai ha loading screen.",
+  "storia_points": [
+    "**Storia Cluster**: ko ha māmani ʻe taha ʻoku vahevahe ʻe ha ngaahi server lahi, mo e ngaahi fetuʻutaki kuo fakapulipuliʻi",
+    "**Relay fakaʻatā**: ʻoku tauhi ʻe ha relay hono ua ha tatau moʻui pea ʻe fetongi ʻa e ʻuluaki kapau ʻe mole",
+    "**Linear format**: ʻoku ngāueʻaki ʻe he māmani ʻa e konga ʻe taha ʻi he ua ʻo e disk space",
+    "**Māmani RAM**, **Tick Guard**, ko ha plugin API ki he fakamatala vahevahe, mo e meʻa kehe"
+  ],
+  "source": "Source code",
+  "stats_t": "Fika GitHub",
+  "contact_t": "Fetuʻutaki",
+  "contact_afk": "Discord ʻo AFK Network",
+  "contact_sab": "Discord ʻo SABALISU",
+  "mail": "ʻĪmeili",
+  "welcome": "ʻOku talitali lelei ʻa e meʻa kotoa pē!"
+}

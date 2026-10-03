@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Te Gana Tuvalu</b> · <a href="../LANGUAGES.md">Gana katoa (84)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Te Gana Tuvalu</b> · <a href="../LANGUAGES.md">Gana katoa (85)</a></p>
 
 <h1 align="center">Talofa, ko au ko AKSHRK</h1>
 
