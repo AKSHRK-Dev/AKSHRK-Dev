@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>ქართული</b> · <a href="../LANGUAGES.md">ყველა 67 ენა</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>ქართული</b> · <a href="../LANGUAGES.md">ყველა 68 ენა</a></p>
 
 <h1 align="center">გამარჯობა, მე ვარ AKSHRK</h1>
 
