@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Gagana Sāmoa</b> · <a href="../LANGUAGES.md">Gagana uma (88)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Gagana Sāmoa</b> · <a href="../LANGUAGES.md">Gagana uma (89)</a></p>
 
 <h1 align="center">Tālofa, o aʻu o AKSHRK</h1>
 

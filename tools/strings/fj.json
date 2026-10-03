@@ -1,0 +1,34 @@
+{
+  "languages": "Na vosa kece ({n})",
+  "hi": "Bula, oi au o AKSHRK",
+  "intro": "E dua na dauvakarautaka vou. Au veiliutaka na veiqaravi ni vakaitikotiko ni server <b>ASHIKA Network</b> kei na lisi ni Minecraft server <b>SABALISU</b>, ka au buli tale ga na porokaramu ni server ni Minecraft <b>Storia</b>.",
+  "about_t": "Me baleti au",
+  "about": [
+    "Au se vou tiko, ia au dau vola na code e veisiga ka sa vinaka cake tiko",
+    "Au vola na **Python**, **Node.js** kei na **C#**",
+    "Au veiliutaka noqu veiqaravi ni vakaitikotiko ni server",
+    "E ciqomi vinaka na taro me baleta noqu veiqaravi se na vuku vakatekinoloji: kaya ga na bula ena Discord"
+  ],
+  "can_write": "Na ka au rawa ni vola (wili kina na code veilecayaki)",
+  "services_t": "Noqu veiqaravi",
+  "anw_t": "ASHIKA Network: na server mai na 30 yen ena dua na vula",
+  "anw_p": "E dua na veiqaravi ni vakaitikotiko vei ira era via vakayagataka e dua na server ia era sega ni rawa ni vakayagataka e levu na ilavo.\nTekivu lailai, **mai na 30 yen ga ena dua na vula**.",
+  "website": "Vanua ni initaneti",
+  "sab_t": "SABALISU: e dua na lisi ni Minecraft server",
+  "sab_p": "Vakacurumi na nomu Minecraft server ena lisi ka vakasaqara e so na tamata me ra qito kina.\nE yaga vei ira na dauniqito era vakasaqara e dua na server kei ira na itaukei era via vakatakilai ira.",
+  "storia_t": "Storia: porokaramu ni server me baleti ira na Minecraft server levu",
+  "storia_p": "E dua na open-source fork ni Folia me baleta na Minecraft 26.2. Ena **Storia Cluster**, e rawa ni cakacaka e dua ga na vuravura ena levu na server ena dua ga na gauna, ka ra toki na daunivakatovotovo ena kedra maliwa ka sega na loading screen.",
+  "storia_points": [
+    "**Storia Cluster**: e dua ga na vuravura e wasei ena levu na server, ka vunitaki na isema ena kedra maliwa",
+    "**Relay ni veisosomitaki**: na ikarua ni relay e maroroya e dua na ilavelave bula ka na sosomitaka na imatai kevaka e yali",
+    "**Linear format**: na vuravura e vakayagataka e veimama ni vanua ena disk",
+    "**Vuravura ena RAM**, **Tick Guard**, e dua na plugin API me baleta na itukutuku wasei, kei na so tale"
+  ],
+  "source": "Source code",
+  "stats_t": "Wiliwili ni GitHub",
+  "contact_t": "Veitaratara",
+  "contact_afk": "Discord ni AFK Network",
+  "contact_sab": "Discord ni SABALISU",
+  "mail": "Imeli",
+  "welcome": "E ciqomi vinaka na ka kece!"
+}

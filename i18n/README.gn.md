@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Avañeʼẽ</b> · <a href="../LANGUAGES.md">Opaite ñeʼẽ (88)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Avañeʼẽ</b> · <a href="../LANGUAGES.md">Opaite ñeʼẽ (89)</a></p>
 
 <h1 align="center">Mbaʼéichapa, che ha'e AKSHRK</h1>
 
