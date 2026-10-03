@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Română</b> · <a href="../LANGUAGES.md">Toate cele 73 de limbi</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Română</b> · <a href="../LANGUAGES.md">Toate cele 74 de limbi</a></p>
 
 <h1 align="center">Salut, sunt AKSHRK</h1>
 

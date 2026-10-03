@@ -1,6 +1,6 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Français</b> · <a href="../LANGUAGES.md">Les 74 langues</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Français (Canada)</b> · <a href="../LANGUAGES.md">Les 74 langues</a></p>
 
-<h1 align="center">Salut, moi c'est AKSHRK</h1>
+<h1 align="center">Allô, moi c'est AKSHRK</h1>
 
 <p align="center">
   Un développeur débutant. Je gère le service d'hébergement de serveurs <b>ASHIKA Network</b> et la liste de serveurs Minecraft <b>SABALISU</b>, et je développe le logiciel de serveur Minecraft <b>Storia</b>.
@@ -16,10 +16,10 @@
 
 ## À propos de moi
 
-- Je débute encore, mais j'écris du code tous les jours et je progresse
+- Je suis encore débutant, mais j'écris du code tous les jours pis je m'améliore
 - J'écris en **Python**, **Node.js** et **C#**
 - Je gère mon propre service d'hébergement de serveurs
-- Les questions sur mes services ou sur la technique sont les bienvenues : passez dire bonjour sur Discord
+- Les questions sur mes services ou sur la techno sont les bienvenues : venez me dire bonjour sur Discord
 
 ### Ce que je sais écrire (code brouillon compris)
 
@@ -33,7 +33,7 @@
 
 ### ASHIKA Network : des serveurs à partir de 30 yens par mois
 
-Un service d'hébergement pour celles et ceux qui veulent faire tourner un serveur sans pouvoir y mettre beaucoup d'argent.
+Un service d'hébergement pour ceux qui veulent rouler un serveur sans pouvoir y mettre beaucoup d'argent.
 Commencez petit, **à partir de 30 yens par mois seulement**.
 
 | | |
@@ -57,7 +57,7 @@ Utile aux joueurs qui cherchent un serveur comme aux propriétaires qui veulent 
 
 ### Storia : un logiciel de serveur pour les grands serveurs Minecraft
 
-Un fork open source de Folia pour Minecraft 26.2. Avec **Storia Cluster**, un même monde peut tourner sur plusieurs serveurs à la fois, et les joueurs passent de l'un à l'autre sans écran de chargement.
+Un fork à code source ouvert de Folia pour Minecraft 26.2. Avec **Storia Cluster**, un même monde peut rouler sur plusieurs serveurs à la fois, et les joueurs passent de l'un à l'autre sans écran de chargement.
 
 - **Storia Cluster** : un monde partagé par plusieurs serveurs, avec des liaisons chiffrées entre eux
 - **Relais de secours** : un second relais garde une copie à jour et prend le relais si le premier est perdu
@@ -85,11 +85,11 @@ Un fork open source de Folia pour Minecraft 26.2. Avec **Storia Cluster**, un m�
 
 ---
 
-## Contact
+## Pour me joindre
 
 - Discord d'AFK Network: https://discord.gg/q8TbzdRfsV
 - Discord de SABALISU: https://discord.gg/KucQxEsJtr
-- E-mail: admin@minecrafts.jp
+- Courriel: admin@minecrafts.jp
 
 <p align="center">
   <sub>Tout est bienvenu !</sub>

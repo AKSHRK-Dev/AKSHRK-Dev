@@ -2,7 +2,7 @@
 
 <h1 align="center">Languages / 言語一覧</h1>
 
-<p align="center">This profile is available in <b>73</b> languages. Pick yours below.<br>このプロフィールは <b>73</b> の言語で読めます。下から選んでください。</p>
+<p align="center">This profile is available in <b>74</b> languages. Pick yours below.<br>このプロフィールは <b>74</b> の言語で読めます。下から選んでください。</p>
 
 <p align="center"><img src="assets/continents.svg" width="820" alt="Languages per continent"></p>
 
@@ -130,13 +130,14 @@
 | [Crnogorski](i18n/README.cnr.md) | Montenegrin | モンテネグロ語 |
 | [Македонски](i18n/README.mk.md) | Macedonian | マケドニア語 |
 
-<h2 id="americas">Americas / アメリカ州 <sub>(4)</sub></h2>
+<h2 id="americas">Americas / アメリカ州 <sub>(5)</sub></h2>
 
 ### North America / 北アメリカ
 
 | Language | English | 日本語 |
 |---|---|---|
 | [English (US)](README.md) | English (US) | 英語（米国式） |
+| [Français (Canada)](i18n/README.fr-CA.md) | French (Canada) | フランス語（カナダ） |
 
 ### Central America / 中央アメリカ
 
