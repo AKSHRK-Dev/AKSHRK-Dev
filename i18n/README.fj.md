@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Na Vosa Vakaviti</b> · <a href="../LANGUAGES.md">Na vosa kece (103)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Na Vosa Vakaviti</b> · <a href="../LANGUAGES.md">Na vosa kece (104)</a></p>
 
 <h1 align="center">Bula, oi au o AKSHRK</h1>
 

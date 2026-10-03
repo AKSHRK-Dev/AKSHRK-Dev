@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Reo Tahiti</b> · <a href="../LANGUAGES.md">Te mau reo atoa (103)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Reo Tahiti</b> · <a href="../LANGUAGES.md">Te mau reo atoa (104)</a></p>
 
 <h1 align="center">Ia ora na, o AKSHRK vau</h1>
 

@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kajin M̧ajeļ</b> · <a href="../LANGUAGES.md">Aolep kajin (103)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kajin M̧ajeļ</b> · <a href="../LANGUAGES.md">Aolep kajin (104)</a></p>
 
 <h1 align="center">Iọkwe, ña AKSHRK</h1>
 

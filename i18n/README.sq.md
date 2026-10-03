@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Shqip</b> · <a href="../LANGUAGES.md">Të gjitha gjuhët (103)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Shqip</b> · <a href="../LANGUAGES.md">Të gjitha gjuhët (104)</a></p>
 
 <h1 align="center">Përshëndetje, jam AKSHRK</h1>
 

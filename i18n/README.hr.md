@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Hrvatski</b> · <a href="../LANGUAGES.md">Svih 103 jezika</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Hrvatski</b> · <a href="../LANGUAGES.md">Svih 104 jezika</a></p>
 
 <h1 align="center">Bok, ja sam AKSHRK</h1>
 

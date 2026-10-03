@@ -1,0 +1,34 @@
+{
+  "languages": "Indimi zose ({n})",
+  "hi": "Muraho, ndi AKSHRK",
+  "intro": "Ndi umukoze wa porogaramu ugitangira. Nyobora serivisi yo kwakira seriveri <b>ASHIKA Network</b> n'urutonde rwa seriveri za Minecraft <b>SABALISU</b>, kandi nkora porogaramu ya seriveri ya Minecraft <b>Storia</b>.",
+  "about_t": "Ibinyerekeyeho",
+  "about": [
+    "Ndacyari mushya, ariko nandika kode buri munsi kandi ndimo gutera imbere",
+    "Nandika **Python**, **Node.js** na **C#**",
+    "Nyobora serivisi yanjye bwite yo kwakira seriveri",
+    "Ibibazo ku bijyanye na serivisi zanjye cyangwa ikoranabuhanga birakaze: ndamutsa gusa kuri Discord"
+  ],
+  "can_write": "Ibyo nshobora kwandika (harimo na kode itunganyije nabi)",
+  "services_t": "Serivisi zanjye",
+  "anw_t": "ASHIKA Network: seriveri uhereye ku yeni 30 ku kwezi",
+  "anw_p": "Serivisi yo kwakira seriveri ku bashaka gukoresha seriveri ariko badashobora gutanga amafaranga menshi.\nTangira buhoro, **uhereye ku yeni 30 gusa ku kwezi**.",
+  "website": "Urubuga",
+  "sab_t": "SABALISU: urutonde rwa seriveri za Minecraft",
+  "sab_p": "Shyira seriveri yawe ya Minecraft ku rutonde kandi ubone abantu bayikiniraho.\nIfasha abakinnyi bashaka seriveri ndetse na ba nyirazo bashaka kuyimenyekanisha.",
+  "storia_t": "Storia: porogaramu ya seriveri ku seriveri nini za Minecraft",
+  "storia_p": "Fork y'isoko ifunguye ya Folia ya Minecraft 26.2. Na **Storia Cluster**, isi imwe ishobora gukorera kuri seriveri nyinshi icyarimwe, kandi abakinnyi bimuka hagati yazo nta shusho yo gupakira.",
+  "storia_points": [
+    "**Storia Cluster**: isi imwe isangiwe na seriveri nyinshi, ifite imiyoboro ihishe hagati yazo",
+    "**Relay y'inyongera**: relay ya kabiri ibika kopi nzima kandi isimbura iya mbere iyo ibuze",
+    "**Imiterere ya Linear**: isi ifata hafi kimwe cya kabiri cy'umwanya kuri disiki",
+    "**Isi muri RAM**, **Tick Guard**, API ya plugin ku makuru asangiwe, n'ibindi"
+  ],
+  "source": "Kode y'isoko",
+  "stats_t": "Imibare ya GitHub",
+  "contact_t": "Twandikire",
+  "contact_afk": "Discord ya AFK Network",
+  "contact_sab": "Discord ya SABALISU",
+  "mail": "Imeyili",
+  "welcome": "Byose birakaze!"
+}

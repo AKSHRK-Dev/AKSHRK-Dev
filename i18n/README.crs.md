@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kreol seselwa</b> · <a href="../LANGUAGES.md">Tou 103 langaz</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Kreol seselwa</b> · <a href="../LANGUAGES.md">Tou 104 langaz</a></p>
 
 <h1 align="center">Bonzour, mwan AKSHRK</h1>
 
