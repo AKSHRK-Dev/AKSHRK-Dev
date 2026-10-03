@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>རྫོང་ཁ</b> · <a href="../LANGUAGES.md">སྐད་ཡིག་ 27 ཆ་མཉམ།</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>རྫོང་ཁ</b> · <a href="../LANGUAGES.md">སྐད་ཡིག་ 28 ཆ་མཉམ།</a></p>
 
 <h1 align="center">ཀུ་ཟུ་ཟང་པོ་ལ། ང་ AKSHRK ཨིན།</h1>
 

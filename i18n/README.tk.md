@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Türkmençe</b> · <a href="../LANGUAGES.md">Ähli 27 dil</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Türkmençe</b> · <a href="../LANGUAGES.md">Ähli 28 dil</a></p>
 
 <h1 align="center">Salam, men AKSHRK</h1>
 
