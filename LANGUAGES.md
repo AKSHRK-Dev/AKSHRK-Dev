@@ -2,7 +2,7 @@
 
 <h1 align="center">Languages / 言語一覧</h1>
 
-<p align="center">This profile is available in <b>60</b> languages. Pick yours below.<br>このプロフィールは <b>60</b> の言語で読めます。下から選んでください。</p>
+<p align="center">This profile is available in <b>61</b> languages. Pick yours below.<br>このプロフィールは <b>61</b> の言語で読めます。下から選んでください。</p>
 
 <p align="center"><img src="assets/continents.svg" width="820" alt="Languages per continent"></p>
 
@@ -70,7 +70,7 @@
 | [עברית](i18n/README.he.md) | Hebrew | ヘブライ語 |
 | [Azərbaycanca](i18n/README.az.md) | Azerbaijani | アゼルバイジャン語 |
 
-<h2 id="europe">Europe / ヨーロッパ州 <sub>(24)</sub></h2>
+<h2 id="europe">Europe / ヨーロッパ州 <sub>(25)</sub></h2>
 
 ### Eastern Europe / 東ヨーロッパ
 
@@ -115,9 +115,10 @@
 | Language | English | 日本語 |
 |---|---|---|
 | [Español](i18n/README.es.md) | Spanish | スペイン語 |
+| [Português](i18n/README.pt.md) | Portuguese | ポルトガル語 |
 | [Hrvatski](i18n/README.hr.md) | Croatian | クロアチア語 |
 
-<h2 id="americas">Americas / アメリカ州 <sub>(3)</sub></h2>
+<h2 id="americas">Americas / アメリカ州 <sub>(4)</sub></h2>
 
 ### North America / 北アメリカ
 
@@ -139,6 +140,7 @@
 | [English (US)](README.md) | English (US) | 英語（米国式） |
 | [Español](i18n/README.es.md) | Spanish | スペイン語 |
 | [Français](i18n/README.fr.md) | French | フランス語 |
+| [Português](i18n/README.pt.md) | Portuguese | ポルトガル語 |
 
 ### South America / 南アメリカ
 
@@ -161,7 +163,7 @@
 | [English (UK)](i18n/README.en-GB.md) | English (UK) | 英語（英国式） |
 | [Français](i18n/README.fr.md) | French | フランス語 |
 
-<h2 id="africa">Africa / アフリカ州 <sub>(4)</sub></h2>
+<h2 id="africa">Africa / アフリカ州 <sub>(5)</sub></h2>
 
 ### North Africa / 北アフリカ
 
@@ -185,6 +187,7 @@
 | [Français](i18n/README.fr.md) | French | フランス語 |
 | [English (UK)](i18n/README.en-GB.md) | English (UK) | 英語（英国式） |
 | [Español](i18n/README.es.md) | Spanish | スペイン語 |
+| [Português](i18n/README.pt.md) | Portuguese | ポルトガル語 |
 
 ### East Africa / 東アフリカ
 
@@ -192,6 +195,7 @@
 |---|---|---|
 | [العربية](i18n/README.ar.md) | Arabic | アラビア語 |
 | [English (UK)](i18n/README.en-GB.md) | English (UK) | 英語（英国式） |
+| [Português](i18n/README.pt.md) | Portuguese | ポルトガル語 |
 | [Français](i18n/README.fr.md) | French | フランス語 |
 
 ### Southern Africa / 南アフリカ

@@ -1,0 +1,34 @@
+{
+  "languages": "Todas as {n} línguas",
+  "hi": "Olá, sou o AKSHRK",
+  "intro": "Um programador principiante. Giro o serviço de alojamento de servidores <b>ASHIKA Network</b> e a lista de servidores de Minecraft <b>SABALISU</b>, e desenvolvo o software de servidor para Minecraft <b>Storia</b>.",
+  "about_t": "Sobre mim",
+  "about": [
+    "Ainda sou novato, mas escrevo código todos os dias e estou sempre a melhorar",
+    "Escrevo em **Python**, **Node.js** e **C#**",
+    "Giro o meu próprio serviço de alojamento de servidores",
+    "Perguntas sobre os meus serviços ou sobre tecnologia são bem-vindas: basta dizer olá no Discord"
+  ],
+  "can_write": "O que sei escrever (código desarrumado incluído)",
+  "services_t": "Os meus serviços",
+  "anw_t": "ASHIKA Network: servidores a partir de 30 ienes por mês",
+  "anw_p": "Um serviço de alojamento para quem quer ter um servidor, mas não pode gastar muito.\nComece em pequeno, **a partir de apenas 30 ienes por mês**.",
+  "website": "Sítio web",
+  "sab_t": "SABALISU: uma lista de servidores de Minecraft",
+  "sab_p": "Registe o seu servidor de Minecraft e encontre pessoas para jogar nele.\nÚtil tanto para jogadores à procura de servidor como para donos que o querem divulgar.",
+  "storia_t": "Storia: software de servidor para grandes servidores de Minecraft",
+  "storia_p": "Um fork de código aberto do Folia para Minecraft 26.2. Com o **Storia Cluster**, um mundo pode correr em vários servidores ao mesmo tempo, e os jogadores passam de um para outro sem ecrã de carregamento.",
+  "storia_points": [
+    "**Storia Cluster**: um mundo partilhado por vários servidores, com ligações cifradas entre eles",
+    "**Relay de reserva**: um segundo relay guarda uma cópia em direto e assume o controlo se o primeiro se perder",
+    "**Formato Linear**: os mundos ocupam cerca de metade do espaço em disco",
+    "**Mundo em RAM**, **Tick Guard**, uma API de plugins para dados partilhados, e mais"
+  ],
+  "source": "Código-fonte",
+  "stats_t": "Estatísticas do GitHub",
+  "contact_t": "Contacto",
+  "contact_afk": "Discord da AFK Network",
+  "contact_sab": "Discord do SABALISU",
+  "mail": "E-mail",
+  "welcome": "Tudo é bem-vindo!"
+}
