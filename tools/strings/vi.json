@@ -1,0 +1,34 @@
+{
+  "languages": "Tất cả {n} ngôn ngữ",
+  "hi": "Xin chào, mình là AKSHRK",
+  "intro": "Một lập trình viên mới vào nghề. Mình vận hành dịch vụ lưu trữ máy chủ <b>ASHIKA Network</b> và trang danh sách máy chủ Minecraft <b>SABALISU</b>, đồng thời phát triển phần mềm máy chủ Minecraft <b>Storia</b>.",
+  "about_t": "Về mình",
+  "about": [
+    "Mình vẫn còn mới, nhưng ngày nào cũng viết code và tiến bộ dần",
+    "Mình viết **Python**, **Node.js** và **C#**",
+    "Mình tự vận hành một dịch vụ lưu trữ máy chủ",
+    "Có câu hỏi về dịch vụ hay về kỹ thuật thì cứ nhắn mình trên Discord nhé"
+  ],
+  "can_write": "Những gì mình viết được (kể cả code lộn xộn)",
+  "services_t": "Dịch vụ của mình",
+  "anw_t": "ASHIKA Network: máy chủ từ 30 yên mỗi tháng",
+  "anw_p": "Dịch vụ lưu trữ dành cho những ai muốn chạy máy chủ nhưng không thể chi nhiều tiền.\nBắt đầu nhỏ, **chỉ từ 30 yên mỗi tháng**.",
+  "website": "Trang web",
+  "sab_t": "SABALISU: danh sách máy chủ Minecraft",
+  "sab_p": "Đăng máy chủ Minecraft của bạn và tìm người cùng chơi.\nHữu ích cho cả người chơi đang tìm máy chủ lẫn chủ máy chủ muốn quảng bá.",
+  "storia_t": "Storia: phần mềm máy chủ cho các máy chủ Minecraft lớn",
+  "storia_p": "Một bản fork mã nguồn mở của Folia cho Minecraft 26.2. Với **Storia Cluster**, một thế giới có thể chạy trên nhiều máy chủ cùng lúc, và người chơi di chuyển giữa chúng mà không có màn hình tải.",
+  "storia_points": [
+    "**Storia Cluster**: một thế giới được nhiều máy chủ chia sẻ, kết nối giữa chúng được mã hóa",
+    "**Relay dự phòng**: relay thứ hai giữ bản sao trực tiếp và tiếp quản nếu relay thứ nhất bị mất",
+    "**Định dạng Linear**: thế giới chỉ chiếm khoảng một nửa dung lượng đĩa",
+    "**Thế giới trên RAM**, **Tick Guard**, API plugin để chia sẻ dữ liệu, và nhiều hơn nữa"
+  ],
+  "source": "Mã nguồn",
+  "stats_t": "Thống kê GitHub",
+  "contact_t": "Liên hệ",
+  "contact_afk": "Discord của AFK Network",
+  "contact_sab": "Discord của SABALISU",
+  "mail": "Email",
+  "welcome": "Mọi thứ đều được chào đón!"
+}
