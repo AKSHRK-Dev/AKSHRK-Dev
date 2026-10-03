@@ -1,0 +1,34 @@
+{
+  "languages": "Kõik keeled ({n})",
+  "hi": "Tere, mina olen AKSHRK",
+  "intro": "Algaja arendaja. Haldan serverimajutusteenust <b>ASHIKA Network</b> ja Minecrafti serverite nimekirja <b>SABALISU</b> ning arendan Minecrafti serveritarkvara <b>Storia</b>.",
+  "about_t": "Minust",
+  "about": [
+    "Olen alles algaja, aga kirjutan iga päev koodi ja muutun aina paremaks",
+    "Kirjutan **Pythonis**, **Node.js-is** ja **C#-is**",
+    "Haldan oma serverimajutusteenust",
+    "Küsimused minu teenuste või tehnoloogia kohta on teretulnud: ütle lihtsalt Discordis tere"
+  ],
+  "can_write": "Mida oskan kirjutada (sh segast koodi)",
+  "services_t": "Minu teenused",
+  "anw_t": "ASHIKA Network: serverid alates 30 jeenist kuus",
+  "anw_p": "Majutusteenus neile, kes tahavad serverit käitada, kuid ei saa sellele palju kulutada.\nAlusta väikselt, **juba alates 30 jeenist kuus**.",
+  "website": "Veebileht",
+  "sab_t": "SABALISU: Minecrafti serverite nimekiri",
+  "sab_p": "Lisa oma Minecrafti server nimekirja ja leia inimesi, kes seal mängiksid.\nKasulik nii serverit otsivatele mängijatele kui ka omanikele, kes tahavad oma serverit tutvustada.",
+  "storia_t": "Storia: serveritarkvara suurtele Minecrafti serveritele",
+  "storia_p": "Avatud lähtekoodiga Folia haru Minecraft 26.2 jaoks. **Storia Clusteriga** saab üks maailm töötada korraga mitmel serveril ja mängijad liiguvad nende vahel ilma laadimisekraanita.",
+  "storia_points": [
+    "**Storia Cluster**: üht maailma jagavad mitu serverit, nendevahelised ühendused on krüpteeritud",
+    "**Varu-relay**: teine relay hoiab elavat koopiat ja võtab töö üle, kui esimene kaob",
+    "**Linear-vorming**: maailm võtab umbes poole kettaruumist",
+    "**RAM-maailm**, **Tick Guard**, pistikprogrammide API jagatud andmete jaoks ja palju muud"
+  ],
+  "source": "Lähtekood",
+  "stats_t": "GitHubi statistika",
+  "contact_t": "Kontakt",
+  "contact_afk": "AFK Networki Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "E-post",
+  "welcome": "Kõik on teretulnud!"
+}
