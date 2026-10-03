@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>ខ្មែរ</b> · <a href="../LANGUAGES.md">ភាសាទាំង 104</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>ខ្មែរ</b> · <a href="../LANGUAGES.md">ភាសាទាំង 105</a></p>
 
 <h1 align="center">សួស្តី ខ្ញុំគឺ AKSHRK</h1>
 

@@ -1,0 +1,34 @@
+{
+  "languages": "Dipuo tsotlhe ({n})",
+  "hi": "Dumela, ke nna AKSHRK",
+  "intro": "Ke modiri wa dithulaganyo yo o simololang. Ke tsamaisa tirelo ya go amogela diseva <b>ASHIKA Network</b> le lenaane la diseva tsa Minecraft <b>SABALISU</b>, mme ke dira thulaganyo ya seva ya Minecraft <b>Storia</b>.",
+  "about_t": "Ka ga me",
+  "about": [
+    "Ke sa ntse ke le mošwa, mme ke kwala khoutu letsatsi le letsatsi e bile ke a tokafala",
+    "Ke kwala **Python**, **Node.js** le **C#**",
+    "Ke tsamaisa tirelo ya me ya go amogela diseva",
+    "Dipotso ka ga ditirelo tsa me kgotsa thekenoloji di a amogelwa: ntumedise fela mo Discord"
+  ],
+  "can_write": "Se ke kgonang go se kwala (go akaretsa khoutu e e sa rulaganngwang)",
+  "services_t": "Ditirelo tsa me",
+  "anw_t": "ASHIKA Network: diseva go simolola ka yen e le 30 ka kgwedi",
+  "anw_p": "Tirelo ya go amogela mo go ba ba batlang go tsamaisa seva mme ba sa kgone go dirisa madi a mantsi.\nSimolola ka bonnye, **go simolola ka yen e le 30 fela ka kgwedi**.",
+  "website": "Webosaete",
+  "sab_t": "SABALISU: lenaane la diseva tsa Minecraft",
+  "sab_p": "Tsenya seva ya gago ya Minecraft mo lenaaneng mme o bone batho ba ba tla tshamekang mo go yone.\nE thusa babatshameki ba ba batlang seva le beng ba ba batlang go itsise ya bone.",
+  "storia_t": "Storia: thulaganyo ya seva ya diseva tse dikgolo tsa Minecraft",
+  "storia_p": "Fork ya motswedi o o bulegileng ya Folia ya Minecraft 26.2. Ka **Storia Cluster**, lefatshe le le lengwe le ka dira mo disebeng di le mmalwa ka nako e le nngwe, mme batshameki ba fudugela magareng ga tsone kwa ntle ga sekirini sa go laela.",
+  "storia_points": [
+    "**Storia Cluster**: lefatshe le le lengwe le le abelanwang ke diseva di le mmalwa, ka dikgolagano tse di fitlhegileng",
+    "**Relay ya polokelo**: relay ya bobedi e boloka khopi e e tshelang mme e tsaya maemo a ya ntlha fa e latlhegile",
+    "**Popego ya Linear**: lefatshe le tsaya bontlha jwa lefelo mo diskeng",
+    "**Lefatshe mo RAM**, **Tick Guard**, API ya plugin ya data e e abelanwang, le go feta"
+  ],
+  "source": "Khoutu ya motswedi",
+  "stats_t": "Dipalopalo tsa GitHub",
+  "contact_t": "Ikgolaganye",
+  "contact_afk": "Discord ya AFK Network",
+  "contact_sab": "Discord ya SABALISU",
+  "mail": "Imeile",
+  "welcome": "Sengwe le sengwe se a amogelwa!"
+}
