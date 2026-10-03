@@ -1,0 +1,34 @@
+{
+  "languages": "Visas valodas ({n})",
+  "hi": "Sveiki, es esmu AKSHRK",
+  "intro": "Iesācējs izstrādātājs. Es vadu serveru mitināšanas pakalpojumu <b>ASHIKA Network</b> un Minecraft serveru sarakstu <b>SABALISU</b>, kā arī izstrādāju Minecraft serveru programmatūru <b>Storia</b>.",
+  "about_t": "Par mani",
+  "about": [
+    "Esmu vēl iesācējs, bet katru dienu rakstu kodu un kļūstu labāks",
+    "Rakstu **Python**, **Node.js** un **C#**",
+    "Vadu savu serveru mitināšanas pakalpojumu",
+    "Jautājumi par maniem pakalpojumiem vai tehnoloģijām ir gaidīti: vienkārši sasveicinieties Discord"
+  ],
+  "can_write": "Ko protu rakstīt (ieskaitot nekārtīgu kodu)",
+  "services_t": "Mani pakalpojumi",
+  "anw_t": "ASHIKA Network: serveri no 30 jenām mēnesī",
+  "anw_p": "Mitināšanas pakalpojums tiem, kas vēlas darbināt serveri, bet nevar tērēt daudz naudas.\nSāciet ar mazumiņu, **tikai no 30 jenām mēnesī**.",
+  "website": "Tīmekļa vietne",
+  "sab_t": "SABALISU: Minecraft serveru saraksts",
+  "sab_p": "Pievienojiet savu Minecraft serveri sarakstam un atrodiet cilvēkus, kas tajā spēlēs.\nNoderīgs gan spēlētājiem, kuri meklē serveri, gan īpašniekiem, kuri vēlas popularizēt savējo.",
+  "storia_t": "Storia: serveru programmatūra lieliem Minecraft serveriem",
+  "storia_p": "Atvērtā koda Folia atzars Minecraft 26.2 versijai. Ar **Storia Cluster** viena pasaule var darboties vairākos serveros vienlaikus, un spēlētāji pārvietojas starp tiem bez ielādes ekrāna.",
+  "storia_points": [
+    "**Storia Cluster**: vienu pasauli dala vairāki serveri, savienojumi starp tiem ir šifrēti",
+    "**Rezerves relay**: otrs relay glabā dzīvu kopiju un pārņem darbu, ja pirmais tiek zaudēts",
+    "**Linear formāts**: pasaule aizņem aptuveni pusi diska vietas",
+    "**RAM pasaule**, **Tick Guard**, spraudņu API koplietojamiem datiem un vēl"
+  ],
+  "source": "Pirmkods",
+  "stats_t": "GitHub statistika",
+  "contact_t": "Kontakti",
+  "contact_afk": "AFK Network Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "E-pasts",
+  "welcome": "Viss ir gaidīts!"
+}
