@@ -1,0 +1,34 @@
+{
+  "languages": "Tout {n} lang yo",
+  "hi": "Bonjou, mwen se AKSHRK",
+  "intro": "Yon devlopè ki fèk kòmanse. Mwen jere sèvis hosting sèvè <b>ASHIKA Network</b> ak lis sèvè Minecraft <b>SABALISU</b>, epi m ap devlope lojisyèl sèvè Minecraft <b>Storia</b>.",
+  "about_t": "Konsènan mwen",
+  "about": [
+    "Mwen toujou nouvo, men mwen ekri kòd chak jou e m ap amelyore",
+    "Mwen ekri **Python**, **Node.js** ak **C#**",
+    "Mwen jere pwòp sèvis hosting sèvè pa m",
+    "Kesyon sou sèvis mwen yo oswa sou teknoloji byenveni: annik di m bonjou sou Discord"
+  ],
+  "can_write": "Sa m konn ekri (menm kòd ki an dezòd)",
+  "services_t": "Sèvis mwen yo",
+  "anw_t": "ASHIKA Network: sèvè apati 30 yen pa mwa",
+  "anw_p": "Yon sèvis hosting pou moun ki vle fè yon sèvè mache men ki pa ka depanse anpil.\nKòmanse piti, **apati 30 yen sèlman pa mwa**.",
+  "website": "Sit entènèt",
+  "sab_t": "SABALISU: yon lis sèvè Minecraft",
+  "sab_p": "Mete sèvè Minecraft ou nan lis la epi jwenn moun pou jwe ladan l.\nItil pou jwè k ap chèche yon sèvè ak pou pwopriyetè ki vle fè piblisite pou pa yo.",
+  "storia_t": "Storia: lojisyèl sèvè pou gwo sèvè Minecraft",
+  "storia_p": "Yon fork sous louvri Folia pou Minecraft 26.2. Avèk **Storia Cluster**, yon sèl mond ka mache sou plizyè sèvè an menm tan, epi jwè yo pase de yon sèvè a yon lòt san ekran chajman.",
+  "storia_points": [
+    "**Storia Cluster**: yon mond plizyè sèvè pataje, ak koneksyon chifre ant yo",
+    "**Relay rezèv**: yon dezyèm relay kenbe yon kopi an dirèk epi pran plas premye a si li pèdi",
+    "**Fòma Linear**: mond yo pran apeprè mwatye espas sou disk la",
+    "**Mond nan RAM**, **Tick Guard**, yon API plugin pou done pataje, ak plis ankò"
+  ],
+  "source": "Kòd sous",
+  "stats_t": "Estatistik GitHub",
+  "contact_t": "Kontak",
+  "contact_afk": "Discord AFK Network",
+  "contact_sab": "Discord SABALISU",
+  "mail": "Imèl",
+  "welcome": "Tout bagay byenveni!"
+}
