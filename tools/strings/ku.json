@@ -1,0 +1,34 @@
+{
+  "languages": "Hemû {n} ziman",
+  "hi": "Silav, ez AKSHRK im",
+  "intro": "Pêşdebirekî nû. Ez karûbarê mêvandariya serverê <b>ASHIKA Network</b> û lîsteya serverên Minecraftê <b>SABALISU</b> bi rê ve dibim, û nermalava serverê ya Minecraftê <b>Storia</b> çêdikim.",
+  "about_t": "Derbarê min de",
+  "about": [
+    "Ez hîn nû me, lê her roj kodê dinivîsim û pêş dikevim",
+    "Ez bi **Python**, **Node.js** û **C#** dinivîsim",
+    "Ez karûbarê xwe yê mêvandariya serverê bi rê ve dibim",
+    "Pirsên li ser karûbarên min an teknolojiyê bi xêr hatin: tenê li ser Discordê silavê bidin"
+  ],
+  "can_write": "Tiştên ku ez dikarim binivîsim (koda tevlihev jî tê de)",
+  "services_t": "Karûbarên min",
+  "anw_t": "ASHIKA Network: server ji 30 yenan mehê",
+  "anw_p": "Karûbarekî mêvandariyê ji bo kesên ku dixwazin serverekê bixebitînin lê nikarin pir pere xerc bikin.\nPiçûk dest pê bikin, **tenê ji 30 yenan mehê**.",
+  "website": "Malper",
+  "sab_t": "SABALISU: lîsteya serverên Minecraftê",
+  "sab_p": "Serverê xwe yê Minecraftê li lîsteyê zêde bikin û hevalên lîstikê bibînin.\nHem ji bo lîstikvanên ku li serverekê digerin, hem jî ji bo xwediyên ku dixwazin serverê xwe bidin naskirin bi kêr tê.",
+  "storia_t": "Storia: nermalava serverê ji bo serverên mezin ên Minecraftê",
+  "storia_p": "Serverekî çavkaniya vekirî yê li ser bingeha Folia ji bo Minecraft 26.2. Bi **Storia Cluster**, cîhanek dikare di heman demê de li ser çend serveran bixebite, û lîstikvan bê ekrana barkirinê di navbera wan de diçin û tên.",
+  "storia_points": [
+    "**Storia Cluster**: çend server cîhanekê parve dikin, girêdanên di navbera wan de şîfrekirî ne",
+    "**Relaya amade**: relayeke duyem kopiyeke zindî diparêze û heke ya yekem winda bibe, cihê wê digire",
+    "**Formata Linear**: cîhan nêzîkî nîvê cihê dîskê digire",
+    "**Cîhana RAMê**, **Tick Guard**, API-ya pêvekê ji bo parvekirina daneyan, û bêtir"
+  ],
+  "source": "Koda çavkaniyê",
+  "stats_t": "Statîstîkên GitHubê",
+  "contact_t": "Têkilî",
+  "contact_afk": "Discorda AFK Network",
+  "contact_sab": "Discorda SABALISU",
+  "mail": "E-name",
+  "welcome": "Her tişt bi xêr hatî!"
+}
