@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Latina</b> · <a href="../LANGUAGES.md">Omnes linguae (87)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Latina</b> · <a href="../LANGUAGES.md">Omnes linguae (88)</a></p>
 
 <h1 align="center">Salve, AKSHRK sum</h1>
 

@@ -1,0 +1,34 @@
+{
+  "languages": "Olgeta {n} lanwis",
+  "hi": "Halo, mi AKSHRK",
+  "intro": "Mi wan niu developa. Mi stap ronem seves blong hosting blong sava <b>ASHIKA Network</b> mo lis blong ol Minecraft sava <b>SABALISU</b>, mo mi stap mekem softwea blong Minecraft sava <b>Storia</b>.",
+  "about_t": "Abaot mi",
+  "about": [
+    "Mi niu yet, be evri dei mi raetem kod mo mi stap kam gud moa",
+    "Mi raetem **Python**, **Node.js** mo **C#**",
+    "Mi ronem seves blong hosting blong sava blong mi wan",
+    "Ol kwestin abaot ol seves blong mi o teknoloji oli welkam: talem halo nomo long Discord"
+  ],
+  "can_write": "Wanem mi save raetem (wetem ol kod we i no stret gud)",
+  "services_t": "Ol seves blong mi",
+  "anw_t": "ASHIKA Network: ol sava stat long 30 yen long wan manis",
+  "anw_p": "Wan seves blong hosting blong ol man we oli wantem ronem wan sava be oli no save spenem bigfala mani.\nStat smol, **stat long 30 yen nomo long wan manis**.",
+  "website": "Websaet",
+  "sab_t": "SABALISU: wan lis blong ol Minecraft sava",
+  "sab_p": "Putum Minecraft sava blong yu long lis mo faenem ol man blong plei long hem.\nI gud blong ol plea we oli stap lukaotem wan sava mo blong ol ona we oli wantem soemaot sava blong olgeta.",
+  "storia_t": "Storia: softwea blong ol bigfala Minecraft sava",
+  "storia_p": "Wan open-source fork blong Folia blong Minecraft 26.2. Wetem **Storia Cluster**, wan wol i save ron long plante sava long sem taem, mo ol plea oli muv bitwin olgeta i no gat loading skrin.",
+  "storia_points": [
+    "**Storia Cluster**: wan wol we plante sava oli serem, wetem ol konekson we oli enkriptem",
+    "**Standbae relay**: namba tu relay i holem wan laef kopi mo i tekova sapos namba wan i lus",
+    "**Linear fomat**: ol wol oli yusum haf blong spes long disk nomo",
+    "**RAM wol**, **Tick Guard**, wan plugin API blong serem data, mo plante moa"
+  ],
+  "source": "Sos kod",
+  "stats_t": "GitHub Stats",
+  "contact_t": "Kontak",
+  "contact_afk": "Discord blong AFK Network",
+  "contact_sab": "Discord blong SABALISU",
+  "mail": "Imel",
+  "welcome": "Evri samting i welkam!"
+}
