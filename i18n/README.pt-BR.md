@@ -1,9 +1,9 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Português</b> · <a href="../LANGUAGES.md">Todas as 76 línguas</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Português (Brasil)</b> · <a href="../LANGUAGES.md">Todos os 76 idiomas</a></p>
 
-<h1 align="center">Olá, sou o AKSHRK</h1>
+<h1 align="center">Oi, eu sou o AKSHRK</h1>
 
 <p align="center">
-  Um programador principiante. Giro o serviço de alojamento de servidores <b>ASHIKA Network</b> e a lista de servidores de Minecraft <b>SABALISU</b>, e desenvolvo o software de servidor para Minecraft <b>Storia</b>.
+  Um desenvolvedor iniciante. Eu cuido do serviço de hospedagem de servidores <b>ASHIKA Network</b> e da lista de servidores de Minecraft <b>SABALISU</b>, e desenvolvo o software de servidor para Minecraft <b>Storia</b>.
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@
 
 ## Sobre mim
 
-- Ainda sou novato, mas escrevo código todos os dias e estou sempre a melhorar
+- Ainda sou iniciante, mas escrevo código todo dia e estou sempre melhorando
 - Escrevo em **Python**, **Node.js** e **C#**
-- Giro o meu próprio serviço de alojamento de servidores
-- Perguntas sobre os meus serviços ou sobre tecnologia são bem-vindas: basta dizer olá no Discord
+- Cuido do meu próprio serviço de hospedagem de servidores
+- Perguntas sobre meus serviços ou sobre tecnologia são bem-vindas: é só dar um oi no Discord
 
-### O que sei escrever (código desarrumado incluído)
+### O que eu sei escrever (incluindo código bagunçado)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -29,44 +29,44 @@
 
 ---
 
-## Os meus serviços
+## Meus serviços
 
 ### ASHIKA Network: servidores a partir de 30 ienes por mês
 
-Um serviço de alojamento para quem quer ter um servidor, mas não pode gastar muito.
-Comece em pequeno, **a partir de apenas 30 ienes por mês**.
+Um serviço de hospedagem para quem quer ter um servidor, mas não pode gastar muito.
+Comece pequeno, **a partir de apenas 30 ienes por mês**.
 
 | | |
 |---|---|
-| Sítio web | https://www.ashikanw.com |
+| Site | https://www.ashikanw.com |
 | Discord | https://link.ashikanw.com/discord |
 
 <br>
 
 ### SABALISU: uma lista de servidores de Minecraft
 
-Registe o seu servidor de Minecraft e encontre pessoas para jogar nele.
-Útil tanto para jogadores à procura de servidor como para donos que o querem divulgar.
+Cadastre seu servidor de Minecraft e encontre gente para jogar nele.
+Útil tanto para jogadores procurando servidor quanto para donos que querem divulgar o seu.
 
 | | |
 |---|---|
-| Sítio web | https://minecrafts.jp |
+| Site | https://minecrafts.jp |
 | Discord | https://discord.gg/KucQxEsJtr |
 
 <br>
 
 ### Storia: software de servidor para grandes servidores de Minecraft
 
-Um fork de código aberto do Folia para Minecraft 26.2. Com o **Storia Cluster**, um mundo pode correr em vários servidores ao mesmo tempo, e os jogadores passam de um para outro sem ecrã de carregamento.
+Um fork de código aberto do Folia para Minecraft 26.2. Com o **Storia Cluster**, um mesmo mundo pode rodar em vários servidores ao mesmo tempo, e os jogadores passam de um para outro sem tela de carregamento.
 
-- **Storia Cluster**: um mundo partilhado por vários servidores, com ligações cifradas entre eles
-- **Relay de reserva**: um segundo relay guarda uma cópia em direto e assume o controlo se o primeiro se perder
+- **Storia Cluster**: um mundo compartilhado por vários servidores, com conexões criptografadas entre eles
+- **Relay reserva**: um segundo relay mantém uma cópia ao vivo e assume se o primeiro for perdido
 - **Formato Linear**: os mundos ocupam cerca de metade do espaço em disco
-- **Mundo em RAM**, **Tick Guard**, uma API de plugins para dados partilhados, e mais
+- **Mundo na RAM**, **Tick Guard**, uma API de plugins para dados compartilhados, e mais
 
 | | |
 |---|---|
-| Sítio web | https://storiamc.com |
+| Site | https://storiamc.com |
 | Código-fonte | https://github.com/AKSHRK-Dev/Storia |
 
 <p>
@@ -85,7 +85,7 @@ Um fork de código aberto do Folia para Minecraft 26.2. Com o **Storia Cluster**
 
 ---
 
-## Contacto
+## Contato
 
 - Discord da AFK Network: https://discord.gg/q8TbzdRfsV
 - Discord do SABALISU: https://discord.gg/KucQxEsJtr

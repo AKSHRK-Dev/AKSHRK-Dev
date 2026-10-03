@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Lietuvių</b> · <a href="../LANGUAGES.md">Visos kalbos (75)</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Lietuvių</b> · <a href="../LANGUAGES.md">Visos kalbos (76)</a></p>
 
 <h1 align="center">Labas, aš AKSHRK</h1>
 
