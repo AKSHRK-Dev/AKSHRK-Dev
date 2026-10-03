@@ -1,0 +1,34 @@
+{
+  "languages": "Barcha {n} til",
+  "hi": "Salom, men AKSHRK",
+  "intro": "Boshlovchi dasturchi. Men <b>ASHIKA Network</b> server xosting xizmatini va <b>SABALISU</b> Minecraft serverlar roʻyxatini yuritaman hamda <b>Storia</b> Minecraft server dasturini ishlab chiqaman.",
+  "about_t": "Men haqimda",
+  "about": [
+    "Hali yangiman, lekin har kuni kod yozaman va tobora yaxshilanib boryapman",
+    "**Python**, **Node.js** va **C#** da yozaman",
+    "Oʻzimning server xosting xizmatimni yuritaman",
+    "Xizmatlarim yoki texnologiya haqida savollaringiz boʻlsa, Discord’da bemalol yozing"
+  ],
+  "can_write": "Yoza oladigan tillarim (tartibsiz kod ham bor)",
+  "services_t": "Xizmatlarim",
+  "anw_t": "ASHIKA Network: oyiga 30 iyenadan boshlanadigan serverlar",
+  "anw_p": "Server ishga tushirmoqchi boʻlgan, lekin koʻp pul sarflay olmaydiganlar uchun xosting xizmati.\nKichikdan boshlang: **oyiga atigi 30 iyenadan**.",
+  "website": "Veb-sayt",
+  "sab_t": "SABALISU: Minecraft serverlar roʻyxati",
+  "sab_p": "Minecraft serveringizni roʻyxatga qoʻshing va birga oʻynaydigan odamlarni toping.\nServer qidirayotgan oʻyinchilar uchun ham, serverini reklama qilmoqchi boʻlgan egalar uchun ham foydali.",
+  "storia_t": "Storia: katta Minecraft serverlari uchun server dasturi",
+  "storia_p": "Minecraft 26.2 uchun Folia asosidagi ochiq manbali server. **Storia Cluster** yordamida bitta dunyo bir vaqtning oʻzida bir nechta serverda ishlaydi, oʻyinchilar esa ular orasida yuklanish ekranisiz koʻchib yuradi.",
+  "storia_points": [
+    "**Storia Cluster**: bitta dunyo bir nechta server tomonidan boʻlishiladi, ular orasidagi aloqa shifrlangan",
+    "**Zaxira relay**: ikkinchi relay jonli nusxani saqlaydi va birinchisi yoʻqolsa, uning oʻrnini egallaydi",
+    "**Linear formati**: dunyo disk hajmining taxminan yarmini egallaydi",
+    "**RAM dunyo**, **Tick Guard**, maʼlumot almashish uchun plagin API va boshqalar"
+  ],
+  "source": "Manba kodi",
+  "stats_t": "GitHub statistikasi",
+  "contact_t": "Aloqa",
+  "contact_afk": "AFK Network Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "Pochta",
+  "welcome": "Har qanday narsa xush kelibsiz!"
+}
