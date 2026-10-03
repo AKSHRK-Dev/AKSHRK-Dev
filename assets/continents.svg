@@ -20,8 +20,8 @@
 <rect class="bar" x="270" y="102" width="126.5" height="20" rx="10" style="animation-delay:0.30s"/>
 <text class="n" x="404.5" y="117" text-anchor="start" style="fill:#14497e">9</text><text class="l" x="20" y="151">Oceania / オセアニア州</text>
 <rect class="track" x="270" y="136" width="520" height="20" rx="10"/>
-<rect class="bar" x="270" y="136" width="140.5" height="20" rx="10" style="animation-delay:0.45s"/>
-<text class="n" x="418.5" y="151" text-anchor="start" style="fill:#14497e">10</text><text class="l" x="20" y="185">Africa / アフリカ州</text>
+<rect class="bar" x="270" y="136" width="154.6" height="20" rx="10" style="animation-delay:0.45s"/>
+<text class="n" x="432.6" y="151" text-anchor="start" style="fill:#14497e">11</text><text class="l" x="20" y="185">Africa / アフリカ州</text>
 <rect class="track" x="270" y="170" width="520" height="20" rx="10"/>
 <rect class="bar" x="270" y="170" width="70.3" height="20" rx="10" style="animation-delay:0.60s"/>
 <text class="n" x="348.3" y="185" text-anchor="start" style="fill:#14497e">5</text>

@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Français (Canada)</b> · <a href="../LANGUAGES.md">Les 86 langues</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Français (Canada)</b> · <a href="../LANGUAGES.md">Les 87 langues</a></p>
 
 <h1 align="center">Allô, moi c'est AKSHRK</h1>
 
