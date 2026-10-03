@@ -1,0 +1,34 @@
+{
+  "languages": "Bütün {n} dil",
+  "hi": "Salam, mən AKSHRK",
+  "intro": "Yeni başlayan bir proqramçı. Server hostinq xidməti <b>ASHIKA Network</b>-u və Minecraft server siyahısı <b>SABALISU</b>-nu idarə edir, Minecraft server proqramı <b>Storia</b>-nı hazırlayıram.",
+  "about_t": "Haqqımda",
+  "about": [
+    "Hələ yeniyəm, amma hər gün kod yazır və inkişaf edirəm",
+    "**Python**, **Node.js** və **C#** dillərində yazıram",
+    "Öz server hostinq xidmətimi idarə edirəm",
+    "Xidmətlərim və ya texnologiya haqqında suallara şadam: sadəcə Discord-da salam yazın"
+  ],
+  "can_write": "Yaza bildiklərim (qarışıq kod da daxil)",
+  "services_t": "Xidmətlərim",
+  "anw_t": "ASHIKA Network: ayda 30 yendən başlayan serverlər",
+  "anw_p": "Server işə salmaq istəyən, amma çox pul xərcləyə bilməyənlər üçün hostinq xidməti.\nKiçikdən başlayın, **ayda cəmi 30 yendən**.",
+  "website": "Veb-sayt",
+  "sab_t": "SABALISU: Minecraft server siyahısı",
+  "sab_p": "Minecraft serverinizi siyahıya əlavə edin və birlikdə oynayacaq insanlar tapın.\nHəm server axtaran oyunçular, həm də serverini tanıtmaq istəyən sahiblər üçün faydalıdır.",
+  "storia_t": "Storia: böyük Minecraft serverləri üçün server proqramı",
+  "storia_p": "Minecraft 26.2 üçün Folia əsasında açıq mənbəli server. **Storia Cluster** ilə bir dünya eyni anda bir neçə serverdə işləyə bilər, oyunçular isə yükləmə ekranı olmadan onlar arasında keçid edir.",
+  "storia_points": [
+    "**Storia Cluster**: bir dünyanı bir neçə server bölüşür, aralarındakı əlaqələr şifrələnib",
+    "**Ehtiyat relay**: ikinci relay canlı nüsxə saxlayır və birincisi itərsə, onu əvəz edir",
+    "**Linear formatı**: dünya disk sahəsinin təxminən yarısını tutur",
+    "**RAM dünyası**, **Tick Guard**, məlumat paylaşmaq üçün plagin API-si və daha çoxu"
+  ],
+  "source": "Mənbə kodu",
+  "stats_t": "GitHub statistikası",
+  "contact_t": "Əlaqə",
+  "contact_afk": "AFK Network Discord",
+  "contact_sab": "SABALISU Discord",
+  "mail": "E-poçt",
+  "welcome": "Hər şeyə açığam!"
+}
