@@ -23,6 +23,6 @@
 <rect class="bar" x="270" y="136" width="224.9" height="20" rx="10" style="animation-delay:0.45s"/>
 <text class="n" x="502.9" y="151" text-anchor="start" style="fill:#14497e">16</text><text class="l" x="20" y="185">Africa / アフリカ州</text>
 <rect class="track" x="270" y="170" width="520" height="20" rx="10"/>
-<rect class="bar" x="270" y="170" width="210.8" height="20" rx="10" style="animation-delay:0.60s"/>
-<text class="n" x="488.8" y="185" text-anchor="start" style="fill:#14497e">15</text>
+<rect class="bar" x="270" y="170" width="224.9" height="20" rx="10" style="animation-delay:0.60s"/>
+<text class="n" x="502.9" y="185" text-anchor="start" style="fill:#14497e">16</text>
 </svg>

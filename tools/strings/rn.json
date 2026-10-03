@@ -1,0 +1,34 @@
+{
+  "languages": "Indimi zose ({n})",
+  "hi": "Amahoro, ndi AKSHRK",
+  "intro": "Ndi umutunganya-porogarame atanguye. Ndongora igikorwa co kubika server <b>ASHIKA Network</b> n'urutonde rwa server za Minecraft <b>SABALISU</b>, kandi ndategura porogarame ya server ya Minecraft <b>Storia</b>.",
+  "about_t": "Ibinyerekeye",
+  "about": [
+    "Ndacari mushasha, ariko nandika kode buri musi kandi ndiko ndatera imbere",
+    "Nandika **Python**, **Node.js** na **C#**",
+    "Ndongora igikorwa canje bwite co kubika server",
+    "Ibibazo ku bikorwa vyanje canke ku buhinga birakaze: ndamutsa gusa kuri Discord"
+  ],
+  "can_write": "Ivyo nshobora kwandika (harimwo na kode itunganijwe nabi)",
+  "services_t": "Ibikorwa vyanje",
+  "anw_t": "ASHIKA Network: server uhereye ku mayeni 30 ku kwezi",
+  "anw_p": "Igikorwa co kubika server ku bashaka gukoresha server ariko badashobora gutanga amahera menshi.\nTangura buhoro, **uhereye ku mayeni 30 gusa ku kwezi**.",
+  "website": "Urubuga",
+  "sab_t": "SABALISU: urutonde rwa server za Minecraft",
+  "sab_p": "Shira server yawe ya Minecraft ku rutonde maze uronke abantu bayikinirako.\nIrafasha abakinyi barondera server n'abayifise bashaka kuyimenyekanisha.",
+  "storia_t": "Storia: porogarame ya server ku server nini za Minecraft",
+  "storia_p": "Fork y'isôko yuguruye ya Folia ku Minecraft 26.2. Na **Storia Cluster**, isi imwe irashobora gukora kuri server nyinshi icarimwe, kandi abakinyi bimuka hagati yazo ata kirahure co gupakira.",
+  "storia_points": [
+    "**Storia Cluster**: isi imwe isangiwe na server nyinshi, n'amahuriro asobetse hagati yazo",
+    "**Relay y'ingoboka**: relay ya kabiri ibika kopi nzima kandi isubirira iya mbere iyo ibuze",
+    "**Imiterere ya Linear**: isi ifata nk'igice c'ikibanza kuri disiki",
+    "**Isi muri RAM**, **Tick Guard**, API ya plugin ku makuru asangiwe, n'ibindi"
+  ],
+  "source": "Kode y'isôko",
+  "stats_t": "Ibiharuro vya GitHub",
+  "contact_t": "Twandikire",
+  "contact_afk": "Discord ya AFK Network",
+  "contact_sab": "Discord ya SABALISU",
+  "mail": "Imeyili",
+  "welcome": "Vyose birakaze!"
+}
