@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>ไทย</b> · <a href="../LANGUAGES.md">ทั้งหมด 40 ภาษา</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>ไทย</b> · <a href="../LANGUAGES.md">ทั้งหมด 41 ภาษา</a></p>
 
 <h1 align="center">สวัสดี ผมชื่อ AKSHRK</h1>
 

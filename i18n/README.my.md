@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>မြန်မာ</b> · <a href="../LANGUAGES.md">ဘာသာစကား 40 ခုလုံး</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>မြန်မာ</b> · <a href="../LANGUAGES.md">ဘာသာစကား 41 ခုလုံး</a></p>
 
 <h1 align="center">မင်္ဂလာပါ၊ ကျွန်တော် AKSHRK ပါ</h1>
 

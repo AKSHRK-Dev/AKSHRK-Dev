@@ -1,9 +1,9 @@
-<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Čeština</b> · <a href="../LANGUAGES.md">Všech 41 jazyků</a></p>
+<p align="center"><a href="../README.md">English</a> · <a href="../README.ja.md">日本語</a> · <b>Slovenčina</b> · <a href="../LANGUAGES.md">Všetkých 41 jazykov</a></p>
 
-<h1 align="center">Ahoj, jsem AKSHRK</h1>
+<h1 align="center">Ahoj, som AKSHRK</h1>
 
 <p align="center">
-  Začínající vývojář. Provozuji hostingovou službu <b>ASHIKA Network</b> a seznam minecraftových serverů <b>SABALISU</b> a vyvíjím serverový software pro Minecraft <b>Storia</b>.
+  Začínajúci vývojár. Prevádzkujem hostingovú službu <b>ASHIKA Network</b> a zoznam minecraftových serverov <b>SABALISU</b> a vyvíjam serverový softvér pre Minecraft <b>Storia</b>.
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 ---
 
-## O mně
+## O mne
 
-- Jsem ještě začátečník, ale každý den píšu kód a zlepšuji se
-- Píšu v **Pythonu**, **Node.js** a **C#**
-- Provozuji vlastní službu pro hosting serverů
-- Otázky k mým službám nebo k technologiím jsou vítány: stačí napsat na Discordu
+- Som ešte začiatočník, ale každý deň píšem kód a zlepšujem sa
+- Píšem v **Pythone**, **Node.js** a **C#**
+- Prevádzkujem vlastnú službu na hosting serverov
+- Otázky o mojich službách alebo o technológiách sú vítané: stačí napísať na Discorde
 
-### V čem umím psát (včetně nepořádného kódu)
+### V čom viem písať (vrátane neporiadneho kódu)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -31,10 +31,10 @@
 
 ## Moje služby
 
-### ASHIKA Network: servery od 30 jenů měsíčně
+### ASHIKA Network: servery od 30 jenov mesačne
 
-Hostingová služba pro ty, kdo chtějí provozovat server, ale nemohou za něj utratit moc peněz.
-Začněte v malém, **už od 30 jenů měsíčně**.
+Hostingová služba pre tých, ktorí chcú prevádzkovať server, ale nemôžu zaň minúť veľa peňazí.
+Začnite v malom, **už od 30 jenov mesačne**.
 
 | | |
 |---|---|
@@ -43,10 +43,10 @@ Začněte v malém, **už od 30 jenů měsíčně**.
 
 <br>
 
-### SABALISU: seznam minecraftových serverů
+### SABALISU: zoznam minecraftových serverov
 
-Přidejte svůj minecraftový server do seznamu a najděte lidi, kteří na něm budou hrát.
-Hodí se hráčům, kteří hledají server, i majitelům, kteří chtějí ten svůj propagovat.
+Pridajte svoj minecraftový server do zoznamu a nájdite ľudí, ktorí na ňom budú hrať.
+Hodí sa hráčom, ktorí hľadajú server, aj majiteľom, ktorí chcú ten svoj propagovať.
 
 | | |
 |---|---|
@@ -55,14 +55,14 @@ Hodí se hráčům, kteří hledají server, i majitelům, kteří chtějí ten 
 
 <br>
 
-### Storia: serverový software pro velké minecraftové servery
+### Storia: serverový softvér pre veľké minecraftové servery
 
-Open-source fork Folie pro Minecraft 26.2. Díky **Storia Cluster** může jeden svět běžet na několika serverech najednou a hráči mezi nimi přecházejí bez načítací obrazovky.
+Open-source fork Folie pre Minecraft 26.2. Vďaka **Storia Cluster** môže jeden svet bežať na viacerých serveroch naraz a hráči medzi nimi prechádzajú bez načítavacej obrazovky.
 
-- **Storia Cluster**: jeden svět sdílený několika servery, spojení mezi nimi je šifrované
-- **Záložní relay**: druhý relay drží živou kopii a převezme práci, když se první ztratí
-- **Formát Linear**: svět zabírá zhruba polovinu místa na disku
-- **Svět v RAM**, **Tick Guard**, API pro pluginy na sdílená data a další
+- **Storia Cluster**: jeden svet zdieľaný viacerými servermi, spojenie medzi nimi je šifrované
+- **Záložný relay**: druhý relay drží živú kópiu a prevezme prácu, ak sa prvý stratí
+- **Formát Linear**: svet zaberá približne polovicu miesta na disku
+- **Svet v RAM**, **Tick Guard**, API pre pluginy na zdieľané dáta a ďalšie
 
 | | |
 |---|---|
@@ -76,7 +76,7 @@ Open-source fork Folie pro Minecraft 26.2. Díky **Storia Cluster** může jeden
 
 ---
 
-## Statistiky GitHubu
+## Štatistiky GitHubu
 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
@@ -92,5 +92,5 @@ Open-source fork Folie pro Minecraft 26.2. Díky **Storia Cluster** může jeden
 - E-mail: admin@minecrafts.jp
 
 <p align="center">
-  <sub>Vítáno je cokoli!</sub>
+  <sub>Vítané je čokoľvek!</sub>
 </p>
