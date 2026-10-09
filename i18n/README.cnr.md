@@ -10,6 +10,7 @@
   <a href="https://ashikanw.com"><img src="https://img.shields.io/badge/ASHIKA%20Network-ashikanw.com-E63E3E?style=for-the-badge" alt="ASHIKA Network"></a>
   <a href="https://minecrafts.jp"><img src="https://img.shields.io/badge/SABALISU-minecrafts.jp-E63E3E?style=for-the-badge" alt="SABALISU"></a>
   <a href="https://storiamc.com"><img src="https://img.shields.io/badge/Storia-storiamc.com-1B60A6?style=for-the-badge" alt="Storia"></a>
+  <a href="https://4l.vc"><img src="https://img.shields.io/badge/4l.vc-URL%20shortener-FF4D17?style=for-the-badge" alt="4l.vc"></a>
 </p>
 
 ---
@@ -73,6 +74,17 @@ Fork Folije otvorenog koda za Minecraft 26.2. Uz **Storia Cluster** jedan svijet
   <a href="https://github.com/AKSHRK-Dev/Storia/releases/latest"><img src="https://img.shields.io/github/v/release/AKSHRK-Dev/Storia?style=flat-square&label=Storia&color=1B60A6" alt="Storia release"></a>
   <a href="https://github.com/AKSHRK-Dev/Storia"><img src="https://img.shields.io/github/stars/AKSHRK-Dev/Storia?style=flat-square&color=1B60A6" alt="Stars"></a>
 </p>
+
+<br>
+
+### 4l.vc: usluga za skraćivanje URL-ova
+
+Pretvara duge URL-ove u kratke.
+Bez registracije, besplatno, a linkovi nikad ne ističu.
+
+| | |
+|---|---|
+| Veb-sajt | https://4l.vc |
 
 ---
 

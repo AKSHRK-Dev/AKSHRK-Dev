@@ -25,6 +25,8 @@
     "**ໂລກໃນ RAM**, **Tick Guard**, plugin API ສຳລັບແບ່ງປັນຂໍ້ມູນ ແລະ ອື່ນໆ"
   ],
   "source": "ໂຄດຕົ້ນສະບັບ",
+  "url_t": "4l.vc: ບໍລິການຫຍໍ້ URL",
+  "url_p": "ປ່ຽນ URL ຍາວໃຫ້ເປັນ URL ສັ້ນ.\nບໍ່ຕ້ອງລົງທະບຽນ, ໃຊ້ຟຣີ ແລະ ລິ້ງບໍ່ມີວັນໝົດອາຍຸ.",
   "stats_t": "ສະຖິຕິ GitHub",
   "contact_t": "ຕິດຕໍ່",
   "contact_afk": "Discord ຂອງ AFK Network",
