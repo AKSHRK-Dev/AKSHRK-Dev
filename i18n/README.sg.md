@@ -2,6 +2,8 @@
 
 <h1 align="center">Balaô, mbï yeke AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Mbï yeke fini zo ti sarango kua na ordinatëre. Mbï yeke bâa ndâ ti kusala ti bata server <b>ASHIKA Network</b> na lisite ti server ti Minecraft <b>SABALISU</b>, na mbï yeke sara logiciel ti server ti Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Ayeke nzönî teti âzo ti ngia so ayeke gi server na teti âwamandako so aye ti
 
 ### Storia: logiciel ti server teti âkota server ti Minecraft
 
-Fork ti code so ayeke zî teti Folia teti Minecraft 26.2. Na **Storia Cluster**, sêse oko alingbi ti sara kua na ndö ti âserver mingi na ngoi oko, na âzo ti ngia ayeke hon na popo ti ala sân écran ti chargement.
+Fork ti code so ayeke zî teti Folia teti Minecraft 26.3. Na **Storia Cluster**, sêse oko alingbi ti sara kua na ndö ti âserver mingi na ngoi oko, na âzo ti ngia ayeke hon na popo ti ala sân écran ti chargement.
 
 - **Storia Cluster**: sêse oko so âserver mingi akangbi, na âsoro so a honde
 - **Relay ti batango**: relay ti use abata copie so ayeke na fini na amû ndo ti kozo ni tongana lo girisa
@@ -93,6 +95,10 @@ A yeke na kode ti sû iri pëpe, a yeke senge, na alink ayeke hunzi lâ oko pëp
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
