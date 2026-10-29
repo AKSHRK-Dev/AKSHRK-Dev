@@ -2,6 +2,8 @@
 
 <h1 align="center">Håfa adai, guåhu si AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Nuebu na developer. Guåhu manmanehalom i setbision server hosting <b>ASHIKA Network</b> yan i listan Minecraft server <b>SABALISU</b>, yan hu fåfa'tinas i software Minecraft server <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Maolek para i manmañugong ni manaliligao server yan i man-dueñu ni malagu' ma 
 
 ### Storia: software server para i dånkolo na Minecraft server
 
-Open-source na fork Folia para Minecraft 26.2. Yan i **Storia Cluster**, un tano' siña ma oppera gi meggai server gi parehu na tiempo, ya i manmañugong ma tålo' gi entalo'-ñiha sin loading screen.
+Open-source na fork Folia para Minecraft 26.3. Yan i **Storia Cluster**, un tano' siña ma oppera gi meggai server gi parehu na tiempo, ya i manmañugong ma tålo' gi entalo'-ñiha sin loading screen.
 
 - **Storia Cluster**: un tano' ni ma ufisi meggai server, yan encrypted na koneksion gi entalo'-ñiha
 - **Standby relay**: i segundo na relay ha guåguatdi un kopia ya ha tulaika i fine'nana yanggen malingu
@@ -93,6 +95,10 @@ Ti nesesita ma rehistra, dibåtde, yan ti hagas mamåmatai i link siha.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
