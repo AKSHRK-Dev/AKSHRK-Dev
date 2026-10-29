@@ -2,6 +2,8 @@
 
 <h1 align="center">হ্যালো, আমি AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   একজন নবীন ডেভেলপার। আমি সার্ভার হোস্টিং সেবা <b>ASHIKA Network</b> এবং Minecraft সার্ভারের তালিকা <b>SABALISU</b> চালাই, আর Minecraft সার্ভার সফটওয়্যার <b>Storia</b> তৈরি করি।
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: বড় Minecraft সার্ভারের জন্য সার্ভার সফটওয়্যার
 
-Minecraft 26.2-এর জন্য Folia-ভিত্তিক একটি ওপেন-সোর্স সার্ভার। **Storia Cluster** দিয়ে একটি জগৎ একসাথে কয়েকটি সার্ভারে চলতে পারে, আর খেলোয়াড়রা লোডিং স্ক্রিন ছাড়াই সেগুলোর মধ্যে যাতায়াত করে।
+Minecraft 26.3-এর জন্য Folia-ভিত্তিক একটি ওপেন-সোর্স সার্ভার। **Storia Cluster** দিয়ে একটি জগৎ একসাথে কয়েকটি সার্ভারে চলতে পারে, আর খেলোয়াড়রা লোডিং স্ক্রিন ছাড়াই সেগুলোর মধ্যে যাতায়াত করে।
 
 - **Storia Cluster**: কয়েকটি সার্ভার একটি জগৎ ভাগ করে নেয়, তাদের মধ্যকার সংযোগ এনক্রিপ্টেড
 - **স্ট্যান্ডবাই রিলে**: দ্বিতীয় রিলে একটি লাইভ কপি রাখে এবং প্রথমটি হারালে দায়িত্ব নেয়
@@ -93,6 +95,10 @@ Minecraft 26.2-এর জন্য Folia-ভিত্তিক একটি ও�
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
