@@ -2,6 +2,8 @@
 
 <h1 align="center">Amahoro, ndi AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Ndi umutunganya-porogarame atanguye. Ndongora igikorwa co kubika server <b>ASHIKA Network</b> n'urutonde rwa server za Minecraft <b>SABALISU</b>, kandi ndategura porogarame ya server ya Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Irafasha abakinyi barondera server n'abayifise bashaka kuyimenyekanisha.
 
 ### Storia: porogarame ya server ku server nini za Minecraft
 
-Fork y'isôko yuguruye ya Folia ku Minecraft 26.2. Na **Storia Cluster**, isi imwe irashobora gukora kuri server nyinshi icarimwe, kandi abakinyi bimuka hagati yazo ata kirahure co gupakira.
+Fork y'isôko yuguruye ya Folia ku Minecraft 26.3. Na **Storia Cluster**, isi imwe irashobora gukora kuri server nyinshi icarimwe, kandi abakinyi bimuka hagati yazo ata kirahure co gupakira.
 
 - **Storia Cluster**: isi imwe isangiwe na server nyinshi, n'amahuriro asobetse hagati yazo
 - **Relay y'ingoboka**: relay ya kabiri ibika kopi nzima kandi isubirira iya mbere iyo ibuze
@@ -93,6 +95,10 @@ Nta kwiyandikisha, ni ubuntu, kandi imiyoboro ntiheranwa n'igihe.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
