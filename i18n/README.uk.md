@@ -2,6 +2,8 @@
 
 <h1 align="center">Привіт, я AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Початківець-розробник. Я веду хостинг серверів <b>ASHIKA Network</b> і каталог серверів Minecraft <b>SABALISU</b>, а також розробляю серверне ПЗ для Minecraft — <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: серверне ПЗ для великих серверів Minecraft
 
-Форк Folia з відкритим кодом для Minecraft 26.2. Із **Storia Cluster** один світ може працювати одразу на кількох серверах, а гравці переходять між ними без екрана завантаження.
+Форк Folia з відкритим кодом для Minecraft 26.3. Із **Storia Cluster** один світ може працювати одразу на кількох серверах, а гравці переходять між ними без екрана завантаження.
 
 - **Storia Cluster**: один світ на кілька серверів, зв'язок між ними зашифрований
 - **Резервний relay**: другий relay зберігає живу копію і бере роботу на себе, якщо перший втрачено
@@ -93,6 +95,10 @@
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
