@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: a Minecraft server list",
   "sab_p": "List your Minecraft server and find people to play on it.\nHandy both for players looking for a server and for owners who want to promote theirs.",
   "storia_t": "Storia: server software for large Minecraft servers",
-  "storia_p": "An open-source fork of Folia for Minecraft 26.2. With **Storia Cluster**, one world can run on several servers at once, and players move between them without a loading screen.",
+  "storia_p": "An open-source fork of Folia for Minecraft 26.3. With **Storia Cluster**, one world can run on several servers at once, and players move between them without a loading screen.",
   "storia_points": [
     "**Storia Cluster**: one world shared by several servers, with encrypted links between them",
     "**Standby relay**: a second relay keeps a live copy and takes over if the first one is lost",
