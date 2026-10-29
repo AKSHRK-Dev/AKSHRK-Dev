@@ -2,6 +2,8 @@
 
 <h1 align="center">Mālō e lelei, ko au ʻa AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Ko ha tokotaha fakalakalaka foʻou. ʻOku ou puleʻi ʻa e ngāue tauhi server <b>ASHIKA Network</b> mo e lisi server Minecraft <b>SABALISU</b>, pea ʻoku ou faʻu ʻa e polokalama server ki he Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Tuku hoʻo server Minecraft ki he lisi pea kumi ha kakai ke vaʻinga ai.
 
 ### Storia: polokalama server ki he ngaahi server Minecraft lalahi
 
-Ko ha fork open-source ʻo Folia ki he Minecraft 26.2. ʻI he **Storia Cluster**, ʻe lava ha māmani ʻe taha ʻo ngāue ʻi ha ngaahi server lahi ʻi he taimi tatau, pea ʻoku hiki ʻa e kau vaʻinga ʻi honau vahaʻa ʻo ʻikai ha loading screen.
+Ko ha fork open-source ʻo Folia ki he Minecraft 26.3. ʻI he **Storia Cluster**, ʻe lava ha māmani ʻe taha ʻo ngāue ʻi ha ngaahi server lahi ʻi he taimi tatau, pea ʻoku hiki ʻa e kau vaʻinga ʻi honau vahaʻa ʻo ʻikai ha loading screen.
 
 - **Storia Cluster**: ko ha māmani ʻe taha ʻoku vahevahe ʻe ha ngaahi server lahi, mo e ngaahi fetuʻutaki kuo fakapulipuliʻi
 - **Relay fakaʻatā**: ʻoku tauhi ʻe ha relay hono ua ha tatau moʻui pea ʻe fetongi ʻa e ʻuluaki kapau ʻe mole
@@ -93,6 +95,10 @@ Ko ha fork open-source ʻo Folia ki he Minecraft 26.2. ʻI he **Storia Cluster**
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
