@@ -4,6 +4,8 @@
 
 <h1 align="center">مرحبًا، أنا AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   مطوّر مبتدئ. أدير خدمة استضافة الخوادم <b>ASHIKA Network</b> وقائمة خوادم Minecraft باسم <b>SABALISU</b>، وأطوّر برنامج خوادم Minecraft باسم <b>Storia</b>.
 </p>
@@ -60,7 +62,7 @@
 
 ### Storia: برنامج خوادم لخوادم Minecraft الكبيرة
 
-خادم مفتوح المصدر مبني على Folia لإصدار Minecraft 26.2. مع **Storia Cluster** يمكن لعالم واحد أن يعمل على عدة خوادم في الوقت نفسه، وينتقل اللاعبون بينها دون شاشة تحميل.
+خادم مفتوح المصدر مبني على Folia لإصدار Minecraft 26.3. مع **Storia Cluster** يمكن لعالم واحد أن يعمل على عدة خوادم في الوقت نفسه، وينتقل اللاعبون بينها دون شاشة تحميل.
 
 - **Storia Cluster**: عالم واحد تتشاركه عدة خوادم، والاتصالات بينها مشفّرة
 - **مُرحِّل احتياطي**: مُرحِّل ثانٍ يحتفظ بنسخة حيّة ويتولى المهمة إذا فُقد الأول
@@ -95,6 +97,10 @@
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
