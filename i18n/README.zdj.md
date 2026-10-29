@@ -2,6 +2,8 @@
 
 <h1 align="center">Bariza, mimi ndo AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Mfanya programu wa ha mwandzo. Ngamtsaha huduma ya uhifadhi wa seva <b>ASHIKA Network</b> na orodha ya seva za Minecraft <b>SABALISU</b>, na ngamfanya programu ya seva ya Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Ifaa ha wachezaji wasakao seva na ha wenye seva wahitajiao uitangaza.
 
 ### Storia: programu ya seva ha seva mbole za Minecraft
 
-Fork ya wazi ya Folia ha Minecraft 26.2. Na **Storia Cluster**, dunia moja yashindra ufanya kazi hari seva nyingi wakati moja, na wachezaji wahamia hari tsi seva bila skrini ya upakia.
+Fork ya wazi ya Folia ha Minecraft 26.3. Na **Storia Cluster**, dunia moja yashindra ufanya kazi hari seva nyingi wakati moja, na wachezaji wahamia hari tsi seva bila skrini ya upakia.
 
 - **Storia Cluster**: dunia moja ishirikishwayo na seva nyingi, na miunganisho ya siri
 - **Relay ya akiba**: relay ya pili ihifadhi nakala hai na ilagua nafasi ya ya mwandzo de ipotea
@@ -93,6 +95,10 @@ Kavu haja ya ujisajili, ni bure, na viungo kavitsoshiha wakati.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
