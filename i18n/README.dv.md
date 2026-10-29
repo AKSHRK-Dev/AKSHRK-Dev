@@ -4,6 +4,8 @@
 
 <h1 align="center">އައްސަލާމު ޢަލައިކުމް، އަހަރެނަކީ AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   އާ ޑިވެލޮޕަރެއް. އަހަރެން ސާވަރ ހޮސްޓިންގ ޚިދުމަތް <b>ASHIKA Network</b> އާއި Minecraft ސާވަރުތަކުގެ ލިސްޓު <b>SABALISU</b> ހިންގަމުން، Minecraft ސާވަރ ސޮފްޓްވެއަރ <b>Storia</b> ތައްޔާރުކުރަމެވެ.
 </p>
@@ -60,7 +62,7 @@
 
 ### Storia: ބޮޑު Minecraft ސާވަރުތަކަށް ސާވަރ ސޮފްޓްވެއަރ
 
-Minecraft 26.2 އަށް Folia މައްޗަށް ބިނާކޮށްފައިވާ އޯޕަން ސޯސް ސާވަރެއް. **Storia Cluster** ބޭނުންކޮށްގެން އެއް ދުނިޔެއެއް އެއްފަހަރާ އެތައް ސާވަރެއްގައި ހިންގޭނެ، އަދި ކުޅުންތެރިން ލޯޑިންގ ސްކްރީނެއް ނެތި އެއިން ސާވަރަކުން އަނެއް ސާވަރަށް ދެވޭނެ.
+Minecraft 26.3 އަށް Folia މައްޗަށް ބިނާކޮށްފައިވާ އޯޕަން ސޯސް ސާވަރެއް. **Storia Cluster** ބޭނުންކޮށްގެން އެއް ދުނިޔެއެއް އެއްފަހަރާ އެތައް ސާވަރެއްގައި ހިންގޭނެ، އަދި ކުޅުންތެރިން ލޯޑިންގ ސްކްރީނެއް ނެތި އެއިން ސާވަރަކުން އަނެއް ސާވަރަށް ދެވޭނެ.
 
 - **Storia Cluster**: އެތައް ސާވަރެއް އެއް ދުނިޔެއެއް ހިއްސާކުރޭ، އެއްބަޔަކާ އަނެއްބަޔާ ގުޅުން އެންކްރިޕްޓްކޮށްފައި
 - **ބަދަލު relay**: ދެވަނަ relay އަކުން ލައިވް ކޮޕީއެއް ބަހައްޓައި ފުރަތަމަ އެއް ގެއްލިއްޖެނަމަ ޒިންމާ ނަގާ
@@ -95,6 +97,10 @@ Minecraft 26.2 އަށް Folia މައްޗަށް ބިނާކޮށްފައިވާ އޯ
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
