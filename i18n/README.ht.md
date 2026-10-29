@@ -2,6 +2,8 @@
 
 <h1 align="center">Bonjou, mwen se AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Yon devlopè ki fèk kòmanse. Mwen jere sèvis hosting sèvè <b>ASHIKA Network</b> ak lis sèvè Minecraft <b>SABALISU</b>, epi m ap devlope lojisyèl sèvè Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Itil pou jwè k ap chèche yon sèvè ak pou pwopriyetè ki vle fè piblisite po
 
 ### Storia: lojisyèl sèvè pou gwo sèvè Minecraft
 
-Yon fork sous louvri Folia pou Minecraft 26.2. Avèk **Storia Cluster**, yon sèl mond ka mache sou plizyè sèvè an menm tan, epi jwè yo pase de yon sèvè a yon lòt san ekran chajman.
+Yon fork sous louvri Folia pou Minecraft 26.3. Avèk **Storia Cluster**, yon sèl mond ka mache sou plizyè sèvè an menm tan, epi jwè yo pase de yon sèvè a yon lòt san ekran chajman.
 
 - **Storia Cluster**: yon mond plizyè sèvè pataje, ak koneksyon chifre ant yo
 - **Relay rezèv**: yon dezyèm relay kenbe yon kopi an dirèk epi pran plas premye a si li pèdi
@@ -93,6 +95,10 @@ Pa gen enskripsyon, li gratis, epi lyen yo pa janm ekspire.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
