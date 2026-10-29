@@ -2,6 +2,8 @@
 
 <h1 align="center">ሰላም፡ ኣነ AKSHRK እየ</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   ጀማሪ ኣልማዒ ሶፍትዌር። ናይ ሰርቨር ሆስቲንግ ኣገልግሎት <b>ASHIKA Network</b>ን ናይ Minecraft ሰርቨራት ዝርዝር <b>SABALISU</b>ን የካይድ፡ ከምኡ’ውን ናይ Minecraft ሰርቨር ሶፍትዌር <b>Storia</b> እሰርሕ።
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: ንዓበይቲ ናይ Minecraft ሰርቨራት ዝኸውን ናይ ሰርቨር ሶፍትዌር
 
-ንMinecraft 26.2 ኣብ Folia ዝተመስረተ ክፉት ምንጪ ዘለዎ ሰርቨር። ብ**Storia Cluster** ሓደ ዓለም ኣብ ብዙሓት ሰርቨራት ብሓደ ግዜ ክሰርሕ ይኽእል፡ ተጻወትቲ ድማ ብዘይ መጽዓኒ ስክሪን ኣብ መንጎኦም ይንቀሳቐሱ።
+ንMinecraft 26.3 ኣብ Folia ዝተመስረተ ክፉት ምንጪ ዘለዎ ሰርቨር። ብ**Storia Cluster** ሓደ ዓለም ኣብ ብዙሓት ሰርቨራት ብሓደ ግዜ ክሰርሕ ይኽእል፡ ተጻወትቲ ድማ ብዘይ መጽዓኒ ስክሪን ኣብ መንጎኦም ይንቀሳቐሱ።
 
 - **Storia Cluster**: ብዙሓት ሰርቨራት ሓደ ዓለም ይካፈሉ፡ ኣብ መንጎኦም ዘሎ ርክብ ዝተመስጠረ እዩ
 - **ተጠባባቒ relay**: ካልኣይ relay ህያው ቅዳሕ ይሕዝ፡ እቲ ቀዳማይ እንተጠፊኡ ድማ ቦታኡ ይወስድ
@@ -93,6 +95,10 @@
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
