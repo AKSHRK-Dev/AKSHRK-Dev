@@ -2,6 +2,8 @@
 
 <h1 align="center">Halo, mi AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Mi wan niu developa. Mi stap ronem seves blong hosting blong sava <b>ASHIKA Network</b> mo lis blong ol Minecraft sava <b>SABALISU</b>, mo mi stap mekem softwea blong Minecraft sava <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ I gud blong ol plea we oli stap lukaotem wan sava mo blong ol ona we oli wantem 
 
 ### Storia: softwea blong ol bigfala Minecraft sava
 
-Wan open-source fork blong Folia blong Minecraft 26.2. Wetem **Storia Cluster**, wan wol i save ron long plante sava long sem taem, mo ol plea oli muv bitwin olgeta i no gat loading skrin.
+Wan open-source fork blong Folia blong Minecraft 26.3. Wetem **Storia Cluster**, wan wol i save ron long plante sava long sem taem, mo ol plea oli muv bitwin olgeta i no gat loading skrin.
 
 - **Storia Cluster**: wan wol we plante sava oli serem, wetem ol konekson we oli enkriptem
 - **Standbae relay**: namba tu relay i holem wan laef kopi mo i tekova sapos namba wan i lus
@@ -93,6 +95,10 @@ Yu no nid blong rejista, i fri, mo ol link oli no save finis.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
