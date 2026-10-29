@@ -2,6 +2,8 @@
 
 <h1 align="center">Merhaba, ben AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Yeni başlayan bir geliştiriciyim. Sunucu barındırma hizmeti <b>ASHIKA Network</b>'ü ve Minecraft sunucu listesi <b>SABALISU</b>'yu işletiyor, Minecraft sunucu yazılımı <b>Storia</b>'yı geliştiriyorum.
 </p>
@@ -58,7 +60,7 @@ Hem sunucu arayan oyuncular hem de sunucusunu tanıtmak isteyen sahipler için k
 
 ### Storia: büyük Minecraft sunucuları için sunucu yazılımı
 
-Minecraft 26.2 için Folia tabanlı, açık kaynaklı bir sunucu. **Storia Cluster** ile tek bir dünya aynı anda birden fazla sunucuda çalışabilir ve oyuncular yükleme ekranı olmadan aralarında geçiş yapar.
+Minecraft 26.3 için Folia tabanlı, açık kaynaklı bir sunucu. **Storia Cluster** ile tek bir dünya aynı anda birden fazla sunucuda çalışabilir ve oyuncular yükleme ekranı olmadan aralarında geçiş yapar.
 
 - **Storia Cluster**: tek bir dünyayı birden fazla sunucu paylaşır, aralarındaki bağlantılar şifrelidir
 - **Yedek relay**: ikinci bir relay canlı bir kopya tutar ve ilki kaybolursa devralır
@@ -93,6 +95,10 @@ Kayıt gerekmez, ücretsizdir ve bağlantıların süresi hiç dolmaz.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
