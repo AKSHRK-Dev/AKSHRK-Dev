@@ -2,6 +2,8 @@
 
 <h1 align="center">မင်္ဂလာပါ၊ ကျွန်တော် AKSHRK ပါ</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   အစပြုဆဲ developer တစ်ယောက်ပါ။ ဆာဗာ hosting ဝန်ဆောင်မှု <b>ASHIKA Network</b> နှင့် Minecraft ဆာဗာစာရင်း <b>SABALISU</b> ကို လုပ်ကိုင်နေပြီး Minecraft ဆာဗာဆော့ဖ်ဝဲ <b>Storia</b> ကို ဖန်တီးနေပါတယ်။
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: ကြီးမားသော Minecraft ဆာဗာများအတွက် ဆာဗာဆော့ဖ်ဝဲ
 
-Minecraft 26.2 အတွက် Folia ကို အခြေခံထားတဲ့ open-source ဆာဗာ ဖြစ်ပါတယ်။ **Storia Cluster** နဲ့ ကမ္ဘာတစ်ခုကို ဆာဗာအများအပြားပေါ်မှာ တစ်ပြိုင်နက် လည်ပတ်နိုင်ပြီး ကစားသူများသည် loading screen မရှိဘဲ ဆာဗာများကြား ရွှေ့ပြောင်းနိုင်ပါတယ်။
+Minecraft 26.3 အတွက် Folia ကို အခြေခံထားတဲ့ open-source ဆာဗာ ဖြစ်ပါတယ်။ **Storia Cluster** နဲ့ ကမ္ဘာတစ်ခုကို ဆာဗာအများအပြားပေါ်မှာ တစ်ပြိုင်နက် လည်ပတ်နိုင်ပြီး ကစားသူများသည် loading screen မရှိဘဲ ဆာဗာများကြား ရွှေ့ပြောင်းနိုင်ပါတယ်။
 
 - **Storia Cluster**: ဆာဗာများစွာက ကမ္ဘာတစ်ခုကို မျှဝေသုံးပြီး ဆက်သွယ်မှုကို စာဝှက်ထားပါတယ်
 - **အရန် relay**: ဒုတိယ relay က တိုက်ရိုက်မိတ္တူ ထားရှိပြီး ပထမတစ်ခု ပျက်သွားရင် အစားထိုးပါတယ်
@@ -93,6 +95,10 @@ Minecraft 26.2 အတွက် Folia ကို အခြေခံထားတဲ
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
