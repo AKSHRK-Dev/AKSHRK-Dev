@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: listă de servere Minecraft",
   "sab_p": "Adaugă-ți serverul Minecraft în listă și găsește oameni cu care să joci.\nUtilă atât pentru jucătorii care caută un server, cât și pentru proprietarii care vor să și-l promoveze.",
   "storia_t": "Storia: software de server pentru servere Minecraft mari",
-  "storia_p": "Un fork open-source al Folia pentru Minecraft 26.2. Cu **Storia Cluster**, o singură lume poate rula pe mai multe servere deodată, iar jucătorii trec de la unul la altul fără ecran de încărcare.",
+  "storia_p": "Un fork open-source al Folia pentru Minecraft 26.3. Cu **Storia Cluster**, o singură lume poate rula pe mai multe servere deodată, iar jucătorii trec de la unul la altul fără ecran de încărcare.",
   "storia_points": [
     "**Storia Cluster**: o lume împărțită de mai multe servere, cu conexiuni criptate între ele",
     "**Relay de rezervă**: un al doilea relay păstrează o copie live și preia controlul dacă primul se pierde",

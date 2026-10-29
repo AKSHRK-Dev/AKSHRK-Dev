@@ -2,6 +2,8 @@
 
 <h1 align="center">Salut, sunt AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Un dezvoltator începător. Administrez serviciul de găzduire de servere <b>ASHIKA Network</b> și lista de servere Minecraft <b>SABALISU</b> și dezvolt software-ul de server pentru Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Utilă atât pentru jucătorii care caută un server, cât și pentru proprietar
 
 ### Storia: software de server pentru servere Minecraft mari
 
-Un fork open-source al Folia pentru Minecraft 26.2. Cu **Storia Cluster**, o singură lume poate rula pe mai multe servere deodată, iar jucătorii trec de la unul la altul fără ecran de încărcare.
+Un fork open-source al Folia pentru Minecraft 26.3. Cu **Storia Cluster**, o singură lume poate rula pe mai multe servere deodată, iar jucătorii trec de la unul la altul fără ecran de încărcare.
 
 - **Storia Cluster**: o lume împărțită de mai multe servere, cu conexiuni criptate între ele
 - **Relay de rezervă**: un al doilea relay păstrează o copie live și preia controlul dacă primul se pierde
@@ -93,6 +95,10 @@ Fără înregistrare, gratuit, iar linkurile nu expiră niciodată.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
