@@ -2,6 +2,8 @@
 
 <h1 align="center">Сәлем, мен AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Жаңадан бастаған әзірлеуші. Мен <b>ASHIKA Network</b> сервер хостинг қызметін және <b>SABALISU</b> Minecraft серверлер тізімін жүргіземін, сондай-ақ <b>Storia</b> Minecraft сервер бағдарламасын әзірлеймін.
 </p>
@@ -58,7 +60,7 @@ Minecraft серверіңізді тізімге қосып, бірге ойн�
 
 ### Storia: үлкен Minecraft серверлеріне арналған сервер бағдарламасы
 
-Minecraft 26.2 үшін Folia негізіндегі ашық бастапқы кодты сервер. **Storia Cluster** арқылы бір әлем бірнеше серверде бір мезгілде жұмыс істейді, ал ойыншылар олардың арасында жүктеу экранынсыз ауысады.
+Minecraft 26.3 үшін Folia негізіндегі ашық бастапқы кодты сервер. **Storia Cluster** арқылы бір әлем бірнеше серверде бір мезгілде жұмыс істейді, ал ойыншылар олардың арасында жүктеу экранынсыз ауысады.
 
 - **Storia Cluster**: бір әлемді бірнеше сервер бөліседі, олардың арасындағы байланыс шифрланған
 - **Қосалқы relay**: екінші relay тірі көшірмені сақтап, біріншісі істен шықса, оның орнын басады
@@ -93,6 +95,10 @@ Minecraft 26.2 үшін Folia негізіндегі ашық бастапқы �
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
