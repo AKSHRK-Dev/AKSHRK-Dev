@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: zoznam minecraftových serverov",
   "sab_p": "Pridajte svoj minecraftový server do zoznamu a nájdite ľudí, ktorí na ňom budú hrať.\nHodí sa hráčom, ktorí hľadajú server, aj majiteľom, ktorí chcú ten svoj propagovať.",
   "storia_t": "Storia: serverový softvér pre veľké minecraftové servery",
-  "storia_p": "Open-source fork Folie pre Minecraft 26.2. Vďaka **Storia Cluster** môže jeden svet bežať na viacerých serveroch naraz a hráči medzi nimi prechádzajú bez načítavacej obrazovky.",
+  "storia_p": "Open-source fork Folie pre Minecraft 26.3. Vďaka **Storia Cluster** môže jeden svet bežať na viacerých serveroch naraz a hráči medzi nimi prechádzajú bez načítavacej obrazovky.",
   "storia_points": [
     "**Storia Cluster**: jeden svet zdieľaný viacerými servermi, spojenie medzi nimi je šifrované",
     "**Záložný relay**: druhý relay drží živú kópiu a prevezme prácu, ak sa prvý stratí",

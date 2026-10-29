@@ -2,6 +2,8 @@
 
 <h1 align="center">Ahoj, som AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Začínajúci vývojár. Prevádzkujem hostingovú službu <b>ASHIKA Network</b> a zoznam minecraftových serverov <b>SABALISU</b> a vyvíjam serverový softvér pre Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Hodí sa hráčom, ktorí hľadajú server, aj majiteľom, ktorí chcú ten svoj
 
 ### Storia: serverový softvér pre veľké minecraftové servery
 
-Open-source fork Folie pre Minecraft 26.2. Vďaka **Storia Cluster** môže jeden svet bežať na viacerých serveroch naraz a hráči medzi nimi prechádzajú bez načítavacej obrazovky.
+Open-source fork Folie pre Minecraft 26.3. Vďaka **Storia Cluster** môže jeden svet bežať na viacerých serveroch naraz a hráči medzi nimi prechádzajú bez načítavacej obrazovky.
 
 - **Storia Cluster**: jeden svet zdieľaný viacerými servermi, spojenie medzi nimi je šifrované
 - **Záložný relay**: druhý relay drží živú kópiu a prevezme prácu, ak sa prvý stratí
@@ -93,6 +95,10 @@ Bez registrácie, zadarmo a odkazy nikdy nevypršia.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
