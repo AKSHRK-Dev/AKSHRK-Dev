@@ -2,6 +2,8 @@
 
 <h1 align="center">សួស្តី ខ្ញុំគឺ AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   អ្នកអភិវឌ្ឍន៍ថ្មីថ្មោង។ ខ្ញុំដំណើរការសេវាកម្មបង្ហោះម៉ាស៊ីនមេ <b>ASHIKA Network</b> និងបញ្ជីម៉ាស៊ីនមេ Minecraft <b>SABALISU</b> ហើយបង្កើតកម្មវិធីម៉ាស៊ីនមេ Minecraft <b>Storia</b>។
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia៖ កម្មវិធីម៉ាស៊ីនមេសម្រាប់ម៉ាស៊ីនមេ Minecraft ធំៗ
 
-ម៉ាស៊ីនមេប្រភពបើកចំហដែលបំបែកចេញពី Folia សម្រាប់ Minecraft 26.2។ ជាមួយ **Storia Cluster** ពិភពលោកមួយអាចដំណើរការលើម៉ាស៊ីនមេច្រើនក្នុងពេលតែមួយ ហើយអ្នកលេងផ្លាស់ទីរវាងពួកវាដោយគ្មានអេក្រង់ផ្ទុក។
+ម៉ាស៊ីនមេប្រភពបើកចំហដែលបំបែកចេញពី Folia សម្រាប់ Minecraft 26.3។ ជាមួយ **Storia Cluster** ពិភពលោកមួយអាចដំណើរការលើម៉ាស៊ីនមេច្រើនក្នុងពេលតែមួយ ហើយអ្នកលេងផ្លាស់ទីរវាងពួកវាដោយគ្មានអេក្រង់ផ្ទុក។
 
 - **Storia Cluster**៖ ពិភពលោកមួយចែករំលែកដោយម៉ាស៊ីនមេច្រើន ជាមួយការតភ្ជាប់ដែលបានអ៊ិនគ្រីប
 - **Relay បម្រុង**៖ relay ទីពីររក្សាច្បាប់ចម្លងផ្ទាល់ ហើយជំនួសប្រសិនបើ relay ទីមួយបាត់បង់
@@ -93,6 +95,10 @@
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
