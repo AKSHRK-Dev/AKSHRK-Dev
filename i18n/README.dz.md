@@ -2,6 +2,8 @@
 
 <h1 align="center">ཀུ་ཟུ་ཟང་པོ་ལ། ང་ AKSHRK ཨིན།</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   གསར་བཙུགས་ཀྱི་གོ་རིམ་བཟོ་མི་ཅིག་ཨིན། ང་གིས་ སར་བར་ཧོསི་ཊིང་ཞབས་ཏོག་ <b>ASHIKA Network</b> དང་ Minecraft སར་བར་གྱི་ཐོ་ <b>SABALISU</b> འཛིན་སྐྱོང་འཐབ་ཞིནམ་ལས་ Minecraft སར་བར་མཉེན་ཆས་ <b>Storia</b> བཟོ་དོ་ཡོདཔ་ཨིན།
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: Minecraft སར་བར་ཆེ་བ་ཚུ་གི་དོན་ལུ་ སར་བར་མཉེན་ཆས།
 
-Minecraft 26.2 གི་དོན་ལུ་ Folia གཞི་བཞག་པའི་ འབྱུང་ཁུངས་ཁ་ཕྱེ་བའི་སར་བར་ཅིག་ཨིན། **Storia Cluster** གིས་ འཇིག་རྟེན་གཅིག་ སར་བར་ལེ་ཤ་ནང་ དུས་མཉམ་སྦེ་གཡོག་བཀོལ་ཚུགསཔ་དང་ རྩེད་མོ་རྩེ་མི་ཚུ་ ལོ་ཌིང་གསལ་གཞི་མེད་པར་ སར་བར་བར་ན་སྤོ་ཚུགས།
+Minecraft 26.3 གི་དོན་ལུ་ Folia གཞི་བཞག་པའི་ འབྱུང་ཁུངས་ཁ་ཕྱེ་བའི་སར་བར་ཅིག་ཨིན། **Storia Cluster** གིས་ འཇིག་རྟེན་གཅིག་ སར་བར་ལེ་ཤ་ནང་ དུས་མཉམ་སྦེ་གཡོག་བཀོལ་ཚུགསཔ་དང་ རྩེད་མོ་རྩེ་མི་ཚུ་ ལོ་ཌིང་གསལ་གཞི་མེད་པར་ སར་བར་བར་ན་སྤོ་ཚུགས།
 
 - **Storia Cluster**: སར་བར་ལེ་ཤ་གིས་ འཇིག་རྟེན་གཅིག་བགོ་བཤའ་རྐྱབ་ཞིནམ་ལས་ མཐུད་ལམ་ཚུ་གསང་བཟོ་འབད་དེ་ཡོདཔ།
 - **ཚབ་ཀྱི་ relay**: relay གཉིས་པ་གིས་ འདྲ་བཤུས་ཀྱི་ཐོག་ལས་བཞག་ཞིནམ་ལས་ དང་པ་བརླག་པ་ཅིན་ ཚབ་འབད་ནི།
@@ -93,6 +95,10 @@ URL རིངམོ་ཚུ་ ཐུང་ཀུ་ལུ་བསྒྱུར
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
