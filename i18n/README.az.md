@@ -2,6 +2,8 @@
 
 <h1 align="center">Salam, mən AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Yeni başlayan bir proqramçı. Server hostinq xidməti <b>ASHIKA Network</b>-u və Minecraft server siyahısı <b>SABALISU</b>-nu idarə edir, Minecraft server proqramı <b>Storia</b>-nı hazırlayıram.
 </p>
@@ -58,7 +60,7 @@ Həm server axtaran oyunçular, həm də serverini tanıtmaq istəyən sahiblər
 
 ### Storia: böyük Minecraft serverləri üçün server proqramı
 
-Minecraft 26.2 üçün Folia əsasında açıq mənbəli server. **Storia Cluster** ilə bir dünya eyni anda bir neçə serverdə işləyə bilər, oyunçular isə yükləmə ekranı olmadan onlar arasında keçid edir.
+Minecraft 26.3 üçün Folia əsasında açıq mənbəli server. **Storia Cluster** ilə bir dünya eyni anda bir neçə serverdə işləyə bilər, oyunçular isə yükləmə ekranı olmadan onlar arasında keçid edir.
 
 - **Storia Cluster**: bir dünyanı bir neçə server bölüşür, aralarındakı əlaqələr şifrələnib
 - **Ehtiyat relay**: ikinci relay canlı nüsxə saxlayır və birincisi itərsə, onu əvəz edir
@@ -93,6 +95,10 @@ Qeydiyyat tələb olunmur, pulsuzdur və keçidlərin müddəti heç vaxt bitmir
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
