@@ -2,6 +2,8 @@
 
 <h1 align="center">Salam, men AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Täze başlan programmist. Men <b>ASHIKA Network</b> serwer hosting hyzmatyny we <b>SABALISU</b> Minecraft serwerleriniň sanawyny alyp barýaryn hem-de <b>Storia</b> Minecraft serwer programmasyny döredýärin.
 </p>
@@ -58,7 +60,7 @@ Serwer gözleýän oýunçylar üçin hem, serwerini mahabatlandyrmak isleýän 
 
 ### Storia: uly Minecraft serwerleri üçin serwer programmasy
 
-Minecraft 26.2 üçin Folia esasyndaky açyk çeşmeli serwer. **Storia Cluster** bilen bir dünýä birnäçe serwerde bir wagtda işläp bilýär, oýunçylar bolsa ýükleme ekranysyz olaryň arasynda geçýärler.
+Minecraft 26.3 üçin Folia esasyndaky açyk çeşmeli serwer. **Storia Cluster** bilen bir dünýä birnäçe serwerde bir wagtda işläp bilýär, oýunçylar bolsa ýükleme ekranysyz olaryň arasynda geçýärler.
 
 - **Storia Cluster**: bir dünýäni birnäçe serwer paýlaşýar, olaryň arasyndaky aragatnaşyk şifrlenen
 - **Ätiýaçlyk relay**: ikinji relay janly göçürmäni saklaýar we birinjisi ýitse, onuň ornuny tutýar
@@ -93,6 +95,10 @@ Hasaba durmak gerek däl, mugt we baglanyşyklaryň möhleti gutarmaýar.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
