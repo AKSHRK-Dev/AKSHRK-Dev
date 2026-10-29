@@ -2,6 +2,8 @@
 
 <h1 align="center">Mauri, ngai AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Te tia karaoa te bwai ae boou. I tararuai te mwakuri ni kaawakina server ae <b>ASHIKA Network</b> ao ana rabwata Minecraft server ae <b>SABALISU</b>, ao I karaoa te software ibukin Minecraft server ae <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ E kakabwaia ibukia taan takaakaro aika ukoukora te server ao ibukia taan tauia a
 
 ### Storia: te software ibukin Minecraft server aika abwabwaki
 
-Te open-source fork mai Folia ibukin Minecraft 26.2. Ma **Storia Cluster**, te aonnaba ae teuana e kona n mwakuri iaon server aika bati n te tai ae teuana, ao taan takaakaro a mwaing i buakoia n aki nooria te loading screen.
+Te open-source fork mai Folia ibukin Minecraft 26.3. Ma **Storia Cluster**, te aonnaba ae teuana e kona n mwakuri iaon server aika bati n te tai ae teuana, ao taan takaakaro a mwaing i buakoia n aki nooria te loading screen.
 
 - **Storia Cluster**: te aonnaba ae teuana ae iangoaki irouia server aika bati, ma kaitibwaia aika encrypted
 - **Standby relay**: te relay ae kauoua e kawakina te kopi ao e na onea te moan relay ngkana e bua
@@ -93,6 +95,10 @@ Akea registration, akea boona, ao akea tokin aia tai link.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
