@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: listi yfir Minecraft-netþjóna",
   "sab_p": "Skráðu Minecraft-netþjóninn þinn og finndu fólk til að spila á honum.\nGagnlegt bæði fyrir spilara sem leita að netþjóni og eigendur sem vilja kynna sinn.",
   "storia_t": "Storia: netþjónahugbúnaður fyrir stóra Minecraft-netþjóna",
-  "storia_p": "Opinn hugbúnaður byggður á Folia fyrir Minecraft 26.2. Með **Storia Cluster** getur einn heimur keyrt á mörgum netþjónum í einu og spilarar færast á milli þeirra án hleðsluskjás.",
+  "storia_p": "Opinn hugbúnaður byggður á Folia fyrir Minecraft 26.3. Með **Storia Cluster** getur einn heimur keyrt á mörgum netþjónum í einu og spilarar færast á milli þeirra án hleðsluskjás.",
   "storia_points": [
     "**Storia Cluster**: einn heimur sem margir netþjónar deila, með dulkóðuðum tengingum á milli",
     "**Varaliði (relay)**: annar relay geymir lifandi afrit og tekur við ef sá fyrri tapast",

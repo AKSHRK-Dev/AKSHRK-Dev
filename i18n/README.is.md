@@ -2,6 +2,8 @@
 
 <h1 align="center">Hæ, ég heiti AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Byrjandi í forritun. Ég rek hýsingarþjónustuna <b>ASHIKA Network</b> og Minecraft-netþjónalistann <b>SABALISU</b>, og þróa Minecraft-netþjónahugbúnaðinn <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Gagnlegt bæði fyrir spilara sem leita að netþjóni og eigendur sem vilja kyn
 
 ### Storia: netþjónahugbúnaður fyrir stóra Minecraft-netþjóna
 
-Opinn hugbúnaður byggður á Folia fyrir Minecraft 26.2. Með **Storia Cluster** getur einn heimur keyrt á mörgum netþjónum í einu og spilarar færast á milli þeirra án hleðsluskjás.
+Opinn hugbúnaður byggður á Folia fyrir Minecraft 26.3. Með **Storia Cluster** getur einn heimur keyrt á mörgum netþjónum í einu og spilarar færast á milli þeirra án hleðsluskjás.
 
 - **Storia Cluster**: einn heimur sem margir netþjónar deila, með dulkóðuðum tengingum á milli
 - **Varaliði (relay)**: annar relay geymir lifandi afrit og tekur við ef sá fyrri tapast
@@ -93,6 +95,10 @@ Engin skráning, ókeypis og tenglarnir renna aldrei út.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
