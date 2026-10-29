@@ -93,8 +93,8 @@ Tsy mila misoratra anarana, maimaim-poana, ary tsy lany daty mihitsy ny rohy.
 ## Antontan'isa GitHub
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+  <img height="150" src="../assets/stats.svg" alt="GitHub Stats">
+  <img height="150" src="../assets/top-langs.svg" alt="Top Languages">
 </p>
 
 <p align="left">
