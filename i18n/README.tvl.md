@@ -2,6 +2,8 @@
 
 <h1 align="center">Talofa, ko au ko AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Se tino fou e fai polokalame. E fakatautau ne au te galuega talimalo server <b>ASHIKA Network</b> mo te lisi o server Minecraft <b>SABALISU</b>, kae e fai ne au te polokalame server mō Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ E aoga ki tino tafafaga e sala ki se server mo tino e pule e manako o fakaasi at
 
 ### Storia: se polokalame server mō server Minecraft lasi
 
-Se fork open-source o Folia mō Minecraft 26.2. Mo te **Storia Cluster**, e mafai ne se lalolagi e tasi o galue i luga i ne server e uke i te taimi e tasi, kae e fesuiai a tino tafafaga i olotou vaegā e aunoa mo se loading screen.
+Se fork open-source o Folia mō Minecraft 26.3. Mo te **Storia Cluster**, e mafai ne se lalolagi e tasi o galue i luga i ne server e uke i te taimi e tasi, kae e fesuiai a tino tafafaga i olotou vaegā e aunoa mo se loading screen.
 
 - **Storia Cluster**: se lalolagi e tasi e fakasoa ne server e uke, mo fesokotakiga ne fakafuna
 - **Relay fakatalitali**: se relay lua e tausi ne ia se kopi kae ka sui ne ia te relay muamua māfai e galo
@@ -93,6 +95,10 @@ E se manakogina se lesitala, e fua fua, kae e se gata ‵tou taimi o so‵ga.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
