@@ -2,6 +2,8 @@
 
 <h1 align="center">你好，我是 AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   一名新手開發者。我經營伺服器託管服務 <b>ASHIKA Network</b> 和 Minecraft 伺服器列表網站 <b>SABALISU</b>，並開發 Minecraft 伺服器軟體 <b>Storia</b>。
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia：為大型 Minecraft 伺服器打造的伺服器軟體
 
-以 Folia 為基礎、支援 Minecraft 26.2 的開源伺服器。使用 **Storia Cluster**，一個世界可以由多台伺服器同時分擔運行，玩家在伺服器之間移動時不會出現載入畫面。
+以 Folia 為基礎、支援 Minecraft 26.3 的開源伺服器。使用 **Storia Cluster**，一個世界可以由多台伺服器同時分擔運行，玩家在伺服器之間移動時不會出現載入畫面。
 
 - **Storia Cluster**：多台伺服器共用一個世界，伺服器之間的通訊皆經過加密
 - **備用 Relay**：第二台 Relay 即時保存副本，第一台故障時接手運作
@@ -93,6 +95,10 @@
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
