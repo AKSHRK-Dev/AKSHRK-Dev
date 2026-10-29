@@ -2,6 +2,8 @@
 
 <h1 align="center">Kia ora, ko AKSHRK ahau</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   He kaiwhakawhanake tauhou ahau. Ka whakahaere ahau i te ratonga manaaki tūmau <b>ASHIKA Network</b> me te rārangi tūmau Minecraft <b>SABALISU</b>, ā, ka hanga ahau i te pūmanawa tūmau Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ He whai hua mō ngā kaitākaro e kimi ana i tētahi tūmau, me ngā rangatira e
 
 ### Storia: he pūmanawa tūmau mō ngā tūmau Minecraft nunui
 
-He peka puna tuwhera o Folia mō Minecraft 26.2. Mā te **Storia Cluster**, ka taea e tētahi ao kotahi te rere i runga i ētahi tūmau i te wā kotahi, ā, ka neke ngā kaitākaro i waenga i a rātou kāore he mata uta.
+He peka puna tuwhera o Folia mō Minecraft 26.3. Mā te **Storia Cluster**, ka taea e tētahi ao kotahi te rere i runga i ētahi tūmau i te wā kotahi, ā, ka neke ngā kaitākaro i waenga i a rātou kāore he mata uta.
 
 - **Storia Cluster**: kotahi te ao e tiritiria ana e ētahi tūmau, he mea whakamuna ngā hononga i waenganui
 - **Relay tāpiri**: ka pupuri te relay tuarua i tētahi tārua ora, ā, ka riro i a ia mēnā ka ngaro te tuatahi
@@ -93,6 +95,10 @@ Kāore he rēhita, he koreutu, ā, kāore e pau te wā o ngā hono.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
