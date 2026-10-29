@@ -2,6 +2,8 @@
 
 <h1 align="center">Բարև, ես AKSHRK-ն եմ</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Սկսնակ ծրագրավորող։ Ես ղեկավարում եմ սերվերների հոսթինգի <b>ASHIKA Network</b> ծառայությունը և Minecraft սերվերների <b>SABALISU</b> ցուցակը, ինչպես նաև մշակում եմ Minecraft-ի սերվերային <b>Storia</b> ծրագիրը։
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia՝ սերվերային ծրագիր մեծ Minecraft սերվերների համար
 
-Folia-ի վրա հիմնված բաց կոդով սերվեր Minecraft 26.2-ի համար։ **Storia Cluster**-ի շնորհիվ մեկ աշխարհը կարող է միաժամանակ աշխատել մի քանի սերվերի վրա, իսկ խաղացողները դրանց միջև տեղափոխվում են առանց բեռնման էկրանի։
+Folia-ի վրա հիմնված բաց կոդով սերվեր Minecraft 26.3-ի համար։ **Storia Cluster**-ի շնորհիվ մեկ աշխարհը կարող է միաժամանակ աշխատել մի քանի սերվերի վրա, իսկ խաղացողները դրանց միջև տեղափոխվում են առանց բեռնման էկրանի։
 
 - **Storia Cluster**՝ մեկ աշխարհ, որը կիսում են մի քանի սերվերներ, դրանց միջև կապը գաղտնագրված է
 - **Պահեստային relay**՝ երկրորդ relay-ը պահում է կենդանի պատճեն և ստանձնում է աշխատանքը, եթե առաջինը կորչի
@@ -93,6 +95,10 @@ Folia-ի վրա հիմնված բաց կոդով սերվեր Minecraft 26.2-ի 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
