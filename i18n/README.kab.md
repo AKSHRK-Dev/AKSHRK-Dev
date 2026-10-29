@@ -2,6 +2,8 @@
 
 <h1 align="center">Azul, nekk d AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   D aneflay amaynut. Sseddayeɣ ameẓlu n usneḥbes n yiqeddacen <b>ASHIKA Network</b> d tebdart n yiqeddacen n Minecraft <b>SABALISU</b>, yerna sneflayeɣ aseɣẓan n uqeddac n Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Yelha i yimuraren i yettnadin aqeddac, ula d imawlan yebɣan ad sbanen aqeddac-n
 
 ### Storia: aseɣẓan n uqeddac i yiqeddacen imeqqranen n Minecraft
 
-D afurk n uɣbalu yeldin n Folia i Minecraft 26.2. S **Storia Cluster**, yiwen n umaḍal yezmer ad iteddu ɣef waṭas n yiqeddacen deg yiwen n wakud, ma d imuraren ttɛeddin gar-asen war agdil n usali.
+D afurk n uɣbalu yeldin n Folia i Minecraft 26.3. S **Storia Cluster**, yiwen n umaḍal yezmer ad iteddu ɣef waṭas n yiqeddacen deg yiwen n wakud, ma d imuraren ttɛeddin gar-asen war agdil n usali.
 
 - **Storia Cluster**: yiwen n umaḍal yebḍan gar waṭas n yiqeddacen, s tuqqniwin yettwawgelhen
 - **Relay n uḥraz**: relay wis sin yeṭṭef anɣal yeddren, ad yeṭṭef amkan n umezwaru ma yella iruḥ
@@ -93,6 +95,10 @@ War ajerred, baṭel, yerna iseɣwan ur ttfakan ara.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
