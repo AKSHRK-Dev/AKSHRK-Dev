@@ -2,6 +2,8 @@
 
 <h1 align="center">Szia, AKSHRK vagyok</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Kezdő fejlesztő vagyok. Én üzemeltetem az <b>ASHIKA Network</b> szervertárhely-szolgáltatást és a <b>SABALISU</b> Minecraft-szerverlistát, valamint én fejlesztem a <b>Storia</b> Minecraft-szerverszoftvert.
 </p>
@@ -58,7 +60,7 @@ Hasznos a szervert kereső játékosoknak és a szerverüket népszerűsíteni k
 
 ### Storia: szerverszoftver nagy Minecraft-szerverekhez
 
-A Folia nyílt forráskódú forkja a Minecraft 26.2-höz. A **Storia Cluster** segítségével egy világ egyszerre több szerveren is futhat, a játékosok pedig betöltőképernyő nélkül mozognak közöttük.
+A Folia nyílt forráskódú forkja a Minecraft 26.3-höz. A **Storia Cluster** segítségével egy világ egyszerre több szerveren is futhat, a játékosok pedig betöltőképernyő nélkül mozognak közöttük.
 
 - **Storia Cluster**: egy világon több szerver osztozik, a köztük lévő kapcsolat titkosított
 - **Tartalék relay**: egy második relay élő másolatot tart, és átveszi a munkát, ha az első elvész
@@ -93,6 +95,10 @@ Regisztráció nélkül, ingyen, és a linkek sosem járnak le.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---

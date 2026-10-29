@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: Minecraft-szerverlista",
   "sab_p": "Vedd fel a Minecraft-szerveredet a listára, és találj embereket, akik játszanak rajta.\nHasznos a szervert kereső játékosoknak és a szerverüket népszerűsíteni kívánó tulajdonosoknak is.",
   "storia_t": "Storia: szerverszoftver nagy Minecraft-szerverekhez",
-  "storia_p": "A Folia nyílt forráskódú forkja a Minecraft 26.2-höz. A **Storia Cluster** segítségével egy világ egyszerre több szerveren is futhat, a játékosok pedig betöltőképernyő nélkül mozognak közöttük.",
+  "storia_p": "A Folia nyílt forráskódú forkja a Minecraft 26.3-höz. A **Storia Cluster** segítségével egy világ egyszerre több szerveren is futhat, a játékosok pedig betöltőképernyő nélkül mozognak közöttük.",
   "storia_points": [
     "**Storia Cluster**: egy világon több szerver osztozik, a köztük lévő kapcsolat titkosított",
     "**Tartalék relay**: egy második relay élő másolatot tart, és átveszi a munkát, ha az első elvész",
