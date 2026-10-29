@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: Minecraft-palvelinlista",
   "sab_p": "Lisää Minecraft-palvelimesi listaan ja löydä ihmisiä pelaamaan siellä.\nHyödyllinen sekä palvelinta etsiville pelaajille että omistajille, jotka haluavat mainostaa omaansa.",
   "storia_t": "Storia: palvelinohjelmisto suurille Minecraft-palvelimille",
-  "storia_p": "Avoimen lähdekoodin Folia-haara Minecraft 26.2:lle. **Storia Clusterin** avulla yksi maailma voi pyöriä usealla palvelimella yhtä aikaa, ja pelaajat siirtyvät niiden välillä ilman latausruutua.",
+  "storia_p": "Avoimen lähdekoodin Folia-haara Minecraft 26.3:lle. **Storia Clusterin** avulla yksi maailma voi pyöriä usealla palvelimella yhtä aikaa, ja pelaajat siirtyvät niiden välillä ilman latausruutua.",
   "storia_points": [
     "**Storia Cluster**: usean palvelimen jakama maailma, jonka yhteydet on salattu",
     "**Varalla oleva relay**: toinen relay pitää elävää kopiota ja ottaa vastuun, jos ensimmäinen menetetään",

@@ -2,6 +2,8 @@
 
 <h1 align="center">Hei, olen AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Aloitteleva kehittäjä. Pyöritän palvelinhosting-palvelua <b>ASHIKA Network</b> ja Minecraft-palvelinlistaa <b>SABALISU</b>, ja kehitän Minecraft-palvelinohjelmistoa <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Hyödyllinen sekä palvelinta etsiville pelaajille että omistajille, jotka halu
 
 ### Storia: palvelinohjelmisto suurille Minecraft-palvelimille
 
-Avoimen lähdekoodin Folia-haara Minecraft 26.2:lle. **Storia Clusterin** avulla yksi maailma voi pyöriä usealla palvelimella yhtä aikaa, ja pelaajat siirtyvät niiden välillä ilman latausruutua.
+Avoimen lähdekoodin Folia-haara Minecraft 26.3:lle. **Storia Clusterin** avulla yksi maailma voi pyöriä usealla palvelimella yhtä aikaa, ja pelaajat siirtyvät niiden välillä ilman latausruutua.
 
 - **Storia Cluster**: usean palvelimen jakama maailma, jonka yhteydet on salattu
 - **Varalla oleva relay**: toinen relay pitää elävää kopiota ja ottaa vastuun, jos ensimmäinen menetetään
@@ -93,6 +95,10 @@ Ei rekisteröitymistä, ilmainen, eivätkä linkit koskaan vanhene.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
