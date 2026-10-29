@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: „Minecraft“ serverių sąrašas",
   "sab_p": "Įtraukite savo „Minecraft“ serverį į sąrašą ir raskite žmonių, kurie jame žais.\nNaudinga ir serverio ieškantiems žaidėjams, ir savininkams, norintiems reklamuoti savo serverį.",
   "storia_t": "Storia: serverių programinė įranga dideliems „Minecraft“ serveriams",
-  "storia_p": "Atvirojo kodo Folia atšaka, skirta „Minecraft“ 26.2. Su **Storia Cluster** vienas pasaulis gali veikti keliuose serveriuose vienu metu, o žaidėjai tarp jų juda be įkėlimo ekrano.",
+  "storia_p": "Atvirojo kodo Folia atšaka, skirta „Minecraft“ 26.3. Su **Storia Cluster** vienas pasaulis gali veikti keliuose serveriuose vienu metu, o žaidėjai tarp jų juda be įkėlimo ekrano.",
   "storia_points": [
     "**Storia Cluster**: vieną pasaulį dalijasi keli serveriai, ryšiai tarp jų užšifruoti",
     "**Atsarginis relay**: antrasis relay laiko gyvą kopiją ir perima darbą, jei pirmasis prarandamas",
