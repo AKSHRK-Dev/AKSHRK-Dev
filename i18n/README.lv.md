@@ -2,6 +2,8 @@
 
 <h1 align="center">Sveiki, es esmu AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Iesācējs izstrādātājs. Es vadu serveru mitināšanas pakalpojumu <b>ASHIKA Network</b> un Minecraft serveru sarakstu <b>SABALISU</b>, kā arī izstrādāju Minecraft serveru programmatūru <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Noderīgs gan spēlētājiem, kuri meklē serveri, gan īpašniekiem, kuri vēla
 
 ### Storia: serveru programmatūra lieliem Minecraft serveriem
 
-Atvērtā koda Folia atzars Minecraft 26.2 versijai. Ar **Storia Cluster** viena pasaule var darboties vairākos serveros vienlaikus, un spēlētāji pārvietojas starp tiem bez ielādes ekrāna.
+Atvērtā koda Folia atzars Minecraft 26.3 versijai. Ar **Storia Cluster** viena pasaule var darboties vairākos serveros vienlaikus, un spēlētāji pārvietojas starp tiem bez ielādes ekrāna.
 
 - **Storia Cluster**: vienu pasauli dala vairāki serveri, savienojumi starp tiem ir šifrēti
 - **Rezerves relay**: otrs relay glabā dzīvu kopiju un pārņem darbu, ja pirmais tiek zaudēts
@@ -93,6 +95,10 @@ Bez reģistrācijas, bez maksas, un saitēm nekad nebeidzas derīgums.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---

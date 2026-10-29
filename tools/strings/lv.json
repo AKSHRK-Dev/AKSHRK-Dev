@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: Minecraft serveru saraksts",
   "sab_p": "Pievienojiet savu Minecraft serveri sarakstam un atrodiet cilvēkus, kas tajā spēlēs.\nNoderīgs gan spēlētājiem, kuri meklē serveri, gan īpašniekiem, kuri vēlas popularizēt savējo.",
   "storia_t": "Storia: serveru programmatūra lieliem Minecraft serveriem",
-  "storia_p": "Atvērtā koda Folia atzars Minecraft 26.2 versijai. Ar **Storia Cluster** viena pasaule var darboties vairākos serveros vienlaikus, un spēlētāji pārvietojas starp tiem bez ielādes ekrāna.",
+  "storia_p": "Atvērtā koda Folia atzars Minecraft 26.3 versijai. Ar **Storia Cluster** viena pasaule var darboties vairākos serveros vienlaikus, un spēlētāji pārvietojas starp tiem bez ielādes ekrāna.",
   "storia_points": [
     "**Storia Cluster**: vienu pasauli dala vairāki serveri, savienojumi starp tiem ir šifrēti",
     "**Rezerves relay**: otrs relay glabā dzīvu kopiju un pārņem darbu, ja pirmais tiek zaudēts",
