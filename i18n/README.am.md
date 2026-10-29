@@ -2,6 +2,8 @@
 
 <h1 align="center">ሰላም፣ እኔ AKSHRK ነኝ</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   ጀማሪ ገንቢ ነኝ። የሰርቨር ማስተናገጃ አገልግሎት <b>ASHIKA Network</b>ን እና የMinecraft ሰርቨሮች ዝርዝር <b>SABALISU</b>ን አስተዳድራለሁ፤ እንዲሁም የMinecraft ሰርቨር ሶፍትዌር <b>Storia</b>ን እሠራለሁ።
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: ለትላልቅ የMinecraft ሰርቨሮች የሰርቨር ሶፍትዌር
 
-ለMinecraft 26.2 በFolia ላይ የተመሠረተ ክፍት ምንጭ ሰርቨር። በ**Storia Cluster** አንድ ዓለም በብዙ ሰርቨሮች ላይ በአንድ ጊዜ መሥራት ይችላል፤ ተጫዋቾችም ያለ መጫኛ ማያ ገጽ በመካከላቸው ይዘዋወራሉ።
+ለMinecraft 26.3 በFolia ላይ የተመሠረተ ክፍት ምንጭ ሰርቨር። በ**Storia Cluster** አንድ ዓለም በብዙ ሰርቨሮች ላይ በአንድ ጊዜ መሥራት ይችላል፤ ተጫዋቾችም ያለ መጫኛ ማያ ገጽ በመካከላቸው ይዘዋወራሉ።
 
 - **Storia Cluster**: ብዙ ሰርቨሮች አንድ ዓለም ይጋራሉ፤ በመካከላቸው ያለው ግንኙነት የተመሰጠረ ነው
 - **ተጠባባቂ relay**: ሁለተኛው relay ቀጥታ ቅጂ ይይዛል፤ የመጀመሪያው ቢጠፋ ቦታውን ይረከባል
@@ -93,6 +95,10 @@
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
