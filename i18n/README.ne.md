@@ -2,6 +2,8 @@
 
 <h1 align="center">नमस्ते, म AKSHRK हुँ</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   एक नयाँ डेभलपर। म सर्भर होस्टिङ सेवा <b>ASHIKA Network</b> र Minecraft सर्भर सूची <b>SABALISU</b> चलाउँछु, र Minecraft सर्भर सफ्टवेयर <b>Storia</b> बनाउँछु।
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: ठूला Minecraft सर्भरहरूका लागि सर्भर सफ्टवेयर
 
-Minecraft 26.2 का लागि Folia मा आधारित खुला स्रोत सर्भर। **Storia Cluster** सँग एउटै संसार एकै पटक धेरै सर्भरमा चल्न सक्छ, र खेलाडीहरू लोडिङ स्क्रिनबिना तिनीहरूबीच सर्छन्।
+Minecraft 26.3 का लागि Folia मा आधारित खुला स्रोत सर्भर। **Storia Cluster** सँग एउटै संसार एकै पटक धेरै सर्भरमा चल्न सक्छ, र खेलाडीहरू लोडिङ स्क्रिनबिना तिनीहरूबीच सर्छन्।
 
 - **Storia Cluster**: धेरै सर्भरले एउटै संसार बाँड्छन्, तिनीहरूबीचको जडान इन्क्रिप्ट गरिएको हुन्छ
 - **स्ट्यान्डबाइ रिले**: दोस्रो रिलेले प्रत्यक्ष प्रतिलिपि राख्छ र पहिलो हराए जिम्मा लिन्छ
@@ -93,6 +95,10 @@ Minecraft 26.2 का लागि Folia मा आधारित खुला 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
