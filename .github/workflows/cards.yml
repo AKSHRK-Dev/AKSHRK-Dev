@@ -1,0 +1,49 @@
+name: Profile cards
+
+# The public trophy and readme-stats services are not reliable (the trophy one is switched off),
+# so the cards are drawn here once a day with the projects' own actions and kept in assets/.
+# If any card cannot be drawn (rate limit, API error), nothing is committed and yesterday's cards stay.
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Trophy
+        uses: ryo-ma/github-profile-trophy@43736b50a82fca73c8df1c81abb40aa03519975c
+        with:
+          username: AKSHRK-Dev
+          output_path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: flat
+      - name: Stats
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=AKSHRK-Dev&show_icons=true&hide_border=true
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - name: Top languages
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          options: username=AKSHRK-Dev&layout=compact&hide_border=true&langs_count=8
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+      - name: Save them if they changed
+        run: |
+          git add assets/trophy.svg assets/stats.svg assets/top-langs.svg
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update the profile cards"
+          git push
