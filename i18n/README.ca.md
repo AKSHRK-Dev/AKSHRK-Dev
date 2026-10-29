@@ -2,6 +2,8 @@
 
 <h1 align="center">Hola, soc l'AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Un desenvolupador principiant. Gestiono el servei d'allotjament de servidors <b>ASHIKA Network</b> i la llista de servidors de Minecraft <b>SABALISU</b>, i desenvolupo el programari de servidor per a Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Publica el teu servidor de Minecraft i troba gent que hi jugui.
 
 ### Storia: programari de servidor per a servidors grans de Minecraft
 
-Un fork de codi obert de Folia per a Minecraft 26.2. Amb **Storia Cluster**, un mateix món pot funcionar en diversos servidors alhora, i els jugadors passen de l'un a l'altre sense pantalla de càrrega.
+Un fork de codi obert de Folia per a Minecraft 26.3. Amb **Storia Cluster**, un mateix món pot funcionar en diversos servidors alhora, i els jugadors passen de l'un a l'altre sense pantalla de càrrega.
 
 - **Storia Cluster**: un món compartit per diversos servidors, amb connexions xifrades entre ells
 - **Relay de reserva**: un segon relay guarda una còpia en directe i pren el relleu si es perd el primer
@@ -93,6 +95,10 @@ Sense registre, gratuït, i els enllaços no caduquen mai.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
