@@ -2,6 +2,8 @@
 
 <h1 align="center">Xin chào, mình là AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Một lập trình viên mới vào nghề. Mình vận hành dịch vụ lưu trữ máy chủ <b>ASHIKA Network</b> và trang danh sách máy chủ Minecraft <b>SABALISU</b>, đồng thời phát triển phần mềm máy chủ Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Hữu ích cho cả người chơi đang tìm máy chủ lẫn chủ máy chủ 
 
 ### Storia: phần mềm máy chủ cho các máy chủ Minecraft lớn
 
-Một bản fork mã nguồn mở của Folia cho Minecraft 26.2. Với **Storia Cluster**, một thế giới có thể chạy trên nhiều máy chủ cùng lúc, và người chơi di chuyển giữa chúng mà không có màn hình tải.
+Một bản fork mã nguồn mở của Folia cho Minecraft 26.3. Với **Storia Cluster**, một thế giới có thể chạy trên nhiều máy chủ cùng lúc, và người chơi di chuyển giữa chúng mà không có màn hình tải.
 
 - **Storia Cluster**: một thế giới được nhiều máy chủ chia sẻ, kết nối giữa chúng được mã hóa
 - **Relay dự phòng**: relay thứ hai giữ bản sao trực tiếp và tiếp quản nếu relay thứ nhất bị mất
@@ -93,6 +95,10 @@ Không cần đăng ký, miễn phí và liên kết không bao giờ hết hạ
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---

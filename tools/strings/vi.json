@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: danh sách máy chủ Minecraft",
   "sab_p": "Đăng máy chủ Minecraft của bạn và tìm người cùng chơi.\nHữu ích cho cả người chơi đang tìm máy chủ lẫn chủ máy chủ muốn quảng bá.",
   "storia_t": "Storia: phần mềm máy chủ cho các máy chủ Minecraft lớn",
-  "storia_p": "Một bản fork mã nguồn mở của Folia cho Minecraft 26.2. Với **Storia Cluster**, một thế giới có thể chạy trên nhiều máy chủ cùng lúc, và người chơi di chuyển giữa chúng mà không có màn hình tải.",
+  "storia_p": "Một bản fork mã nguồn mở của Folia cho Minecraft 26.3. Với **Storia Cluster**, một thế giới có thể chạy trên nhiều máy chủ cùng lúc, và người chơi di chuyển giữa chúng mà không có màn hình tải.",
   "storia_points": [
     "**Storia Cluster**: một thế giới được nhiều máy chủ chia sẻ, kết nối giữa chúng được mã hóa",
     "**Relay dự phòng**: relay thứ hai giữ bản sao trực tiếp và tiếp quản nếu relay thứ nhất bị mất",
