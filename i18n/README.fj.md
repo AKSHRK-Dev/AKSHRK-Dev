@@ -2,6 +2,8 @@
 
 <h1 align="center">Bula, oi au o AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   E dua na dauvakarautaka vou. Au veiliutaka na veiqaravi ni vakaitikotiko ni server <b>ASHIKA Network</b> kei na lisi ni Minecraft server <b>SABALISU</b>, ka au buli tale ga na porokaramu ni server ni Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ E yaga vei ira na dauniqito era vakasaqara e dua na server kei ira na itaukei er
 
 ### Storia: porokaramu ni server me baleti ira na Minecraft server levu
 
-E dua na open-source fork ni Folia me baleta na Minecraft 26.2. Ena **Storia Cluster**, e rawa ni cakacaka e dua ga na vuravura ena levu na server ena dua ga na gauna, ka ra toki na daunivakatovotovo ena kedra maliwa ka sega na loading screen.
+E dua na open-source fork ni Folia me baleta na Minecraft 26.3. Ena **Storia Cluster**, e rawa ni cakacaka e dua ga na vuravura ena levu na server ena dua ga na gauna, ka ra toki na daunivakatovotovo ena kedra maliwa ka sega na loading screen.
 
 - **Storia Cluster**: e dua ga na vuravura e wasei ena levu na server, ka vunitaki na isema ena kedra maliwa
 - **Relay ni veisosomitaki**: na ikarua ni relay e maroroya e dua na ilavelave bula ka na sosomitaka na imatai kevaka e yali
@@ -93,6 +95,10 @@ E sega ni gadrevi na vakatovolea, e sega ni saumi, ka sega ni oti na gauna ni li
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
