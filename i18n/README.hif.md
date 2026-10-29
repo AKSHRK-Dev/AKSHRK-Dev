@@ -2,6 +2,8 @@
 
 <h1 align="center">Namaste, hum AKSHRK hai</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Hum ek naya developer hai. Hum server hosting service <b>ASHIKA Network</b> aur Minecraft server list <b>SABALISU</b> chalaata hai, aur Minecraft server software <b>Storia</b> banaata hai.
 </p>
@@ -58,7 +60,7 @@ Server khoje waala player aur aapan server ke prachaar kare mange waala maalik, 
 
 ### Storia: bada Minecraft server ke khaatir server software
 
-Minecraft 26.2 ke khaatir Folia pe banaa ek open-source fork. **Storia Cluster** se ek duniya ek saath kai server pe chal sake hai, aur player loading screen bina unke beech aa-jaa sake hai.
+Minecraft 26.3 ke khaatir Folia pe banaa ek open-source fork. **Storia Cluster** se ek duniya ek saath kai server pe chal sake hai, aur player loading screen bina unke beech aa-jaa sake hai.
 
 - **Storia Cluster**: kai server ek duniya baante hai, unke beech ke connection encrypted hai
 - **Standby relay**: dusra relay ek live copy rakhta hai aur pahila ke kho jaane pe kaam sambhaalta hai
@@ -93,6 +95,10 @@ Sign-up ke jarurat nahi, free hai, aur link kabhi expire nahi hota.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
