@@ -2,6 +2,8 @@
 
 <h1 align="center">ආයුබෝවන්, මම AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   ආධුනික සංවර්ධකයෙක්. මම සර්වර් සත්කාරක සේවාව <b>ASHIKA Network</b> සහ Minecraft සර්වර් ලැයිස්තුව <b>SABALISU</b> පවත්වාගෙන යන අතර, Minecraft සර්වර් මෘදුකාංගය <b>Storia</b> නිර්මාණය කරමි.
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: විශාල Minecraft සර්වර් සඳහා සර්වර් මෘදුකාංගය
 
-Minecraft 26.2 සඳහා Folia මත පදනම් වූ විවෘත මූලාශ්‍ර සර්වරයකි. **Storia Cluster** සමඟ එක් ලෝකයක් සර්වර් කිහිපයක එකවර ක්‍රියාත්මක විය හැකි අතර, ක්‍රීඩකයින් පූරණ තිරයකින් තොරව ඒවා අතර ගමන් කරයි.
+Minecraft 26.3 සඳහා Folia මත පදනම් වූ විවෘත මූලාශ්‍ර සර්වරයකි. **Storia Cluster** සමඟ එක් ලෝකයක් සර්වර් කිහිපයක එකවර ක්‍රියාත්මක විය හැකි අතර, ක්‍රීඩකයින් පූරණ තිරයකින් තොරව ඒවා අතර ගමන් කරයි.
 
 - **Storia Cluster**: සර්වර් කිහිපයක් එක් ලෝකයක් බෙදා ගනී, ඒවා අතර සම්බන්ධතා සංකේතනය කර ඇත
 - **සූදානම් relay**: දෙවන relay එකක් සජීවී පිටපතක් තබාගෙන පළමුවැන්න නැති වුවහොත් භාර ගනී
@@ -93,6 +95,10 @@ Minecraft 26.2 සඳහා Folia මත පදනම් වූ විවෘත 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
