@@ -2,6 +2,8 @@
 
 <h1 align="center">Tere, mina olen AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Algaja arendaja. Haldan serverimajutusteenust <b>ASHIKA Network</b> ja Minecrafti serverite nimekirja <b>SABALISU</b> ning arendan Minecrafti serveritarkvara <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Kasulik nii serverit otsivatele mängijatele kui ka omanikele, kes tahavad oma s
 
 ### Storia: serveritarkvara suurtele Minecrafti serveritele
 
-Avatud lähtekoodiga Folia haru Minecraft 26.2 jaoks. **Storia Clusteriga** saab üks maailm töötada korraga mitmel serveril ja mängijad liiguvad nende vahel ilma laadimisekraanita.
+Avatud lähtekoodiga Folia haru Minecraft 26.3 jaoks. **Storia Clusteriga** saab üks maailm töötada korraga mitmel serveril ja mängijad liiguvad nende vahel ilma laadimisekraanita.
 
 - **Storia Cluster**: üht maailma jagavad mitu serverit, nendevahelised ühendused on krüpteeritud
 - **Varu-relay**: teine relay hoiab elavat koopiat ja võtab töö üle, kui esimene kaob
@@ -93,6 +95,10 @@ Registreerumist pole vaja, tasuta ja lingid ei aegu kunagi.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---

@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: Minecrafti serverite nimekiri",
   "sab_p": "Lisa oma Minecrafti server nimekirja ja leia inimesi, kes seal mängiksid.\nKasulik nii serverit otsivatele mängijatele kui ka omanikele, kes tahavad oma serverit tutvustada.",
   "storia_t": "Storia: serveritarkvara suurtele Minecrafti serveritele",
-  "storia_p": "Avatud lähtekoodiga Folia haru Minecraft 26.2 jaoks. **Storia Clusteriga** saab üks maailm töötada korraga mitmel serveril ja mängijad liiguvad nende vahel ilma laadimisekraanita.",
+  "storia_p": "Avatud lähtekoodiga Folia haru Minecraft 26.3 jaoks. **Storia Clusteriga** saab üks maailm töötada korraga mitmel serveril ja mängijad liiguvad nende vahel ilma laadimisekraanita.",
   "storia_points": [
     "**Storia Cluster**: üht maailma jagavad mitu serverit, nendevahelised ühendused on krüpteeritud",
     "**Varu-relay**: teine relay hoiab elavat koopiat ja võtab töö üle, kui esimene kaob",
