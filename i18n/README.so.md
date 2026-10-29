@@ -2,6 +2,8 @@
 
 <h1 align="center">Salaan, waxaan ahay AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Horumariye bilow ah. Waxaan maamulaa adeegga martigelinta server-ka <b>ASHIKA Network</b> iyo liiska server-yada Minecraft <b>SABALISU</b>, waxaanan sameeyaa barnaamijka server-ka Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Waxtar u leh ciyaartoyda raadinaysa server iyo milkiilayaasha doonaya inay xayey
 
 ### Storia: barnaamij server oo loogu talagalay server-yada waaweyn ee Minecraft
 
-Fork il furan oo Folia ah oo loogu talagalay Minecraft 26.2. Iyadoo la adeegsanayo **Storia Cluster**, hal adduun ayaa hal mar ku shaqeyn kara dhowr server, ciyaartoyduna way kala guuraan iyagoo aan lahayn shaashad soo dejin.
+Fork il furan oo Folia ah oo loogu talagalay Minecraft 26.3. Iyadoo la adeegsanayo **Storia Cluster**, hal adduun ayaa hal mar ku shaqeyn kara dhowr server, ciyaartoyduna way kala guuraan iyagoo aan lahayn shaashad soo dejin.
 
 - **Storia Cluster**: hal adduun oo ay wadaagaan dhowr server, isku xirkooduna waa sir
 - **Relay kayd ah**: relay labaad ayaa haya nuqul nool wuxuuna la wareegaa haddii kan koowaad lumo
@@ -93,6 +95,10 @@ Iska diiwaangelin looma baahna, waa bilaash, linkiyaduna weligood ma dhacaan.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
