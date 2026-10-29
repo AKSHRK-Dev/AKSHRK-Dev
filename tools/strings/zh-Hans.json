@@ -17,7 +17,7 @@
   "sab_t": "SABALISU：Minecraft 服务器列表",
   "sab_p": "登记你的 Minecraft 服务器，召集一起玩的人。\n无论是在找服务器的玩家，还是想宣传服务器的服主，都可以使用。",
   "storia_t": "Storia：面向大型 Minecraft 服务器的服务器软件",
-  "storia_p": "基于 Folia、支持 Minecraft 26.2 的开源服务器。使用 **Storia Cluster**，一个世界可以由多台服务器同时分担运行，玩家在服务器之间移动时不会出现加载画面。",
+  "storia_p": "基于 Folia、支持 Minecraft 26.3 的开源服务器。使用 **Storia Cluster**，一个世界可以由多台服务器同时分担运行，玩家在服务器之间移动时不会出现加载画面。",
   "storia_points": [
     "**Storia Cluster**：多台服务器共享一个世界，服务器之间的通信经过加密",
     "**备用 Relay**：第二台 Relay 实时保存副本，第一台出故障时接替工作",
