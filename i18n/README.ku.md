@@ -2,6 +2,8 @@
 
 <h1 align="center">Silav, ez AKSHRK im</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Pêşdebirekî nû. Ez karûbarê mêvandariya serverê <b>ASHIKA Network</b> û lîsteya serverên Minecraftê <b>SABALISU</b> bi rê ve dibim, û nermalava serverê ya Minecraftê <b>Storia</b> çêdikim.
 </p>
@@ -58,7 +60,7 @@ Hem ji bo lîstikvanên ku li serverekê digerin, hem jî ji bo xwediyên ku dix
 
 ### Storia: nermalava serverê ji bo serverên mezin ên Minecraftê
 
-Serverekî çavkaniya vekirî yê li ser bingeha Folia ji bo Minecraft 26.2. Bi **Storia Cluster**, cîhanek dikare di heman demê de li ser çend serveran bixebite, û lîstikvan bê ekrana barkirinê di navbera wan de diçin û tên.
+Serverekî çavkaniya vekirî yê li ser bingeha Folia ji bo Minecraft 26.3. Bi **Storia Cluster**, cîhanek dikare di heman demê de li ser çend serveran bixebite, û lîstikvan bê ekrana barkirinê di navbera wan de diçin û tên.
 
 - **Storia Cluster**: çend server cîhanekê parve dikin, girêdanên di navbera wan de şîfrekirî ne
 - **Relaya amade**: relayeke duyem kopiyeke zindî diparêze û heke ya yekem winda bibe, cihê wê digire
@@ -93,6 +95,10 @@ Qeydkirin ne hewce ye, belaş e û girêdan qet bi dawî nabin.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
