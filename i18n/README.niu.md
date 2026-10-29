@@ -2,6 +2,8 @@
 
 <h1 align="center">Fakaalofa lahi atu, ko au ko AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Ko e tagata taute polokalama foou. Kua leveki e au e gahua talimalo server <b>ASHIKA Network</b> mo e lisi he tau server Minecraft <b>SABALISU</b>, mo e taute e au e polokalama server ma e Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Aoga ma e tau tagata pele ne kumi server mo e tau iki ne manako ke fakakite haau
 
 ### Storia: polokalama server ma e tau server Minecraft lalahi
 
-Ko e fork open-source he Folia ma e Minecraft 26.2. Mo e **Storia Cluster**, maeke e lalolagi taha ke gahua he tau server loga he magaaho taha, mo e fano e tau tagata pele he vahā ha lautolu ka e nakai fai loading screen.
+Ko e fork open-source he Folia ma e Minecraft 26.3. Mo e **Storia Cluster**, maeke e lalolagi taha ke gahua he tau server loga he magaaho taha, mo e fano e tau tagata pele he vahā ha lautolu ka e nakai fai loading screen.
 
 - **Storia Cluster**: ko e lalolagi taha ne fakafaitotonu he tau server loga, mo e tau fakafetuiaga fakagalogalo
 - **Relay fakatali**: ko e relay ke uaaki kua leveki e kopi mo e hukui e relay fakamua ka galo
@@ -93,6 +95,10 @@ Nakai lata ke lesitala, nakai totogi, mo e nakai oti e tau fakafeseke.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
