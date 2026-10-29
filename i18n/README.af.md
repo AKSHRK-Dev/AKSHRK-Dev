@@ -2,6 +2,8 @@
 
 <h1 align="center">Hallo, ek is AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   'n Beginner-ontwikkelaar. Ek bedryf die bedienergasheerdiens <b>ASHIKA Network</b> en die Minecraft-bedienerlys <b>SABALISU</b>, en ontwikkel die Minecraft-bedienersagteware <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Handig vir spelers wat 'n bediener soek en vir eienaars wat hulle s'n wil bemark
 
 ### Storia: bedienersagteware vir groot Minecraft-bedieners
 
-'n Oopbron-vurk van Folia vir Minecraft 26.2. Met **Storia Cluster** kan een wêreld op verskeie bedieners gelyktydig loop, en spelers beweeg tussen hulle sonder 'n laaiskerm.
+'n Oopbron-vurk van Folia vir Minecraft 26.3. Met **Storia Cluster** kan een wêreld op verskeie bedieners gelyktydig loop, en spelers beweeg tussen hulle sonder 'n laaiskerm.
 
 - **Storia Cluster**: een wêreld wat deur verskeie bedieners gedeel word, met geënkripteerde verbindings tussen hulle
 - **Bystand-relay**: 'n tweede relay hou 'n lewendige kopie en neem oor as die eerste verlore gaan
@@ -93,6 +95,10 @@ Geen registrasie nie, gratis, en skakels verval nooit nie.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
