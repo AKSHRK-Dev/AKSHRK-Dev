@@ -2,6 +2,8 @@
 
 <h1 align="center">Salve, AKSHRK sum</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Programmator tiro. Ministerium hospitii servitorum <b>ASHIKA Network</b> et indicem servitorum Minecraft <b>SABALISU</b> rego, atque programma servitoris Minecraft <b>Storia</b> fabrico.
 </p>
@@ -58,7 +60,7 @@ Utilis est et lusoribus servitorem quaerentibus et dominis qui suum divulgare vo
 
 ### Storia: programma servitoris magnis servitoribus Minecraft
 
-Furca Foliae fontis aperti pro Minecraft 26.2. Per **Storia Cluster** unus mundus in pluribus servitoribus simul currere potest, et lusores inter eos sine tabula onerandi transeunt.
+Furca Foliae fontis aperti pro Minecraft 26.3. Per **Storia Cluster** unus mundus in pluribus servitoribus simul currere potest, et lusores inter eos sine tabula onerandi transeunt.
 
 - **Storia Cluster**: unus mundus a pluribus servitoribus communicatus, nexibus inter eos occultatis
 - **Relay subsidiarius**: alter relay exemplar vivum servat et succedit si primus amittitur
@@ -93,6 +95,10 @@ Sine inscriptione, gratis, et nexus numquam exspirant.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
