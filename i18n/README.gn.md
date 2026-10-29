@@ -2,6 +2,8 @@
 
 <h1 align="center">Mbaʼéichapa, che ha'e AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Programador oñepyrũ ramóva. Che amboguata pe servicio hosting servidorpegua <b>ASHIKA Network</b> ha Minecraft servidor rysýi <b>SABALISU</b>, ha ajapo Minecraft servidor software <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Iporã umi ñembosaraiháre ohekáva servidor ha umi jára oipotáva oikuaauka i
 
 ### Storia: servidor software Minecraft servidor tuichávape guarã
 
-Software ijurujáva oñemopyendáva Folia-re Minecraft 26.2-pe guarã. **Storia Cluster** ndive, peteĩ yvy ikatu omba'apo heta servidor-pe peteĩ jave, ha umi ñembosaraiha ohasa ojuehe pantalla ñemyenyhẽ'ỹre.
+Software ijurujáva oñemopyendáva Folia-re Minecraft 26.3-pe guarã. **Storia Cluster** ndive, peteĩ yvy ikatu omba'apo heta servidor-pe peteĩ jave, ha umi ñembosaraiha ohasa ojuehe pantalla ñemyenyhẽ'ỹre.
 
 - **Storia Cluster**: peteĩ yvy heta servidor oipurúva, ojoaju ñemiháme
 - **Relay ñangarekoha**: relay mokõiha oñongatu kópia ha ombohasa tembiapo peteĩha okañýramo
@@ -93,6 +95,10 @@ Ndaipotái nde réra ñemboheraguapy, ndahepýi ha umi joaju ndopamo'ãi araka'e
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
