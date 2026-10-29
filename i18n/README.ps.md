@@ -4,6 +4,8 @@
 
 <h1 align="center">سلام، زه AKSHRK یم</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   یو نوی پراختیاکوونکی. زه د سرور کوربه‌توب خدمت <b>ASHIKA Network</b> او د Minecraft سرورونو لېست <b>SABALISU</b> چلوم، او د Minecraft سرور سافټویر <b>Storia</b> جوړوم.
 </p>
@@ -60,7 +62,7 @@
 
 ### Storia: د لویو Minecraft سرورونو لپاره سرور سافټویر
 
-د Minecraft 26.2 لپاره پر Folia ولاړ یو خلاص سرچینه سرور. د **Storia Cluster** په مرسته یوه نړۍ په یو وخت کې پر څو سرورونو چلېدای شي، او لوبغاړي د بارولو له پردې پرته د هغو ترمنځ ځي راځي.
+د Minecraft 26.3 لپاره پر Folia ولاړ یو خلاص سرچینه سرور. د **Storia Cluster** په مرسته یوه نړۍ په یو وخت کې پر څو سرورونو چلېدای شي، او لوبغاړي د بارولو له پردې پرته د هغو ترمنځ ځي راځي.
 
 - **Storia Cluster**: څو سرورونه یوه نړۍ شریکوي، او د هغو ترمنځ اړیکې کوډ شوې دي
 - **بدیل ریلې**: دویمه ریلې ژوندۍ کاپي ساتي او که لومړۍ له لاسه ووځي، د هغې ځای نیسي
@@ -95,6 +97,10 @@
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
