@@ -4,6 +4,8 @@
 
 <h1 align="center">سلام، من AKSHRK هستم</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   یک برنامه‌نویس تازه‌کار. سرویس میزبانی سرور <b>ASHIKA Network</b> و فهرست سرورهای Minecraft به نام <b>SABALISU</b> را اداره می‌کنم و نرم‌افزار سرور Minecraft به نام <b>Storia</b> را می‌سازم.
 </p>
@@ -60,7 +62,7 @@
 
 ### Storia: نرم‌افزار سرور برای سرورهای بزرگ Minecraft
 
-یک سرور متن‌باز بر پایهٔ Folia برای Minecraft 26.2. با **Storia Cluster** یک جهان می‌تواند هم‌زمان روی چند سرور اجرا شود و بازیکنان بدون صفحهٔ بارگذاری بین آن‌ها جابه‌جا شوند.
+یک سرور متن‌باز بر پایهٔ Folia برای Minecraft 26.3. با **Storia Cluster** یک جهان می‌تواند هم‌زمان روی چند سرور اجرا شود و بازیکنان بدون صفحهٔ بارگذاری بین آن‌ها جابه‌جا شوند.
 
 - **Storia Cluster**: چند سرور یک جهان را به اشتراک می‌گذارند و ارتباط بین آن‌ها رمزنگاری شده است
 - **رلهٔ پشتیبان**: رلهٔ دوم یک نسخهٔ زنده نگه می‌دارد و اگر اولی از دست برود، جای آن را می‌گیرد
@@ -95,6 +97,10 @@ URLهای طولانی را کوتاه می‌کند.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
