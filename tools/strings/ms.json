@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: senarai pelayan Minecraft",
   "sab_p": "Senaraikan pelayan Minecraft anda dan cari orang untuk bermain bersama.\nBerguna untuk pemain yang mencari pelayan dan juga pemilik yang mahu mempromosikan pelayan mereka.",
   "storia_t": "Storia: perisian pelayan untuk pelayan Minecraft yang besar",
-  "storia_p": "Fork sumber terbuka bagi Folia untuk Minecraft 26.2. Dengan **Storia Cluster**, satu dunia boleh berjalan pada beberapa pelayan serentak, dan pemain berpindah antara pelayan tanpa skrin pemuatan.",
+  "storia_p": "Fork sumber terbuka bagi Folia untuk Minecraft 26.3. Dengan **Storia Cluster**, satu dunia boleh berjalan pada beberapa pelayan serentak, dan pemain berpindah antara pelayan tanpa skrin pemuatan.",
   "storia_points": [
     "**Storia Cluster**: satu dunia dikongsi oleh beberapa pelayan, dengan sambungan yang disulitkan",
     "**Relay siap sedia**: relay kedua menyimpan salinan langsung dan mengambil alih jika yang pertama hilang",

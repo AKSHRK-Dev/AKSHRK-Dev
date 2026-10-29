@@ -2,6 +2,8 @@
 
 <h1 align="center">Hai, saya AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Seorang pembangun yang baru bermula. Saya mengendalikan perkhidmatan pengehosan pelayan <b>ASHIKA Network</b> dan senarai pelayan Minecraft <b>SABALISU</b>, serta membangunkan perisian pelayan Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Berguna untuk pemain yang mencari pelayan dan juga pemilik yang mahu mempromosik
 
 ### Storia: perisian pelayan untuk pelayan Minecraft yang besar
 
-Fork sumber terbuka bagi Folia untuk Minecraft 26.2. Dengan **Storia Cluster**, satu dunia boleh berjalan pada beberapa pelayan serentak, dan pemain berpindah antara pelayan tanpa skrin pemuatan.
+Fork sumber terbuka bagi Folia untuk Minecraft 26.3. Dengan **Storia Cluster**, satu dunia boleh berjalan pada beberapa pelayan serentak, dan pemain berpindah antara pelayan tanpa skrin pemuatan.
 
 - **Storia Cluster**: satu dunia dikongsi oleh beberapa pelayan, dengan sambungan yang disulitkan
 - **Relay siap sedia**: relay kedua menyimpan salinan langsung dan mengambil alih jika yang pertama hilang
@@ -93,6 +95,10 @@ Tanpa pendaftaran, percuma dan pautan tidak pernah luput.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
