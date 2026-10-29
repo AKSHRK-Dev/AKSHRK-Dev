@@ -2,6 +2,8 @@
 
 <h1 align="center">வணக்கம், நான் AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   ஒரு தொடக்கநிலை டெவலப்பர். நான் சர்வர் ஹோஸ்டிங் சேவை <b>ASHIKA Network</b>, Minecraft சர்வர் பட்டியல் <b>SABALISU</b> ஆகியவற்றை நடத்துகிறேன், மேலும் Minecraft சர்வர் மென்பொருள் <b>Storia</b>-வை உருவாக்குகிறேன்.
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: பெரிய Minecraft சர்வர்களுக்கான சர்வர் மென்பொருள்
 
-Minecraft 26.2-க்கான Folia அடிப்படையிலான திறந்த மூல சர்வர். **Storia Cluster** மூலம் ஒரே உலகம் பல சர்வர்களில் ஒரே நேரத்தில் இயங்க முடியும், வீரர்கள் ஏற்றுதல் திரை இல்லாமல் அவற்றுக்கிடையே நகர்கிறார்கள்.
+Minecraft 26.3-க்கான Folia அடிப்படையிலான திறந்த மூல சர்வர். **Storia Cluster** மூலம் ஒரே உலகம் பல சர்வர்களில் ஒரே நேரத்தில் இயங்க முடியும், வீரர்கள் ஏற்றுதல் திரை இல்லாமல் அவற்றுக்கிடையே நகர்கிறார்கள்.
 
 - **Storia Cluster**: பல சர்வர்கள் ஒரே உலகைப் பகிர்கின்றன, அவற்றுக்கிடையேயான இணைப்புகள் குறியாக்கம் செய்யப்பட்டவை
 - **காத்திருப்பு relay**: இரண்டாவது relay நேரடி நகலை வைத்திருந்து, முதலாவது இழந்தால் பொறுப்பேற்கிறது
@@ -93,6 +95,10 @@ Minecraft 26.2-க்கான Folia அடிப்படையிலான த
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
