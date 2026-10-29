@@ -2,6 +2,8 @@
 
 <h1 align="center">Salom, men AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Boshlovchi dasturchi. Men <b>ASHIKA Network</b> server xosting xizmatini va <b>SABALISU</b> Minecraft serverlar roʻyxatini yuritaman hamda <b>Storia</b> Minecraft server dasturini ishlab chiqaman.
 </p>
@@ -58,7 +60,7 @@ Server qidirayotgan oʻyinchilar uchun ham, serverini reklama qilmoqchi boʻlgan
 
 ### Storia: katta Minecraft serverlari uchun server dasturi
 
-Minecraft 26.2 uchun Folia asosidagi ochiq manbali server. **Storia Cluster** yordamida bitta dunyo bir vaqtning oʻzida bir nechta serverda ishlaydi, oʻyinchilar esa ular orasida yuklanish ekranisiz koʻchib yuradi.
+Minecraft 26.3 uchun Folia asosidagi ochiq manbali server. **Storia Cluster** yordamida bitta dunyo bir vaqtning oʻzida bir nechta serverda ishlaydi, oʻyinchilar esa ular orasida yuklanish ekranisiz koʻchib yuradi.
 
 - **Storia Cluster**: bitta dunyo bir nechta server tomonidan boʻlishiladi, ular orasidagi aloqa shifrlangan
 - **Zaxira relay**: ikkinchi relay jonli nusxani saqlaydi va birinchisi yoʻqolsa, uning oʻrnini egallaydi
@@ -93,6 +95,10 @@ Roʻyxatdan oʻtish shart emas, bepul va havolalar muddati tugamaydi.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
