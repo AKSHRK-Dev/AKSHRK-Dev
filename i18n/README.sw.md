@@ -2,6 +2,8 @@
 
 <h1 align="center">Habari, mimi ni AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Msanidi programu anayeanza. Ninaendesha huduma ya kuhifadhi seva <b>ASHIKA Network</b> na orodha ya seva za Minecraft <b>SABALISU</b>, na ninatengeneza programu ya seva ya Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Inafaa kwa wachezaji wanaotafuta seva na kwa wamiliki wanaotaka kutangaza seva z
 
 ### Storia: programu ya seva kwa seva kubwa za Minecraft
 
-Fork huria ya Folia kwa Minecraft 26.2. Kwa **Storia Cluster**, ulimwengu mmoja unaweza kuendeshwa kwenye seva kadhaa kwa wakati mmoja, na wachezaji huhama kati yao bila skrini ya kupakia.
+Fork huria ya Folia kwa Minecraft 26.3. Kwa **Storia Cluster**, ulimwengu mmoja unaweza kuendeshwa kwenye seva kadhaa kwa wakati mmoja, na wachezaji huhama kati yao bila skrini ya kupakia.
 
 - **Storia Cluster**: ulimwengu mmoja unaoshirikiwa na seva kadhaa, wenye miunganisho iliyosimbwa kati yao
 - **Relay ya akiba**: relay ya pili huhifadhi nakala hai na huchukua nafasi ikiwa ya kwanza itapotea
@@ -93,6 +95,10 @@ Bila kujisajili, bure, na viungo havipitwi na muda kamwe.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
