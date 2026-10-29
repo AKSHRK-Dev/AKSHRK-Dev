@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: seznam strežnikov Minecraft",
   "sab_p": "Dodaj svoj strežnik Minecraft na seznam in poišči ljudi, ki bodo igrali na njem.\nUporabno za igralce, ki iščejo strežnik, in za lastnike, ki želijo promovirati svojega.",
   "storia_t": "Storia: strežniška programska oprema za velike strežnike Minecraft",
-  "storia_p": "Odprtokodna razvejitev Folie za Minecraft 26.2. S **Storia Cluster** lahko en svet teče na več strežnikih hkrati, igralci pa se med njimi premikajo brez zaslona za nalaganje.",
+  "storia_p": "Odprtokodna razvejitev Folie za Minecraft 26.3. S **Storia Cluster** lahko en svet teče na več strežnikih hkrati, igralci pa se med njimi premikajo brez zaslona za nalaganje.",
   "storia_points": [
     "**Storia Cluster**: en svet, ki si ga deli več strežnikov, s šifriranimi povezavami med njimi",
     "**Rezervni relay**: drugi relay hrani živo kopijo in prevzame delo, če se prvi izgubi",

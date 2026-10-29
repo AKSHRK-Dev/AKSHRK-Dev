@@ -2,6 +2,8 @@
 
 <h1 align="center">Živjo, sem AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Razvijalec začetnik. Upravljam storitev gostovanja strežnikov <b>ASHIKA Network</b> in seznam strežnikov Minecraft <b>SABALISU</b> ter razvijam strežniško programsko opremo za Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Uporabno za igralce, ki iščejo strežnik, in za lastnike, ki želijo promovira
 
 ### Storia: strežniška programska oprema za velike strežnike Minecraft
 
-Odprtokodna razvejitev Folie za Minecraft 26.2. S **Storia Cluster** lahko en svet teče na več strežnikih hkrati, igralci pa se med njimi premikajo brez zaslona za nalaganje.
+Odprtokodna razvejitev Folie za Minecraft 26.3. S **Storia Cluster** lahko en svet teče na več strežnikih hkrati, igralci pa se med njimi premikajo brez zaslona za nalaganje.
 
 - **Storia Cluster**: en svet, ki si ga deli več strežnikov, s šifriranimi povezavami med njimi
 - **Rezervni relay**: drugi relay hrani živo kopijo in prevzame delo, če se prvi izgubi
@@ -93,6 +95,10 @@ Brez registracije, brezplačno, povezave pa nikoli ne potečejo.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
