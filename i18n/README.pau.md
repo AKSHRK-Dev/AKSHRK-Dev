@@ -2,6 +2,8 @@
 
 <h1 align="center">Alii, ak AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Ak beches el developer. Ak mesisiich er a server hosting service el <b>ASHIKA Network</b> me a Minecraft server list el <b>SABALISU</b>, e ak meruul a Minecraft server software el <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Ungil el kirel a rechad el mesuub el mesaod er a server me a rechad el soal el o
 
 ### Storia: a server software el kirel a klou el Minecraft server
 
-A open-source el fork er a Folia el kirel a Minecraft 26.2. Er a **Storia Cluster**, a tang el beluu a sebechel el ureor er a betok el server er a ta el taem, e a rechad el mesuub a mo er a chelsel er tir el diak a loading screen.
+A open-source el fork er a Folia el kirel a Minecraft 26.3. Er a **Storia Cluster**, a tang el beluu a sebechel el ureor er a betok el server er a ta el taem, e a rechad el mesuub a mo er a chelsel er tir el diak a loading screen.
 
 - **Storia Cluster**: a tang el beluu el blechoel el uldasu a betok el server, me a encrypted el ngar er a chelsel
 - **Standby relay**: a ongeru el relay a melatk a kopia e mo okiu a ongdibus el relay a lmuut
@@ -93,6 +95,10 @@ Diak el kirel el registration, a cheral a diak, e a link a diak lemekngit.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
