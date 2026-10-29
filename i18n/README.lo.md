@@ -2,6 +2,8 @@
 
 <h1 align="center">ສະບາຍດີ, ຂ້ອຍແມ່ນ AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   ນັກພັດທະນາມືໃໝ່. ຂ້ອຍດຳເນີນງານບໍລິການໂຮສຕິ້ງເຊີບເວີ <b>ASHIKA Network</b> ແລະ ລາຍຊື່ເຊີບເວີ Minecraft <b>SABALISU</b>, ແລະ ພັດທະນາຊອບແວເຊີບເວີ Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: ຊອບແວເຊີບເວີສຳລັບເຊີບເວີ Minecraft ຂະໜາດໃຫຍ່
 
-ເຊີບເວີໂອເພນຊອດທີ່ພັດທະນາຕໍ່ຈາກ Folia ສຳລັບ Minecraft 26.2. ດ້ວຍ **Storia Cluster**, ໂລກດຽວສາມາດແລ່ນເທິງຫຼາຍເຊີບເວີພ້ອມກັນ, ແລະ ຜູ້ຫຼິ້ນຍ້າຍໄປມາລະຫວ່າງເຊີບເວີໄດ້ໂດຍບໍ່ມີໜ້າຈໍໂຫຼດ.
+ເຊີບເວີໂອເພນຊອດທີ່ພັດທະນາຕໍ່ຈາກ Folia ສຳລັບ Minecraft 26.3. ດ້ວຍ **Storia Cluster**, ໂລກດຽວສາມາດແລ່ນເທິງຫຼາຍເຊີບເວີພ້ອມກັນ, ແລະ ຜູ້ຫຼິ້ນຍ້າຍໄປມາລະຫວ່າງເຊີບເວີໄດ້ໂດຍບໍ່ມີໜ້າຈໍໂຫຼດ.
 
 - **Storia Cluster**: ໂລກດຽວແບ່ງປັນກັນຫຼາຍເຊີບເວີ, ການເຊື່ອມຕໍ່ລະຫວ່າງກັນຖືກເຂົ້າລະຫັດ
 - **Relay ສຳຮອງ**: relay ທີສອງເກັບສຳເນົາໄວ້ຕະຫຼອດ ແລະ ຮັບໜ້າທີ່ແທນຖ້າອັນທຳອິດເສຍ
@@ -93,6 +95,10 @@
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
