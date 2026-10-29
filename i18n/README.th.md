@@ -2,6 +2,8 @@
 
 <h1 align="center">สวัสดี ผมชื่อ AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   นักพัฒนามือใหม่ ผมดูแลบริการโฮสติ้งเซิร์ฟเวอร์ <b>ASHIKA Network</b> และเว็บรายชื่อเซิร์ฟเวอร์ Minecraft <b>SABALISU</b> และพัฒนาซอฟต์แวร์เซิร์ฟเวอร์ Minecraft <b>Storia</b>
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: ซอฟต์แวร์เซิร์ฟเวอร์สำหรับเซิร์ฟเวอร์ Minecraft ขนาดใหญ่
 
-เซิร์ฟเวอร์โอเพนซอร์สที่ต่อยอดจาก Folia สำหรับ Minecraft 26.2 ด้วย **Storia Cluster** โลกเดียวสามารถรันบนหลายเซิร์ฟเวอร์พร้อมกัน และผู้เล่นย้ายไปมาระหว่างเซิร์ฟเวอร์ได้โดยไม่มีหน้าจอโหลด
+เซิร์ฟเวอร์โอเพนซอร์สที่ต่อยอดจาก Folia สำหรับ Minecraft 26.3 ด้วย **Storia Cluster** โลกเดียวสามารถรันบนหลายเซิร์ฟเวอร์พร้อมกัน และผู้เล่นย้ายไปมาระหว่างเซิร์ฟเวอร์ได้โดยไม่มีหน้าจอโหลด
 
 - **Storia Cluster**: หลายเซิร์ฟเวอร์ใช้โลกเดียวร่วมกัน โดยการเชื่อมต่อระหว่างกันถูกเข้ารหัส
 - **Relay สำรอง**: relay ตัวที่สองเก็บสำเนาไว้ตลอดเวลา และรับหน้าที่แทนถ้าตัวแรกเสีย
@@ -93,6 +95,10 @@
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
