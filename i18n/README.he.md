@@ -4,6 +4,8 @@
 
 <h1 align="center">שלום, אני AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   מפתח מתחיל. אני מפעיל את שירות אחסון השרתים <b>ASHIKA Network</b> ואת רשימת שרתי ה-Minecraft <b>SABALISU</b>, ומפתח את תוכנת השרת ל-Minecraft בשם <b>Storia</b>.
 </p>
@@ -60,7 +62,7 @@
 
 ### Storia: תוכנת שרת לשרתי Minecraft גדולים
 
-שרת קוד פתוח המבוסס על Folia עבור Minecraft 26.2. עם **Storia Cluster**, עולם אחד יכול לרוץ על כמה שרתים בו-זמנית, והשחקנים עוברים ביניהם בלי מסך טעינה.
+שרת קוד פתוח המבוסס על Folia עבור Minecraft 26.3. עם **Storia Cluster**, עולם אחד יכול לרוץ על כמה שרתים בו-זמנית, והשחקנים עוברים ביניהם בלי מסך טעינה.
 
 - **Storia Cluster**: כמה שרתים חולקים עולם אחד, והחיבורים ביניהם מוצפנים
 - **ממסר גיבוי**: ממסר שני שומר עותק חי ונכנס לפעולה אם הראשון אובד
@@ -95,6 +97,10 @@
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
