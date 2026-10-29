@@ -2,6 +2,8 @@
 
 <h1 align="center">Ia ora na, o AKSHRK vau</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   E taata hāmani porōtarama ʻāpī. Te faatere nei au i te taviniraa farii server <b>ASHIKA Network</b> e te tāpura server Minecraft <b>SABALISU</b>, e te hāmani nei au i te porōtarama server no Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ E faufaa no te feiā hāʻuti e imi ra i te server e no te feiā fatu e hinaaro 
 
 ### Storia: porōtarama server no te mau server Minecraft rarahi
 
-E fork open-source no Folia no Minecraft 26.2. Na roto i te **Storia Cluster**, e nehenehe te hoê ao e horo i ni'a i te mau server e rave rahi i te hoê taime, e e tere te feiā hāʻuti i rotopū ia ratou ma te ore e loading screen.
+E fork open-source no Folia no Minecraft 26.3. Na roto i te **Storia Cluster**, e nehenehe te hoê ao e horo i ni'a i te mau server e rave rahi i te hoê taime, e e tere te feiā hāʻuti i rotopū ia ratou ma te ore e loading screen.
 
 - **Storia Cluster**: e hoê ao e tufahia e te mau server e rave rahi, e ua huna-maitai-hia te mau taairaa
 - **Relay tapeʻa**: e tapeʻa te piti o te relay i te hoê hoho'a ora e e mono i te matamua mai te mea e moʻe
@@ -93,6 +95,10 @@ E faaiti i te mau URL roa.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
