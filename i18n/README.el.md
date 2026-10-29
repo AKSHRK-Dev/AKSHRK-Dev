@@ -2,6 +2,8 @@
 
 <h1 align="center">Γεια σας, είμαι ο AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Ένας αρχάριος προγραμματιστής. Διαχειρίζομαι την υπηρεσία φιλοξενίας διακομιστών <b>ASHIKA Network</b> και τη λίστα διακομιστών Minecraft <b>SABALISU</b>, και αναπτύσσω το λογισμικό διακομιστή για Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: λογισμικό διακομιστή για μεγάλους διακομιστές Minecraft
 
-Ένα fork ανοιχτού κώδικα του Folia για το Minecraft 26.2. Με το **Storia Cluster**, ένας κόσμος μπορεί να τρέχει σε πολλούς διακομιστές ταυτόχρονα και οι παίκτες μετακινούνται ανάμεσά τους χωρίς οθόνη φόρτωσης.
+Ένα fork ανοιχτού κώδικα του Folia για το Minecraft 26.3. Με το **Storia Cluster**, ένας κόσμος μπορεί να τρέχει σε πολλούς διακομιστές ταυτόχρονα και οι παίκτες μετακινούνται ανάμεσά τους χωρίς οθόνη φόρτωσης.
 
 - **Storia Cluster**: ένας κόσμος που μοιράζονται πολλοί διακομιστές, με κρυπτογραφημένες συνδέσεις μεταξύ τους
 - **Εφεδρικό relay**: ένα δεύτερο relay κρατά ζωντανό αντίγραφο και αναλαμβάνει αν χαθεί το πρώτο
@@ -93,6 +95,10 @@
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
