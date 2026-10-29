@@ -2,6 +2,8 @@
 
 <h1 align="center">Sawubona, ngingu-AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Ngingumakhi wetinhlelo losacala. Ngiphatsa lusito lwekugcina emaseva <b>ASHIKA Network</b> kanye neluhla lwemaseva aMinecraft <b>SABALISU</b>, futsi ngakha luhlelo lweseva yaMinecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Kuyasita kubadlali labafuna iseva kanye nebanikati labafuna kwatisa leyabo.
 
 ### Storia: luhlelo lweseva lwemaseva lamakhulu aMinecraft
 
-I-fork yemtfombo levulekile ye-Folia ye-Minecraft 26.2. Nge-**Storia Cluster**, live linye lingasebenta ematseveni lamanyenti ngesikhatsi sinye, futsi badlali bayashintja emkhatsini wawo ngaphandle kwesikrini sekulayisha.
+I-fork yemtfombo levulekile ye-Folia ye-Minecraft 26.3. Nge-**Storia Cluster**, live linye lingasebenta ematseveni lamanyenti ngesikhatsi sinye, futsi badlali bayashintja emkhatsini wawo ngaphandle kwesikrini sekulayisha.
 
 - **Storia Cluster**: live linye lelabelwana ngemaseva lamanyenti, linetichumanisi letifihliwe
 - **Relay lelindzile**: relay lesibili ligcina likhophi lelisaphila futsi lingena esikhundleni salokucala uma lilahlekile
@@ -93,6 +95,10 @@ Akudzingeki kubhalisa, kumahhala, futsi tixhumanisi atiphelelwa sikhatsi.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
