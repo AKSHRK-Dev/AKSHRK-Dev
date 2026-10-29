@@ -2,6 +2,8 @@
 
 <h1 align="center">Zdravo, ja sam AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Programer početnik. Vodim uslugu hostinga servera <b>ASHIKA Network</b> i listu Minecraft servera <b>SABALISU</b>, a razvijam i softver za Minecraft servere <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Korisno i igračima koji traže server i vlasnicima koji ga žele promovisati.
 
 ### Storia: softver za velike Minecraft servere
 
-Fork Folije otvorenog koda za Minecraft 26.2. Uz **Storia Cluster** jedan svijet može raditi na više servera istovremeno, a igrači se kreću između njih bez ekrana za učitavanje.
+Fork Folije otvorenog koda za Minecraft 26.3. Uz **Storia Cluster** jedan svijet može raditi na više servera istovremeno, a igrači se kreću između njih bez ekrana za učitavanje.
 
 - **Storia Cluster**: jedan svijet dijeli više servera, a veze između njih su šifrovane
 - **Rezervni relay**: drugi relay čuva živu kopiju i preuzima posao ako se prvi izgubi
@@ -93,6 +95,10 @@ Bez registracije, besplatno, a linkovi nikad ne ističu.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---

@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: lista Minecraft servera",
   "sab_p": "Dodajte svoj Minecraft server na listu i pronađite ljude koji će igrati na njemu.\nKorisno i igračima koji traže server i vlasnicima koji ga žele promovisati.",
   "storia_t": "Storia: softver za velike Minecraft servere",
-  "storia_p": "Fork Folije otvorenog koda za Minecraft 26.2. Uz **Storia Cluster** jedan svijet može raditi na više servera istovremeno, a igrači se kreću između njih bez ekrana za učitavanje.",
+  "storia_p": "Fork Folije otvorenog koda za Minecraft 26.3. Uz **Storia Cluster** jedan svijet može raditi na više servera istovremeno, a igrači se kreću između njih bez ekrana za učitavanje.",
   "storia_points": [
     "**Storia Cluster**: jedan svijet dijeli više servera, a veze između njih su šifrovane",
     "**Rezervni relay**: drugi relay čuva živu kopiju i preuzima posao ako se prvi izgubi",
