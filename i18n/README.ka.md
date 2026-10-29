@@ -2,6 +2,8 @@
 
 <h1 align="center">გამარჯობა, მე ვარ AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   დამწყები დეველოპერი. ვმართავ სერვერის ჰოსტინგის სერვისს <b>ASHIKA Network</b> და Minecraft-ის სერვერების სიას <b>SABALISU</b>, ასევე ვქმნი Minecraft-ის სერვერის პროგრამას <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: სერვერის პროგრამა დიდი Minecraft სერვერებისთვის
 
-Folia-ზე დაფუძნებული ღია კოდის სერვერი Minecraft 26.2-ისთვის. **Storia Cluster**-ით ერთი სამყარო შეიძლება ერთდროულად რამდენიმე სერვერზე მუშაობდეს, მოთამაშეები კი მათ შორის ჩატვირთვის ეკრანის გარეშე გადაადგილდებიან.
+Folia-ზე დაფუძნებული ღია კოდის სერვერი Minecraft 26.3-ისთვის. **Storia Cluster**-ით ერთი სამყარო შეიძლება ერთდროულად რამდენიმე სერვერზე მუშაობდეს, მოთამაშეები კი მათ შორის ჩატვირთვის ეკრანის გარეშე გადაადგილდებიან.
 
 - **Storia Cluster**: ერთ სამყაროს რამდენიმე სერვერი იზიარებს, მათ შორის კავშირი დაშიფრულია
 - **სარეზერვო relay**: მეორე relay ინახავს ცოცხალ ასლს და პირველის დაკარგვის შემთხვევაში ანაცვლებს მას
@@ -93,6 +95,10 @@ Folia-ზე დაფუძნებული ღია კოდის სე�
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
