@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: uma lista de servidores de Minecraft",
   "sab_p": "Cadastre seu servidor de Minecraft e encontre gente para jogar nele.\nÚtil tanto para jogadores procurando servidor quanto para donos que querem divulgar o seu.",
   "storia_t": "Storia: software de servidor para grandes servidores de Minecraft",
-  "storia_p": "Um fork de código aberto do Folia para Minecraft 26.2. Com o **Storia Cluster**, um mesmo mundo pode rodar em vários servidores ao mesmo tempo, e os jogadores passam de um para outro sem tela de carregamento.",
+  "storia_p": "Um fork de código aberto do Folia para Minecraft 26.3. Com o **Storia Cluster**, um mesmo mundo pode rodar em vários servidores ao mesmo tempo, e os jogadores passam de um para outro sem tela de carregamento.",
   "storia_points": [
     "**Storia Cluster**: um mundo compartilhado por vários servidores, com conexões criptografadas entre eles",
     "**Relay reserva**: um segundo relay mantém uma cópia ao vivo e assume se o primeiro for perdido",
