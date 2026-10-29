@@ -2,6 +2,8 @@
 
 <h1 align="center">Manao ahoana, izaho no AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Mpamorona rindrambaiko vao manomboka. Mitantana ny tolotra fampiantranoana mpizara <b>ASHIKA Network</b> sy ny lisitry ny mpizara Minecraft <b>SABALISU</b> aho, ary mamorona ny rindrambaiko mpizara ho an'ny Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Mahasoa ho an'ny mpilalao mitady mpizara sy ny tompony te hampahafantatra ny azy
 
 ### Storia: rindrambaiko mpizara ho an'ny mpizara Minecraft lehibe
 
-Fork open-source an'ny Folia ho an'ny Minecraft 26.2. Amin'ny **Storia Cluster**, tontolo iray dia afaka mandeha amin'ny mpizara maromaro miaraka, ary mifindra eo amin'izy ireo ny mpilalao tsy misy efijery fampidirana.
+Fork open-source an'ny Folia ho an'ny Minecraft 26.3. Amin'ny **Storia Cluster**, tontolo iray dia afaka mandeha amin'ny mpizara maromaro miaraka, ary mifindra eo amin'izy ireo ny mpilalao tsy misy efijery fampidirana.
 
 - **Storia Cluster**: tontolo iray zarain'ny mpizara maromaro, misy fifandraisana voaaro amin'ny kriptografia
 - **Relay tahiry**: relay faharoa mitazona dika velona ary misolo ny voalohany raha very izy
@@ -93,6 +95,10 @@ Tsy mila misoratra anarana, maimaim-poana, ary tsy lany daty mihitsy ny rohy.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
