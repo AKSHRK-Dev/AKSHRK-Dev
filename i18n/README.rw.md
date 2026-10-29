@@ -2,6 +2,8 @@
 
 <h1 align="center">Muraho, ndi AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Ndi umukoze wa porogaramu ugitangira. Nyobora serivisi yo kwakira seriveri <b>ASHIKA Network</b> n'urutonde rwa seriveri za Minecraft <b>SABALISU</b>, kandi nkora porogaramu ya seriveri ya Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Ifasha abakinnyi bashaka seriveri ndetse na ba nyirazo bashaka kuyimenyekanisha.
 
 ### Storia: porogaramu ya seriveri ku seriveri nini za Minecraft
 
-Fork y'isoko ifunguye ya Folia ya Minecraft 26.2. Na **Storia Cluster**, isi imwe ishobora gukorera kuri seriveri nyinshi icyarimwe, kandi abakinnyi bimuka hagati yazo nta shusho yo gupakira.
+Fork y'isoko ifunguye ya Folia ya Minecraft 26.3. Na **Storia Cluster**, isi imwe ishobora gukorera kuri seriveri nyinshi icyarimwe, kandi abakinnyi bimuka hagati yazo nta shusho yo gupakira.
 
 - **Storia Cluster**: isi imwe isangiwe na seriveri nyinshi, ifite imiyoboro ihishe hagati yazo
 - **Relay y'inyongera**: relay ya kabiri ibika kopi nzima kandi isimbura iya mbere iyo ibuze
@@ -93,6 +95,10 @@ Nta kwiyandikisha, ni ubuntu, kandi amahuza ntarangira igihe.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
