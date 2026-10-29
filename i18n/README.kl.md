@@ -2,6 +2,8 @@
 
 <h1 align="center">Aluu, uanga AKSHRK-iuvunga</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Ineriartortitsisoq nutaaq. Serverinut inissiisarfik <b>ASHIKA Network</b> aamma Minecraft-imi serverit allattorsimaffiat <b>SABALISU</b> ingerlappakka, aamma Minecraft-imut server-imut programmi <b>Storia</b> suliaraara.
 </p>
@@ -58,7 +60,7 @@ Pinnguartunut serverimik ujartuisunut aamma serverimik pigisaqartunut nalunaarut
 
 ### Storia: Minecraft-imi serverinut angisuunut programmi
 
-Server ammasoq Folia tunngavigalugu Minecraft 26.2-mut sanaaq. **Storia Cluster** atorlugu silarsuaq ataaseq serverini arlalinni ataatsikkut ingerlasinnaavoq, pinnguartullu ikaarsaarnermi utaqqinngikkaluarlutik nuussinnaapput.
+Server ammasoq Folia tunngavigalugu Minecraft 26.3-mut sanaaq. **Storia Cluster** atorlugu silarsuaq ataaseq serverini arlalinni ataatsikkut ingerlasinnaavoq, pinnguartullu ikaarsaarnermi utaqqinngikkaluarlutik nuussinnaapput.
 
 - **Storia Cluster**: silarsuaq ataaseq serverinit arlalinnit avitseqatigiissutigineqarpoq, attaveqaatit isertuussaapput
 - **Relay taarsiutissaq**: relay aappaa assilisamik inuusumik toqqortaqarpoq, siulleq annaaneqarpat taarsissallugu
@@ -93,6 +95,10 @@ Nalunaarsortinnissaq pisariaqanngilaq, akeqanngilaq, aamma attaveqaatit atorunna
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
