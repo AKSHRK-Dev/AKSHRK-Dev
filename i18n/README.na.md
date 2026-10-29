@@ -2,6 +2,8 @@
 
 <h1 align="center">Ekamawir omo, ngage AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Developer ngea bain. Ngage ama tsimine server hosting service <b>ASHIKA Network</b> me Minecraft server list <b>SABALISU</b>, me ngage ama ruwiy Minecraft server software <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Ekamawir ñan ijeiten ngea ama ŋoŋ server me ijeiten ngea eyon a server.
 
 ### Storia: server software ñan Minecraft server ngea etsimo
 
-Open-source fork Folia ñan Minecraft 26.2. Me **Storia Cluster**, ion bwe world ama tsimine ion server ngabuen ion bwe atsin, me ijeiten ama eiy ion server ngabuen eoon loading screen.
+Open-source fork Folia ñan Minecraft 26.3. Me **Storia Cluster**, ion bwe world ama tsimine ion server ngabuen ion bwe atsin, me ijeiten ama eiy ion server ngabuen eoon loading screen.
 
 - **Storia Cluster**: ion bwe world ion server ngabuen, me encrypted connection
 - **Standby relay**: relay ion ama ŋoŋ copy me ama ruwiy relay iyo ngea etsimo
@@ -93,6 +95,10 @@ Eko registration, eko bin, me link ko eko ekabwo.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
