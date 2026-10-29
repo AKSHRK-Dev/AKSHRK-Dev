@@ -2,6 +2,8 @@
 
 <h1 align="center">Bongu, jien AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Żviluppatur li għadu jibda. Inħaddem is-servizz tal-hosting tas-servers <b>ASHIKA Network</b> u l-lista tas-servers tal-Minecraft <b>SABALISU</b>, u niżviluppa s-softwer tas-server tal-Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Utli kemm għal plejers li qed ifittxu server kif ukoll għal sidien li jridu ji
 
 ### Storia: softwer tas-server għal servers kbar tal-Minecraft
 
-Fork open-source ta' Folia għal Minecraft 26.2. Bi **Storia Cluster**, dinja waħda tista' taħdem fuq diversi servers fl-istess ħin, u l-plejers jgħaddu minn wieħed għall-ieħor mingħajr skrin tat-tagħbija.
+Fork open-source ta' Folia għal Minecraft 26.3. Bi **Storia Cluster**, dinja waħda tista' taħdem fuq diversi servers fl-istess ħin, u l-plejers jgħaddu minn wieħed għall-ieħor mingħajr skrin tat-tagħbija.
 
 - **Storia Cluster**: dinja waħda maqsuma bejn diversi servers, b'konnessjonijiet kriptati bejniethom
 - **Relay ta' riżerva**: relay ieħor iżomm kopja ħajja u jieħu f'idejh jekk jintilef l-ewwel wieħed
@@ -93,6 +95,10 @@ Mingħajr reġistrazzjoni, b'xejn, u l-links qatt ma jiskadu.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
