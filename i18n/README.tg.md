@@ -2,6 +2,8 @@
 
 <h1 align="center">Салом, ман AKSHRK ҳастам</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Барноманависи навкор. Ман хидмати хостинги сервер <b>ASHIKA Network</b> ва феҳристи серверҳои Minecraft <b>SABALISU</b>-ро идора мекунам ва нармафзори сервери Minecraft <b>Storia</b>-ро таҳия менамоям.
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: нармафзори сервер барои серверҳои калони Minecraft
 
-Сервери кушодаманбаъ дар асоси Folia барои Minecraft 26.2. Бо **Storia Cluster** як ҷаҳон метавонад дар якчанд сервер ҳамзамон кор кунад ва бозингарон бе экрани боргирӣ байни онҳо гузаранд.
+Сервери кушодаманбаъ дар асоси Folia барои Minecraft 26.3. Бо **Storia Cluster** як ҷаҳон метавонад дар якчанд сервер ҳамзамон кор кунад ва бозингарон бе экрани боргирӣ байни онҳо гузаранд.
 
 - **Storia Cluster**: як ҷаҳонро якчанд сервер тақсим мекунанд, пайвасти байни онҳо рамзгузорӣ шудааст
 - **Relay-и захиравӣ**: relay-и дуюм нусхаи зиндаро нигоҳ медорад ва агар аввалӣ аз даст равад, ҷои онро мегирад
@@ -93,6 +95,10 @@ URL-ҳои дарозро кӯтоҳ мекунад.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
