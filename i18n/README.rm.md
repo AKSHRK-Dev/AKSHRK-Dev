@@ -2,6 +2,8 @@
 
 <h1 align="center">Allegra, jau sun AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   In sviluppader principiant. Jau main il servetsch da hosting da servers <b>ASHIKA Network</b> e la glista da servers da Minecraft <b>SABALISU</b>, e sviluppesch la software da server per Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Nizzaivel per giugaders che tschertgan in server ed er per possessurs che vulan 
 
 ### Storia: software da server per gronds servers da Minecraft
 
-Ina derivanza open source da Folia per Minecraft 26.2. Cun **Storia Cluster** po in mund currer sin plirs servers a medem temp, ed ils giugaders midan tranter els senza visur da chargiar.
+Ina derivanza open source da Folia per Minecraft 26.3. Cun **Storia Cluster** po in mund currer sin plirs servers a medem temp, ed ils giugaders midan tranter els senza visur da chargiar.
 
 - **Storia Cluster**: in mund partì da plirs servers, cun colliaziuns criptadas tranter els
 - **Relay da reserva**: in segund relay tegna ina copia actuala e surpiglia, sch'il emprim va a perder
@@ -93,6 +95,10 @@ Senza registraziun, gratuit, e las colliaziuns na scadan mai.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
