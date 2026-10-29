@@ -2,6 +2,8 @@
 
 <h1 align="center">Ciao, sono AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Uno sviluppatore alle prime armi. Gestisco il servizio di hosting di server <b>ASHIKA Network</b> e la lista di server Minecraft <b>SABALISU</b>, e sviluppo il software per server Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Utile sia ai giocatori in cerca di un server sia ai proprietari che vogliono far
 
 ### Storia: software per grandi server Minecraft
 
-Un fork open source di Folia per Minecraft 26.2. Con **Storia Cluster** un unico mondo può girare su più server contemporaneamente, e i giocatori passano dall'uno all'altro senza schermata di caricamento.
+Un fork open source di Folia per Minecraft 26.3. Con **Storia Cluster** un unico mondo può girare su più server contemporaneamente, e i giocatori passano dall'uno all'altro senza schermata di caricamento.
 
 - **Storia Cluster**: un mondo condiviso da più server, con collegamenti cifrati tra loro
 - **Relay di riserva**: un secondo relay mantiene una copia in tempo reale e subentra se il primo va perso
@@ -93,6 +95,10 @@ Senza registrazione, gratis, e i link non scadono mai.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
