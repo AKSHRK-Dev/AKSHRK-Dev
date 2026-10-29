@@ -2,6 +2,8 @@
 
 <h1 align="center">Dumela, ke nna AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Ke moetsi wa mananeo ya qalang. Ke tsamaisa tshebeletso ya ho amohela diseva <b>ASHIKA Network</b> le lenane la diseva tsa Minecraft <b>SABALISU</b>, mme ke etsa lenaneo la seva ya Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ E thusa dibapadi tse batlang seva le beng ba batlang ho tsebahatsa ya bona.
 
 ### Storia: lenaneo la seva bakeng sa diseva tse kgolo tsa Minecraft
 
-Fork ya mohlodi o bulehileng ya Folia bakeng sa Minecraft 26.2. Ka **Storia Cluster**, lefatshe le le leng le ka sebetsa diseveng tse mmalwa ka nako e le nngwe, mme dibapadi di falla pakeng tsa tsona ntle le skrine ya ho kenya.
+Fork ya mohlodi o bulehileng ya Folia bakeng sa Minecraft 26.3. Ka **Storia Cluster**, lefatshe le le leng le ka sebetsa diseveng tse mmalwa ka nako e le nngwe, mme dibapadi di falla pakeng tsa tsona ntle le skrine ya ho kenya.
 
 - **Storia Cluster**: lefatshe le le leng le arolelanwang ke diseva tse mmalwa, ka dikgokahano tse patilweng
 - **Relay ya polokelo**: relay ya bobedi e boloka kopi e phelang mme e nka sebaka sa ya pele ha e lahlehile
@@ -93,6 +95,10 @@ Ha ho hlokehe ho ingodisa, ke mahala, mme dikgokahano ha di fele nako.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
