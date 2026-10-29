@@ -2,6 +2,8 @@
 
 <h1 align="center">Oi, N é AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Un programador ki sta kumesa. N ta djiri sirvisu di ospedaji di sirvidor <b>ASHIKA Network</b> i lista di sirvidor di Minecraft <b>SABALISU</b>, i N ta dizenvolve software di sirvidor pa Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Poi bu sirvidor di Minecraft na lista i atxa algen pa jóga nel.
 
 ### Storia: software di sirvidor pa sirvidor grandi di Minecraft
 
-Un fork di kódigu abertu di Folia pa Minecraft 26.2. Ku **Storia Cluster**, un mundu ta podi roda na txeu sirvidor na mésmu ténpu, i jogador ta pasa di un pa otu sen ekran di karegamentu.
+Un fork di kódigu abertu di Folia pa Minecraft 26.3. Ku **Storia Cluster**, un mundu ta podi roda na txeu sirvidor na mésmu ténpu, i jogador ta pasa di un pa otu sen ekran di karegamentu.
 
 - **Storia Cluster**: un mundu partilhadu pa txeu sirvidor, ku ligason kriptografadu entri es
 - **Relay di rezerva**: un sugundu relay ta guarda un kópia na diretu i ta toma kónta si purmeru perde
@@ -93,6 +95,10 @@ Sen rejistu, di grasa, i link ka ta spira nunka.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
