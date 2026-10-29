@@ -2,6 +2,8 @@
 
 <h1 align="center">Hej, jeg er AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   En nybegynder inden for udvikling. Jeg driver hostingtjenesten <b>ASHIKA Network</b> og Minecraft-serverlisten <b>SABALISU</b>, og udvikler Minecraft-serversoftwaren <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Praktisk både for spillere, der leder efter en server, og for ejere, der vil pr
 
 ### Storia: serversoftware til store Minecraft-servere
 
-En open source-fork af Folia til Minecraft 26.2. Med **Storia Cluster** kan én verden køre på flere servere på én gang, og spillere flytter mellem dem uden indlæsningsskærm.
+En open source-fork af Folia til Minecraft 26.3. Med **Storia Cluster** kan én verden køre på flere servere på én gang, og spillere flytter mellem dem uden indlæsningsskærm.
 
 - **Storia Cluster**: én verden delt af flere servere med krypterede forbindelser imellem
 - **Reserve-relay**: et andet relay holder en levende kopi og overtager, hvis det første går tabt
@@ -93,6 +95,10 @@ Ingen tilmelding, gratis, og links udløber aldrig.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
