@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: një listë serverësh të Minecraft",
   "sab_p": "Shto serverin tënd të Minecraft në listë dhe gjej njerëz që të luajnë në të.\nE dobishme si për lojtarët që kërkojnë server, ashtu edhe për pronarët që duan ta promovojnë të tyrin.",
   "storia_t": "Storia: softuer serveri për serverë të mëdhenj të Minecraft",
-  "storia_p": "Një fork me burim të hapur i Folia-s për Minecraft 26.2. Me **Storia Cluster**, një botë mund të funksionojë në disa serverë njëkohësisht, dhe lojtarët kalojnë mes tyre pa ekran ngarkimi.",
+  "storia_p": "Një fork me burim të hapur i Folia-s për Minecraft 26.3. Me **Storia Cluster**, një botë mund të funksionojë në disa serverë njëkohësisht, dhe lojtarët kalojnë mes tyre pa ekran ngarkimi.",
   "storia_points": [
     "**Storia Cluster**: një botë e ndarë nga disa serverë, me lidhje të koduara mes tyre",
     "**Relay rezervë**: një relay i dytë mban një kopje të gjallë dhe merr përsipër nëse i pari humbet",
