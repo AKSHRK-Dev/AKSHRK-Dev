@@ -17,7 +17,7 @@
   "sab_t": "SABALISU: listahan ng mga Minecraft server",
   "sab_p": "Ilista ang iyong Minecraft server at maghanap ng mga taong makakalaro rito.\nKapaki-pakinabang para sa mga manlalarong naghahanap ng server at sa mga may-ari na gustong i-promote ang kanila.",
   "storia_t": "Storia: server software para sa malalaking Minecraft server",
-  "storia_p": "Isang open-source na fork ng Folia para sa Minecraft 26.2. Sa **Storia Cluster**, ang isang mundo ay maaaring tumakbo sa ilang server nang sabay-sabay, at nakalilipat ang mga manlalaro sa pagitan nila nang walang loading screen.",
+  "storia_p": "Isang open-source na fork ng Folia para sa Minecraft 26.3. Sa **Storia Cluster**, ang isang mundo ay maaaring tumakbo sa ilang server nang sabay-sabay, at nakalilipat ang mga manlalaro sa pagitan nila nang walang loading screen.",
   "storia_points": [
     "**Storia Cluster**: isang mundong pinaghahatian ng ilang server, na may naka-encrypt na koneksiyon sa pagitan nila",
     "**Standby relay**: may pangalawang relay na nag-iingat ng kopya at pumapalit kapag nawala ang una",
