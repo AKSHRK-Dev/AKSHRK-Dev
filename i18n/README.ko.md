@@ -2,6 +2,8 @@
 
 <h1 align="center">안녕하세요, AKSHRK입니다</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   초보 개발자입니다. 서버 호스팅 서비스 <b>ASHIKA Network</b>와 마인크래프트 서버 목록 사이트 <b>SABALISU</b>를 운영하고, 마인크래프트 서버 소프트웨어 <b>Storia</b>를 개발하고 있습니다.
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia: 대규모 마인크래프트 서버를 위한 서버 소프트웨어
 
-Minecraft 26.2에 대응하는, Folia 기반의 오픈 소스 서버입니다. **Storia Cluster**를 사용하면 하나의 월드를 여러 서버가 나누어 동시에 실행하고, 플레이어는 로딩 화면 없이 서버 사이를 이동할 수 있습니다.
+Minecraft 26.3에 대응하는, Folia 기반의 오픈 소스 서버입니다. **Storia Cluster**를 사용하면 하나의 월드를 여러 서버가 나누어 동시에 실행하고, 플레이어는 로딩 화면 없이 서버 사이를 이동할 수 있습니다.
 
 - **Storia Cluster**: 하나의 월드를 여러 서버가 공유하며, 서버 간 통신은 암호화됩니다
 - **예비 릴레이**: 두 번째 릴레이가 실시간으로 복사본을 유지하고, 첫 번째가 망가지면 이어받습니다
@@ -93,6 +95,10 @@ Minecraft 26.2에 대응하는, Folia 기반의 오픈 소스 서버입니다. *
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
