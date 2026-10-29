@@ -2,6 +2,8 @@
 
 <h1 align="center">こんにちは、AKSHRK です</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   駆け出しの Developer / サーバーホスティング <b>ASHIKA Network</b> と Minecraft サーバー掲載サイト <b>SABALISU</b> を運営し、Minecraft サーバーソフトウェア <b>Storia</b> を開発しています。
 </p>
@@ -58,7 +60,7 @@
 
 ### Storia — 大規模な Minecraft サーバーのためのサーバーソフトウェア
 
-Minecraft 26.2 に対応した、Folia をもとにしたオープンソースのサーバーです。**Storia Cluster** を使うと、1 つのワールドを複数のサーバーで分担して動かせて、プレイヤーは読み込み画面なしでサーバー間を移動できます。
+Minecraft 26.3 に対応した、Folia をもとにしたオープンソースのサーバーです。**Storia Cluster** を使うと、1 つのワールドを複数のサーバーで分担して動かせて、プレイヤーは読み込み画面なしでサーバー間を移動できます。
 
 - **Storia Cluster**：1 つのワールドを複数のサーバーで共有。サーバー間の通信は暗号化
 - **予備の Relay**：2 台目の Relay がその場で写し続け、1 台目が壊れても引き継ぐ
@@ -93,6 +95,10 @@ Minecraft 26.2 に対応した、Folia をもとにしたオープンソース�
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
