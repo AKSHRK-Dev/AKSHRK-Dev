@@ -2,6 +2,8 @@
 
 <h1 align="center">Bonzour, mwan AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   En devlopper ki pe konmans. Mon zer servis hosting server <b>ASHIKA Network</b> ek lalis server Minecraft <b>SABALISU</b>, e mon devlop lozisyel server Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Itil pour bann zwer ki pe rod en server ek pour bann proprieter ki anvi fer pibl
 
 ### Storia: lozisyel server pour gro server Minecraft
 
-En fork sours ouver Folia pour Minecraft 26.2. Avek **Storia Cluster**, en sel lemonn i kapab marse lo plizyer server an mem tan, e bann zwer i pas dan zot ant zot san ekran sarzman.
+En fork sours ouver Folia pour Minecraft 26.3. Avek **Storia Cluster**, en sel lemonn i kapab marse lo plizyer server an mem tan, e bann zwer i pas dan zot ant zot san ekran sarzman.
 
 - **Storia Cluster**: en lemonn ki plizyer server i partaze, avek koneksyon ankripte ant zot
 - **Relay rezerv**: en dezyenm relay i gard en kopi an direk e i pran plas premye si i perdi
@@ -93,6 +95,10 @@ Pa bezwen enskri, i gratis, e bann lyen pa zanmen expire.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
