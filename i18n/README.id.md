@@ -2,6 +2,8 @@
 
 <h1 align="center">Halo, saya AKSHRK</h1>
 
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
+
 <p align="center">
   Seorang developer pemula. Saya mengelola layanan hosting server <b>ASHIKA Network</b> dan daftar server Minecraft <b>SABALISU</b>, serta mengembangkan perangkat lunak server Minecraft <b>Storia</b>.
 </p>
@@ -58,7 +60,7 @@ Berguna bagi pemain yang mencari server maupun pemilik yang ingin mempromosikan 
 
 ### Storia: perangkat lunak server untuk server Minecraft berskala besar
 
-Fork sumber terbuka dari Folia untuk Minecraft 26.2. Dengan **Storia Cluster**, satu dunia dapat berjalan di beberapa server sekaligus, dan pemain berpindah antarserver tanpa layar pemuatan.
+Fork sumber terbuka dari Folia untuk Minecraft 26.3. Dengan **Storia Cluster**, satu dunia dapat berjalan di beberapa server sekaligus, dan pemain berpindah antarserver tanpa layar pemuatan.
 
 - **Storia Cluster**: satu dunia dibagi oleh beberapa server, dengan koneksi terenkripsi di antara mereka
 - **Relay cadangan**: relay kedua menyimpan salinan langsung dan mengambil alih jika yang pertama hilang
@@ -93,6 +95,10 @@ Tanpa daftar, gratis, dan tautan tidak pernah kedaluwarsa.
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="../assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
