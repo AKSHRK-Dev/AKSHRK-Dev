@@ -1,0 +1,32 @@
+name: Trophy
+
+# The public github-profile-trophy service is switched off, so the trophy image is drawn here,
+# once a day, with the project's own action, and kept in assets/trophy.svg.
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Draw the trophy
+        uses: ryo-ma/github-profile-trophy@43736b50a82fca73c8df1c81abb40aa03519975c
+        with:
+          username: AKSHRK-Dev
+          output_path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: flat
+      - name: Save it if it changed
+        run: |
+          git add assets/trophy.svg
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update the trophy"
+          git push

@@ -39,8 +39,11 @@ def lang_bar(code, n, s):
 def readme(code, n):
     s = load(code)
     rtl = LANGS[code][3]
+    up = "../" if "/" in path_of(code) else ""
     bullets = lambda items: "\n".join(f"- {x}" for x in items)
     body = f"""<h1 align="center">{s['hi']}</h1>
+
+<p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
 
 <p align="center">
   {s['intro']}
@@ -124,6 +127,10 @@ def readme(code, n):
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKSHRK-Dev&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHRK-Dev&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="left">
+  <img src="{up}assets/trophy.svg" alt="GitHub Trophies">
 </p>
 
 ---
