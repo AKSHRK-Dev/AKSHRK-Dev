@@ -107,7 +107,7 @@ No sign-up, free, and links never expire.
 
 - AFK Network Discord: https://discord.gg/q8TbzdRfsV
 - SABALISU Discord: https://discord.gg/KucQxEsJtr
-- Mail: admin@minecrafts.jp
+- Mail: admin@ashikanw.com
 
 <p align="center">
   <sub>Anything is welcome!</sub>
