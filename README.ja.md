@@ -1,6 +1,6 @@
 <p align="center"><a href="README.md">English</a> · <b>日本語</b> · <a href="LANGUAGES.md">全 108 言語</a></p>
 
-<h1 align="center">こんにちは、AKSHRK です</h1>
+<h1 align="center">こんにちは、AKSHRK です！</h1>
 
 <p align="center"><img src="https://img.shields.io/badge/CEO-ASHIKA%20Network-14497E?style=flat-square" alt="CEO, ASHIKA Network"></p>
 
